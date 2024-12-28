@@ -1,0 +1,1927 @@
+cell    bio_celltype
+Cell1	Acinar cells
+Cell10	Ductal - terminal ductal like
+Cell100	Ductal - MHC Class II
+Cell1000	Ductal - MHC Class II
+Cell1001	mDCs B
+Cell1002	Ductal - MHC Class II
+Cell1003	Ductal - CRISP3 high/centroacinar like
+Cell1004	Ductal - CRISP3 high/centroacinar like
+Cell1005	Ductal - CRISP3 high/centroacinar like
+Cell1006	Ductal - terminal ductal like
+Cell1007	Cancer clone B
+Cell1008	Cancer clone A
+Cell1009	Cancer clone B
+Cell101	Ductal - CRISP3 high/centroacinar like
+Cell1010	Ductal - CRISP3 high/centroacinar like
+Cell1011	Ductal - CRISP3 high/centroacinar like
+Cell1012	Ductal - APOL high/hypoxic
+Cell1013	Ductal - MHC Class II
+Cell1014	Cancer clone A
+Cell1015	mDCs A
+Cell1016	Ductal - CRISP3 high/centroacinar like
+Cell1017	mDCs B
+Cell1018	Cancer clone B
+Cell1019	Macrophages B
+Cell102	mDCs A
+Cell1020	Ductal - terminal ductal like
+Cell1021	Ductal - APOL high/hypoxic
+Cell1022	Macrophages B
+Cell1023	Ductal - CRISP3 high/centroacinar like
+Cell1024	Ductal - CRISP3 high/centroacinar like
+Cell1025	Ductal - CRISP3 high/centroacinar like
+Cell1026	Cancer clone B
+Cell1027	Ductal - terminal ductal like
+Cell1028	Ductal - terminal ductal like
+Cell1029	Ductal - terminal ductal like
+Cell103	Ductal - CRISP3 high/centroacinar like
+Cell1030	Cancer clone B
+Cell1031	Cancer clone B
+Cell1032	Ductal - terminal ductal like
+Cell1033	Ductal - APOL high/hypoxic
+Cell1034	Macrophages B
+Cell1035	T cells & NK cells
+Cell1036	Tuft cells
+Cell1037	Ductal - MHC Class II
+Cell1038	Ductal - CRISP3 high/centroacinar like
+Cell1039	Ductal - APOL high/hypoxic
+Cell104	Ductal - APOL high/hypoxic
+Cell1040	Cancer clone B
+Cell1041	Endocrine cells
+Cell1042	Cancer clone B
+Cell1043	Ductal - APOL high/hypoxic
+Cell1044	Ductal - terminal ductal like
+Cell1045	Tuft cells
+Cell1046	Ductal - MHC Class II
+Cell1047	Ductal - APOL high/hypoxic
+Cell1048	Cancer clone B
+Cell1049	Ductal - CRISP3 high/centroacinar like
+Cell105	Ductal - terminal ductal like
+Cell1050	pDCs
+Cell1051	mDCs B
+Cell1052	Ductal - terminal ductal like
+Cell1053	Ductal - CRISP3 high/centroacinar like
+Cell1054	Ductal - MHC Class II
+Cell1055	Macrophages A
+Cell1056	Ductal - CRISP3 high/centroacinar like
+Cell1057	Ductal - terminal ductal like
+Cell1058	Cancer clone B
+Cell1059	Ductal - CRISP3 high/centroacinar like
+Cell106	Cancer clone B
+Cell1060	Ductal - APOL high/hypoxic
+Cell1061	Ductal - terminal ductal like
+Cell1062	Ductal - APOL high/hypoxic
+Cell1063	Ductal - CRISP3 high/centroacinar like
+Cell1064	Ductal - CRISP3 high/centroacinar like
+Cell1065	Monocytes
+Cell1066	Ductal - CRISP3 high/centroacinar like
+Cell1067	Ductal - CRISP3 high/centroacinar like
+Cell1068	Ductal - MHC Class II
+Cell1069	Ductal - terminal ductal like
+Cell107	Ductal - CRISP3 high/centroacinar like
+Cell1070	Ductal - CRISP3 high/centroacinar like
+Cell1071	Ductal - CRISP3 high/centroacinar like
+Cell1072	Ductal - CRISP3 high/centroacinar like
+Cell1073	Monocytes
+Cell1074	Ductal - terminal ductal like
+Cell1075	Cancer clone A
+Cell1076	Ductal - MHC Class II
+Cell1077	RBCs
+Cell1078	Acinar cells
+Cell1079	RBCs
+Cell108	Ductal - CRISP3 high/centroacinar like
+Cell1080	Ductal - CRISP3 high/centroacinar like
+Cell1081	Ductal - CRISP3 high/centroacinar like
+Cell1082	Ductal - CRISP3 high/centroacinar like
+Cell1083	Cancer clone A
+Cell1084	Ductal - MHC Class II
+Cell1085	Ductal - CRISP3 high/centroacinar like
+Cell1086	Ductal - terminal ductal like
+Cell1087	Ductal - terminal ductal like
+Cell1088	Ductal - terminal ductal like
+Cell1089	Ductal - CRISP3 high/centroacinar like
+Cell109	Ductal - CRISP3 high/centroacinar like
+Cell1090	Ductal - APOL high/hypoxic
+Cell1091	Ductal - MHC Class II
+Cell1092	Cancer clone B
+Cell1093	Cancer clone B
+Cell1094	Ductal - terminal ductal like
+Cell1095	Ductal - MHC Class II
+Cell1096	Ductal - CRISP3 high/centroacinar like
+Cell1097	Ductal - APOL high/hypoxic
+Cell1098	Ductal - terminal ductal like
+Cell1099	Ductal - terminal ductal like
+Cell11	Ductal - terminal ductal like
+Cell110	Ductal - MHC Class II
+Cell1100	Ductal - APOL high/hypoxic
+Cell1101	Ductal - terminal ductal like
+Cell1102	Ductal - terminal ductal like
+Cell1103	Ductal - MHC Class II
+Cell1104	Cancer clone A
+Cell1105	Ductal - CRISP3 high/centroacinar like
+Cell1106	Ductal - CRISP3 high/centroacinar like
+Cell1107	Ductal - APOL high/hypoxic
+Cell1108	Ductal - CRISP3 high/centroacinar like
+Cell1109	mDCs B
+Cell111	Ductal - MHC Class II
+Cell1110	Cancer clone A
+Cell1111	mDCs B
+Cell1112	Cancer clone B
+Cell1113	pDCs
+Cell1114	Ductal - MHC Class II
+Cell1115	Ductal - CRISP3 high/centroacinar like
+Cell1116	Ductal - terminal ductal like
+Cell1117	Ductal - APOL high/hypoxic
+Cell1118	Ductal - CRISP3 high/centroacinar like
+Cell1119	Ductal - terminal ductal like
+Cell112	Ductal - MHC Class II
+Cell1120	Ductal - MHC Class II
+Cell1121	Ductal - CRISP3 high/centroacinar like
+Cell1122	Ductal - APOL high/hypoxic
+Cell1123	Ductal - MHC Class II
+Cell1124	Ductal - MHC Class II
+Cell1125	Ductal - MHC Class II
+Cell1126	Ductal - CRISP3 high/centroacinar like
+Cell1127	Cancer clone A
+Cell1128	Ductal - terminal ductal like
+Cell1129	Ductal - APOL high/hypoxic
+Cell113	Ductal - CRISP3 high/centroacinar like
+Cell1130	Ductal - terminal ductal like
+Cell1131	Ductal - terminal ductal like
+Cell1132	Cancer clone B
+Cell1133	Ductal - CRISP3 high/centroacinar like
+Cell1134	Tuft cells
+Cell1135	Cancer clone A
+Cell1136	Ductal - CRISP3 high/centroacinar like
+Cell1137	Ductal - terminal ductal like
+Cell1138	Ductal - MHC Class II
+Cell1139	Ductal - terminal ductal like
+Cell114	Ductal - CRISP3 high/centroacinar like
+Cell1140	Cancer clone B
+Cell1141	Acinar cells
+Cell1142	Cancer clone A
+Cell1143	Ductal - CRISP3 high/centroacinar like
+Cell1144	Ductal - MHC Class II
+Cell1145	Cancer clone A
+Cell1146	Ductal - terminal ductal like
+Cell1147	Ductal - APOL high/hypoxic
+Cell1148	Cancer clone A
+Cell1149	Cancer clone B
+Cell115	Ductal - CRISP3 high/centroacinar like
+Cell1150	Ductal - terminal ductal like
+Cell1151	Ductal - CRISP3 high/centroacinar like
+Cell1152	Ductal - CRISP3 high/centroacinar like
+Cell1153	mDCs B
+Cell1154	Ductal - APOL high/hypoxic
+Cell1155	Cancer clone B
+Cell1156	Cancer clone A
+Cell1157	Ductal - CRISP3 high/centroacinar like
+Cell1158	Ductal - terminal ductal like
+Cell1159	Ductal - terminal ductal like
+Cell116	Ductal - MHC Class II
+Cell1160	Ductal - APOL high/hypoxic
+Cell1161	Ductal - CRISP3 high/centroacinar like
+Cell1162	Ductal - APOL high/hypoxic
+Cell1163	Ductal - CRISP3 high/centroacinar like
+Cell1164	Ductal - CRISP3 high/centroacinar like
+Cell1165	Cancer clone B
+Cell1166	Ductal - APOL high/hypoxic
+Cell1167	Ductal - CRISP3 high/centroacinar like
+Cell1168	Ductal - MHC Class II
+Cell1169	Ductal - CRISP3 high/centroacinar like
+Cell117	Ductal - MHC Class II
+Cell1170	Ductal - MHC Class II
+Cell1171	Ductal - terminal ductal like
+Cell1172	Ductal - MHC Class II
+Cell1173	Ductal - terminal ductal like
+Cell1174	Ductal - APOL high/hypoxic
+Cell1175	Ductal - MHC Class II
+Cell1176	Cancer clone A
+Cell1177	Ductal - terminal ductal like
+Cell1178	Ductal - MHC Class II
+Cell1179	Ductal - APOL high/hypoxic
+Cell118	Ductal - CRISP3 high/centroacinar like
+Cell1180	Cancer clone B
+Cell1181	Ductal - CRISP3 high/centroacinar like
+Cell1182	Ductal - MHC Class II
+Cell1183	Ductal - terminal ductal like
+Cell1184	Ductal - CRISP3 high/centroacinar like
+Cell1185	Ductal - MHC Class II
+Cell1186	Ductal - terminal ductal like
+Cell1187	Ductal - terminal ductal like
+Cell1188	Ductal - MHC Class II
+Cell1189	Ductal - MHC Class II
+Cell119	Ductal - APOL high/hypoxic
+Cell1190	Ductal - MHC Class II
+Cell1191	Ductal - MHC Class II
+Cell1192	Ductal - terminal ductal like
+Cell1193	Cancer clone B
+Cell1194	Ductal - terminal ductal like
+Cell1195	Ductal - APOL high/hypoxic
+Cell1196	Ductal - terminal ductal like
+Cell1197	Ductal - CRISP3 high/centroacinar like
+Cell1198	Ductal - MHC Class II
+Cell1199	Ductal - APOL high/hypoxic
+Cell12	Cancer clone B
+Cell120	Ductal - MHC Class II
+Cell1200	Cancer clone B
+Cell1201	Ductal - APOL high/hypoxic
+Cell1202	Ductal - MHC Class II
+Cell1203	Ductal - terminal ductal like
+Cell1204	Ductal - terminal ductal like
+Cell1205	Ductal - MHC Class II
+Cell1206	Cancer clone A
+Cell1207	Ductal - CRISP3 high/centroacinar like
+Cell1208	Ductal - CRISP3 high/centroacinar like
+Cell1209	Ductal - CRISP3 high/centroacinar like
+Cell121	Ductal - MHC Class II
+Cell1210	Ductal - APOL high/hypoxic
+Cell1211	Ductal - CRISP3 high/centroacinar like
+Cell1212	Ductal - CRISP3 high/centroacinar like
+Cell1213	Ductal - APOL high/hypoxic
+Cell1214	Ductal - CRISP3 high/centroacinar like
+Cell1215	Ductal - APOL high/hypoxic
+Cell1216	Ductal - terminal ductal like
+Cell1217	Ductal - CRISP3 high/centroacinar like
+Cell1218	Ductal - MHC Class II
+Cell1219	Ductal - CRISP3 high/centroacinar like
+Cell122	Ductal - CRISP3 high/centroacinar like
+Cell1220	Monocytes
+Cell1221	Ductal - APOL high/hypoxic
+Cell1222	Cancer clone B
+Cell1223	Ductal - CRISP3 high/centroacinar like
+Cell1224	Tuft cells
+Cell1225	Macrophages A
+Cell1226	Ductal - terminal ductal like
+Cell1227	Ductal - CRISP3 high/centroacinar like
+Cell1228	Macrophages B
+Cell1229	T cells & NK cells
+Cell123	Ductal - terminal ductal like
+Cell1230	Ductal - terminal ductal like
+Cell1231	Ductal - CRISP3 high/centroacinar like
+Cell1232	Cancer clone B
+Cell1233	Ductal - CRISP3 high/centroacinar like
+Cell1234	Ductal - terminal ductal like
+Cell1235	Ductal - CRISP3 high/centroacinar like
+Cell1236	Ductal - MHC Class II
+Cell1237	Ductal - CRISP3 high/centroacinar like
+Cell1238	Cancer clone B
+Cell1239	Ductal - MHC Class II
+Cell124	Ductal - APOL high/hypoxic
+Cell1240	Cancer clone B
+Cell1241	Ductal - CRISP3 high/centroacinar like
+Cell1242	Tuft cells
+Cell1243	Ductal - terminal ductal like
+Cell1244	Endothelial cells
+Cell1245	Ductal - terminal ductal like
+Cell1246	Ductal - APOL high/hypoxic
+Cell1247	Ductal - terminal ductal like
+Cell1248	Ductal - terminal ductal like
+Cell1249	Ductal - CRISP3 high/centroacinar like
+Cell125	Ductal - APOL high/hypoxic
+Cell1250	Ductal - APOL high/hypoxic
+Cell1251	Ductal - terminal ductal like
+Cell1252	Ductal - MHC Class II
+Cell1253	Ductal - CRISP3 high/centroacinar like
+Cell1254	Ductal - APOL high/hypoxic
+Cell1255	Ductal - MHC Class II
+Cell1256	Ductal - terminal ductal like
+Cell1257	Ductal - APOL high/hypoxic
+Cell1258	mDCs B
+Cell1259	Ductal - APOL high/hypoxic
+Cell126	Macrophages A
+Cell1260	Ductal - CRISP3 high/centroacinar like
+Cell1261	Ductal - CRISP3 high/centroacinar like
+Cell1262	Ductal - terminal ductal like
+Cell1263	Ductal - MHC Class II
+Cell1264	Cancer clone B
+Cell1265	Cancer clone B
+Cell1266	Cancer clone B
+Cell1267	Ductal - terminal ductal like
+Cell1268	Ductal - MHC Class II
+Cell1269	Ductal - terminal ductal like
+Cell127	mDCs B
+Cell1270	Ductal - CRISP3 high/centroacinar like
+Cell1271	Macrophages B
+Cell1272	Ductal - CRISP3 high/centroacinar like
+Cell1273	Ductal - CRISP3 high/centroacinar like
+Cell1274	Cancer clone A
+Cell1275	Cancer clone A
+Cell1276	Ductal - CRISP3 high/centroacinar like
+Cell1277	Ductal - MHC Class II
+Cell1278	Ductal - CRISP3 high/centroacinar like
+Cell1279	Ductal - CRISP3 high/centroacinar like
+Cell128	Cancer clone B
+Cell1280	Ductal - CRISP3 high/centroacinar like
+Cell1281	Ductal - MHC Class II
+Cell1282	Ductal - CRISP3 high/centroacinar like
+Cell1283	Cancer clone B
+Cell1284	Tuft cells
+Cell1285	Ductal - MHC Class II
+Cell1286	Cancer clone A
+Cell1287	Ductal - terminal ductal like
+Cell1288	Ductal - MHC Class II
+Cell1289	Ductal - CRISP3 high/centroacinar like
+Cell129	Ductal - MHC Class II
+Cell1290	Ductal - terminal ductal like
+Cell1291	Ductal - terminal ductal like
+Cell1292	Ductal - CRISP3 high/centroacinar like
+Cell1293	Ductal - APOL high/hypoxic
+Cell1294	Ductal - CRISP3 high/centroacinar like
+Cell1295	Ductal - terminal ductal like
+Cell1296	Cancer clone B
+Cell1297	Ductal - terminal ductal like
+Cell1298	Ductal - CRISP3 high/centroacinar like
+Cell1299	Cancer clone A
+Cell13	Ductal - CRISP3 high/centroacinar like
+Cell130	Ductal - CRISP3 high/centroacinar like
+Cell1300	Ductal - CRISP3 high/centroacinar like
+Cell1301	Ductal - MHC Class II
+Cell1302	T cells & NK cells
+Cell1303	Ductal - CRISP3 high/centroacinar like
+Cell1304	Ductal - CRISP3 high/centroacinar like
+Cell1305	T cells & NK cells
+Cell1306	Cancer clone B
+Cell1307	Macrophages B
+Cell1308	Ductal - CRISP3 high/centroacinar like
+Cell1309	Cancer clone B
+Cell131	Ductal - MHC Class II
+Cell1310	Cancer clone B
+Cell1311	Ductal - CRISP3 high/centroacinar like
+Cell1312	Ductal - APOL high/hypoxic
+Cell1313	Tuft cells
+Cell1314	Ductal - CRISP3 high/centroacinar like
+Cell1315	Ductal - CRISP3 high/centroacinar like
+Cell1316	mDCs B
+Cell1317	Ductal - APOL high/hypoxic
+Cell1318	Ductal - MHC Class II
+Cell1319	T cells & NK cells
+Cell132	Ductal - CRISP3 high/centroacinar like
+Cell1320	Ductal - terminal ductal like
+Cell1321	Ductal - CRISP3 high/centroacinar like
+Cell1322	Ductal - CRISP3 high/centroacinar like
+Cell1323	Ductal - terminal ductal like
+Cell1324	Cancer clone B
+Cell1325	Cancer clone A
+Cell1326	Ductal - CRISP3 high/centroacinar like
+Cell1327	Cancer clone A
+Cell1328	Ductal - APOL high/hypoxic
+Cell1329	Ductal - CRISP3 high/centroacinar like
+Cell133	Ductal - terminal ductal like
+Cell1330	Ductal - CRISP3 high/centroacinar like
+Cell1331	Cancer clone B
+Cell1332	Ductal - terminal ductal like
+Cell1333	Cancer clone B
+Cell1334	Cancer clone A
+Cell1335	Ductal - CRISP3 high/centroacinar like
+Cell1336	Tuft cells
+Cell1337	Ductal - MHC Class II
+Cell1338	Cancer clone B
+Cell1339	Ductal - terminal ductal like
+Cell134	Ductal - CRISP3 high/centroacinar like
+Cell1340	Cancer clone B
+Cell1341	Cancer clone A
+Cell1342	Ductal - MHC Class II
+Cell1343	Ductal - MHC Class II
+Cell1344	Ductal - MHC Class II
+Cell1345	Cancer clone B
+Cell1346	Ductal - terminal ductal like
+Cell1347	Ductal - APOL high/hypoxic
+Cell1348	Ductal - CRISP3 high/centroacinar like
+Cell1349	Macrophages B
+Cell135	Cancer clone A
+Cell1350	Cancer clone A
+Cell1351	Ductal - MHC Class II
+Cell1352	Cancer clone B
+Cell1353	Ductal - terminal ductal like
+Cell1354	Ductal - terminal ductal like
+Cell1355	Monocytes
+Cell1356	Tuft cells
+Cell1357	pDCs
+Cell1358	Ductal - MHC Class II
+Cell1359	Cancer clone B
+Cell136	Ductal - terminal ductal like
+Cell1360	mDCs B
+Cell1361	Cancer clone A
+Cell1362	Ductal - APOL high/hypoxic
+Cell1363	Ductal - APOL high/hypoxic
+Cell1364	Ductal - APOL high/hypoxic
+Cell1365	Ductal - APOL high/hypoxic
+Cell1366	RBCs
+Cell1367	Ductal - APOL high/hypoxic
+Cell1368	Ductal - CRISP3 high/centroacinar like
+Cell1369	Ductal - CRISP3 high/centroacinar like
+Cell137	Ductal - CRISP3 high/centroacinar like
+Cell1370	RBCs
+Cell1371	RBCs
+Cell1372	Ductal - terminal ductal like
+Cell1373	Ductal - terminal ductal like
+Cell1374	Ductal - CRISP3 high/centroacinar like
+Cell1375	Ductal - terminal ductal like
+Cell1376	Cancer clone B
+Cell1377	Ductal - terminal ductal like
+Cell1378	Acinar cells
+Cell1379	Ductal - APOL high/hypoxic
+Cell138	Mast cells
+Cell1380	Cancer clone A
+Cell1381	Ductal - MHC Class II
+Cell1382	Ductal - MHC Class II
+Cell1383	Ductal - CRISP3 high/centroacinar like
+Cell1384	Cancer clone B
+Cell1385	Ductal - terminal ductal like
+Cell1386	Ductal - CRISP3 high/centroacinar like
+Cell1387	Ductal - MHC Class II
+Cell1388	Ductal - terminal ductal like
+Cell1389	Ductal - APOL high/hypoxic
+Cell139	Ductal - CRISP3 high/centroacinar like
+Cell1390	Ductal - terminal ductal like
+Cell1391	Cancer clone B
+Cell1392	Ductal - MHC Class II
+Cell1393	Cancer clone A
+Cell1394	Cancer clone A
+Cell1395	Cancer clone A
+Cell1396	Ductal - CRISP3 high/centroacinar like
+Cell1397	Cancer clone A
+Cell1398	Ductal - CRISP3 high/centroacinar like
+Cell1399	Ductal - MHC Class II
+Cell14	Ductal - CRISP3 high/centroacinar like
+Cell140	Ductal - CRISP3 high/centroacinar like
+Cell1400	Ductal - CRISP3 high/centroacinar like
+Cell1401	Ductal - terminal ductal like
+Cell1402	Cancer clone B
+Cell1403	Ductal - CRISP3 high/centroacinar like
+Cell1404	Ductal - terminal ductal like
+Cell1405	Ductal - CRISP3 high/centroacinar like
+Cell1406	Ductal - CRISP3 high/centroacinar like
+Cell1407	Ductal - CRISP3 high/centroacinar like
+Cell1408	Ductal - terminal ductal like
+Cell1409	Ductal - CRISP3 high/centroacinar like
+Cell141	Ductal - CRISP3 high/centroacinar like
+Cell1410	Cancer clone B
+Cell1411	Ductal - terminal ductal like
+Cell1412	Ductal - CRISP3 high/centroacinar like
+Cell1413	Ductal - CRISP3 high/centroacinar like
+Cell1414	Ductal - terminal ductal like
+Cell1415	Ductal - MHC Class II
+Cell1416	Ductal - APOL high/hypoxic
+Cell1417	Ductal - MHC Class II
+Cell1418	Ductal - terminal ductal like
+Cell1419	Cancer clone A
+Cell142	Ductal - terminal ductal like
+Cell1420	Ductal - CRISP3 high/centroacinar like
+Cell1421	Ductal - CRISP3 high/centroacinar like
+Cell1422	Ductal - terminal ductal like
+Cell1423	Ductal - CRISP3 high/centroacinar like
+Cell1424	Cancer clone B
+Cell1425	Ductal - terminal ductal like
+Cell1426	mDCs A
+Cell1427	Ductal - MHC Class II
+Cell1428	Ductal - CRISP3 high/centroacinar like
+Cell1429	Ductal - terminal ductal like
+Cell143	Ductal - terminal ductal like
+Cell1430	Ductal - terminal ductal like
+Cell1431	Ductal - MHC Class II
+Cell1432	mDCs B
+Cell1433	Cancer clone B
+Cell1434	Ductal - terminal ductal like
+Cell1435	Ductal - CRISP3 high/centroacinar like
+Cell1436	Ductal - CRISP3 high/centroacinar like
+Cell1437	Acinar cells
+Cell1438	Ductal - CRISP3 high/centroacinar like
+Cell1439	Endothelial cells
+Cell144	Ductal - APOL high/hypoxic
+Cell1440	Ductal - CRISP3 high/centroacinar like
+Cell1441	Ductal - APOL high/hypoxic
+Cell1442	Cancer clone B
+Cell1443	Ductal - terminal ductal like
+Cell1444	Ductal - CRISP3 high/centroacinar like
+Cell1445	mDCs B
+Cell1446	Ductal - CRISP3 high/centroacinar like
+Cell1447	Ductal - terminal ductal like
+Cell1448	Ductal - terminal ductal like
+Cell1449	Ductal - CRISP3 high/centroacinar like
+Cell145	Cancer clone A
+Cell1450	RBCs
+Cell1451	Ductal - CRISP3 high/centroacinar like
+Cell1452	Ductal - CRISP3 high/centroacinar like
+Cell1453	Ductal - terminal ductal like
+Cell1454	Ductal - APOL high/hypoxic
+Cell1455	Ductal - CRISP3 high/centroacinar like
+Cell1456	Cancer clone B
+Cell1457	Cancer clone B
+Cell1458	Ductal - terminal ductal like
+Cell1459	Ductal - CRISP3 high/centroacinar like
+Cell146	Ductal - CRISP3 high/centroacinar like
+Cell1460	Ductal - CRISP3 high/centroacinar like
+Cell1461	Ductal - MHC Class II
+Cell1462	Ductal - CRISP3 high/centroacinar like
+Cell1463	Ductal - MHC Class II
+Cell1464	Cancer clone B
+Cell1465	Mast cells
+Cell1466	Ductal - terminal ductal like
+Cell1467	Ductal - CRISP3 high/centroacinar like
+Cell1468	Ductal - terminal ductal like
+Cell1469	Ductal - APOL high/hypoxic
+Cell147	Ductal - CRISP3 high/centroacinar like
+Cell1470	Cancer clone A
+Cell1471	Ductal - terminal ductal like
+Cell1472	mDCs B
+Cell1473	Endothelial cells
+Cell1474	Cancer clone B
+Cell1475	mDCs B
+Cell1476	Ductal - APOL high/hypoxic
+Cell1477	Ductal - CRISP3 high/centroacinar like
+Cell1478	Ductal - terminal ductal like
+Cell1479	Ductal - CRISP3 high/centroacinar like
+Cell148	Ductal - CRISP3 high/centroacinar like
+Cell1480	Ductal - CRISP3 high/centroacinar like
+Cell1481	Ductal - terminal ductal like
+Cell1482	Ductal - terminal ductal like
+Cell1483	Ductal - MHC Class II
+Cell1484	Ductal - terminal ductal like
+Cell1485	Mast cells
+Cell1486	Ductal - CRISP3 high/centroacinar like
+Cell1487	Ductal - terminal ductal like
+Cell1488	Ductal - MHC Class II
+Cell1489	Ductal - CRISP3 high/centroacinar like
+Cell149	Ductal - CRISP3 high/centroacinar like
+Cell1490	Ductal - CRISP3 high/centroacinar like
+Cell1491	Ductal - CRISP3 high/centroacinar like
+Cell1492	Ductal - terminal ductal like
+Cell1493	Ductal - MHC Class II
+Cell1494	Ductal - APOL high/hypoxic
+Cell1495	Ductal - CRISP3 high/centroacinar like
+Cell1496	Ductal - CRISP3 high/centroacinar like
+Cell1497	Cancer clone A
+Cell1498	Ductal - APOL high/hypoxic
+Cell1499	Ductal - CRISP3 high/centroacinar like
+Cell15	Ductal - terminal ductal like
+Cell150	Ductal - terminal ductal like
+Cell1500	Ductal - CRISP3 high/centroacinar like
+Cell1501	Cancer clone A
+Cell1502	Cancer clone B
+Cell1503	Ductal - terminal ductal like
+Cell1504	Ductal - terminal ductal like
+Cell1505	Ductal - MHC Class II
+Cell1506	Ductal - APOL high/hypoxic
+Cell1507	Ductal - terminal ductal like
+Cell1508	Ductal - terminal ductal like
+Cell1509	Ductal - CRISP3 high/centroacinar like
+Cell151	Cancer clone B
+Cell1510	Ductal - terminal ductal like
+Cell1511	Cancer clone B
+Cell1512	mDCs B
+Cell1513	Acinar cells
+Cell1514	Ductal - CRISP3 high/centroacinar like
+Cell1515	Ductal - terminal ductal like
+Cell1516	Cancer clone B
+Cell1517	Ductal - MHC Class II
+Cell1518	Ductal - APOL high/hypoxic
+Cell1519	Ductal - MHC Class II
+Cell152	Ductal - CRISP3 high/centroacinar like
+Cell1520	Ductal - CRISP3 high/centroacinar like
+Cell1521	Ductal - MHC Class II
+Cell1522	Ductal - MHC Class II
+Cell1523	Ductal - CRISP3 high/centroacinar like
+Cell1524	Ductal - MHC Class II
+Cell1525	Ductal - CRISP3 high/centroacinar like
+Cell1526	Ductal - CRISP3 high/centroacinar like
+Cell1527	Ductal - MHC Class II
+Cell1528	mDCs B
+Cell1529	Ductal - terminal ductal like
+Cell153	Ductal - MHC Class II
+Cell1530	Ductal - terminal ductal like
+Cell1531	Fibroblasts
+Cell1532	Ductal - terminal ductal like
+Cell1533	Ductal - terminal ductal like
+Cell1534	Ductal - MHC Class II
+Cell1535	Cancer clone B
+Cell1536	Ductal - CRISP3 high/centroacinar like
+Cell1537	Ductal - APOL high/hypoxic
+Cell1538	T cells & NK cells
+Cell1539	Ductal - CRISP3 high/centroacinar like
+Cell154	Mast cells
+Cell1540	Ductal - terminal ductal like
+Cell1541	Ductal - CRISP3 high/centroacinar like
+Cell1542	Ductal - MHC Class II
+Cell1543	Ductal - APOL high/hypoxic
+Cell1544	Ductal - terminal ductal like
+Cell1545	Ductal - terminal ductal like
+Cell1546	Ductal - APOL high/hypoxic
+Cell1547	Ductal - CRISP3 high/centroacinar like
+Cell1548	Ductal - MHC Class II
+Cell1549	Ductal - terminal ductal like
+Cell155	Ductal - MHC Class II
+Cell1550	Cancer clone B
+Cell1551	Ductal - CRISP3 high/centroacinar like
+Cell1552	Ductal - APOL high/hypoxic
+Cell1553	Ductal - CRISP3 high/centroacinar like
+Cell1554	Ductal - terminal ductal like
+Cell1555	Ductal - CRISP3 high/centroacinar like
+Cell1556	Ductal - MHC Class II
+Cell1557	Ductal - terminal ductal like
+Cell1558	Ductal - CRISP3 high/centroacinar like
+Cell1559	Ductal - APOL high/hypoxic
+Cell156	Ductal - CRISP3 high/centroacinar like
+Cell1560	Ductal - CRISP3 high/centroacinar like
+Cell1561	Ductal - MHC Class II
+Cell1562	Ductal - CRISP3 high/centroacinar like
+Cell1563	Mast cells
+Cell1564	Cancer clone B
+Cell1565	Ductal - APOL high/hypoxic
+Cell1566	Ductal - MHC Class II
+Cell1567	Ductal - terminal ductal like
+Cell1568	Ductal - APOL high/hypoxic
+Cell1569	Cancer clone A
+Cell157	Ductal - CRISP3 high/centroacinar like
+Cell1570	Cancer clone A
+Cell1571	Ductal - CRISP3 high/centroacinar like
+Cell1572	Ductal - CRISP3 high/centroacinar like
+Cell1573	Ductal - MHC Class II
+Cell1574	Ductal - MHC Class II
+Cell1575	Tuft cells
+Cell1576	Ductal - terminal ductal like
+Cell1577	Cancer clone A
+Cell1578	Ductal - MHC Class II
+Cell1579	Cancer clone B
+Cell158	Ductal - terminal ductal like
+Cell1580	Cancer clone B
+Cell1581	Ductal - APOL high/hypoxic
+Cell1582	T cells & NK cells
+Cell1583	Ductal - CRISP3 high/centroacinar like
+Cell1584	Ductal - terminal ductal like
+Cell1585	Cancer clone A
+Cell1586	Mast cells
+Cell1587	Ductal - APOL high/hypoxic
+Cell1588	Ductal - APOL high/hypoxic
+Cell1589	Ductal - MHC Class II
+Cell159	Ductal - APOL high/hypoxic
+Cell1590	Ductal - terminal ductal like
+Cell1591	Macrophages A
+Cell1592	Ductal - CRISP3 high/centroacinar like
+Cell1593	Ductal - MHC Class II
+Cell1594	Ductal - APOL high/hypoxic
+Cell1595	Ductal - APOL high/hypoxic
+Cell1596	Ductal - terminal ductal like
+Cell1597	Ductal - CRISP3 high/centroacinar like
+Cell1598	Cancer clone B
+Cell1599	Endothelial cells
+Cell16	Ductal - terminal ductal like
+Cell160	Ductal - MHC Class II
+Cell1600	Cancer clone A
+Cell1601	Ductal - MHC Class II
+Cell1602	Ductal - CRISP3 high/centroacinar like
+Cell1603	Tuft cells
+Cell1604	Tuft cells
+Cell1605	Ductal - CRISP3 high/centroacinar like
+Cell1606	Monocytes
+Cell1607	Ductal - MHC Class II
+Cell1608	Cancer clone B
+Cell1609	Ductal - CRISP3 high/centroacinar like
+Cell161	Cancer clone B
+Cell1610	Ductal - terminal ductal like
+Cell1611	Cancer clone B
+Cell1612	mDCs B
+Cell1613	Acinar cells
+Cell1614	Ductal - CRISP3 high/centroacinar like
+Cell1615	pDCs
+Cell1616	Ductal - terminal ductal like
+Cell1617	Ductal - CRISP3 high/centroacinar like
+Cell1618	Ductal - MHC Class II
+Cell1619	Cancer clone A
+Cell162	Ductal - terminal ductal like
+Cell1620	Ductal - CRISP3 high/centroacinar like
+Cell1621	Ductal - terminal ductal like
+Cell1622	Ductal - terminal ductal like
+Cell1623	Ductal - CRISP3 high/centroacinar like
+Cell1624	Ductal - CRISP3 high/centroacinar like
+Cell1625	Ductal - APOL high/hypoxic
+Cell1626	Ductal - APOL high/hypoxic
+Cell1627	Ductal - MHC Class II
+Cell1628	Ductal - CRISP3 high/centroacinar like
+Cell1629	Cancer clone A
+Cell163	Ductal - terminal ductal like
+Cell1630	Ductal - APOL high/hypoxic
+Cell1631	Ductal - CRISP3 high/centroacinar like
+Cell1632	Ductal - APOL high/hypoxic
+Cell1633	Ductal - terminal ductal like
+Cell1634	Ductal - CRISP3 high/centroacinar like
+Cell1635	Ductal - CRISP3 high/centroacinar like
+Cell1636	Acinar cells
+Cell1637	Ductal - APOL high/hypoxic
+Cell1638	Ductal - CRISP3 high/centroacinar like
+Cell1639	Ductal - MHC Class II
+Cell164	Cancer clone B
+Cell1640	Cancer clone B
+Cell1641	Monocytes
+Cell1642	T cells & NK cells
+Cell1643	Monocytes
+Cell1644	Cancer clone B
+Cell1645	Ductal - APOL high/hypoxic
+Cell1646	T cells & NK cells
+Cell1647	Macrophages A
+Cell1648	Ductal - terminal ductal like
+Cell1649	Ductal - terminal ductal like
+Cell165	Mast cells
+Cell1650	Ductal - CRISP3 high/centroacinar like
+Cell1651	Ductal - terminal ductal like
+Cell1652	Tuft cells
+Cell1653	Ductal - terminal ductal like
+Cell1654	Ductal - CRISP3 high/centroacinar like
+Cell1655	mDCs B
+Cell1656	Ductal - CRISP3 high/centroacinar like
+Cell1657	pDCs
+Cell1658	RBCs
+Cell1659	Ductal - MHC Class II
+Cell166	Ductal - MHC Class II
+Cell1660	RBCs
+Cell1661	Ductal - MHC Class II
+Cell1662	Acinar cells
+Cell1663	Ductal - CRISP3 high/centroacinar like
+Cell1664	Ductal - APOL high/hypoxic
+Cell1665	Ductal - CRISP3 high/centroacinar like
+Cell1666	Ductal - CRISP3 high/centroacinar like
+Cell1667	Macrophages A
+Cell1668	Ductal - MHC Class II
+Cell1669	Cancer clone A
+Cell167	Ductal - terminal ductal like
+Cell1670	Cancer clone A
+Cell1671	Cancer clone A
+Cell1672	Ductal - CRISP3 high/centroacinar like
+Cell1673	Ductal - CRISP3 high/centroacinar like
+Cell1674	Ductal - APOL high/hypoxic
+Cell1675	Ductal - terminal ductal like
+Cell1676	Ductal - terminal ductal like
+Cell1677	Ductal - CRISP3 high/centroacinar like
+Cell1678	Tuft cells
+Cell1679	Ductal - CRISP3 high/centroacinar like
+Cell168	Cancer clone A
+Cell1680	Ductal - APOL high/hypoxic
+Cell1681	Ductal - CRISP3 high/centroacinar like
+Cell1682	Ductal - MHC Class II
+Cell1683	Ductal - CRISP3 high/centroacinar like
+Cell1684	Cancer clone A
+Cell1685	Mast cells
+Cell1686	Ductal - terminal ductal like
+Cell1687	Ductal - MHC Class II
+Cell1688	Ductal - CRISP3 high/centroacinar like
+Cell1689	Ductal - CRISP3 high/centroacinar like
+Cell169	Cancer clone B
+Cell1690	Cancer clone A
+Cell1691	Ductal - CRISP3 high/centroacinar like
+Cell1692	Ductal - terminal ductal like
+Cell1693	Ductal - CRISP3 high/centroacinar like
+Cell1694	Ductal - CRISP3 high/centroacinar like
+Cell1695	Ductal - terminal ductal like
+Cell1696	Ductal - MHC Class II
+Cell1697	Ductal - MHC Class II
+Cell1698	Ductal - MHC Class II
+Cell1699	Ductal - CRISP3 high/centroacinar like
+Cell17	Ductal - CRISP3 high/centroacinar like
+Cell170	Ductal - MHC Class II
+Cell1700	Ductal - APOL high/hypoxic
+Cell1701	Ductal - CRISP3 high/centroacinar like
+Cell1702	Cancer clone B
+Cell1703	Ductal - terminal ductal like
+Cell1704	Cancer clone B
+Cell1705	Ductal - CRISP3 high/centroacinar like
+Cell1706	mDCs A
+Cell1707	Fibroblasts
+Cell1708	Ductal - MHC Class II
+Cell1709	Ductal - APOL high/hypoxic
+Cell171	Cancer clone B
+Cell1710	Ductal - CRISP3 high/centroacinar like
+Cell1711	Cancer clone A
+Cell1712	Ductal - MHC Class II
+Cell1713	Ductal - CRISP3 high/centroacinar like
+Cell1714	Ductal - CRISP3 high/centroacinar like
+Cell1715	Ductal - CRISP3 high/centroacinar like
+Cell1716	Ductal - terminal ductal like
+Cell1717	Ductal - terminal ductal like
+Cell1718	Ductal - terminal ductal like
+Cell1719	Cancer clone A
+Cell172	Ductal - CRISP3 high/centroacinar like
+Cell1720	Ductal - MHC Class II
+Cell1721	Ductal - terminal ductal like
+Cell1722	Ductal - MHC Class II
+Cell1723	Cancer clone B
+Cell1724	Ductal - CRISP3 high/centroacinar like
+Cell1725	Cancer clone B
+Cell1726	Cancer clone B
+Cell1727	Ductal - CRISP3 high/centroacinar like
+Cell1728	Cancer clone A
+Cell1729	Ductal - terminal ductal like
+Cell173	Cancer clone B
+Cell1730	Cancer clone B
+Cell1731	Ductal - APOL high/hypoxic
+Cell1732	Ductal - terminal ductal like
+Cell1733	Ductal - CRISP3 high/centroacinar like
+Cell1734	Macrophages A
+Cell1735	Ductal - CRISP3 high/centroacinar like
+Cell1736	Ductal - APOL high/hypoxic
+Cell1737	Ductal - terminal ductal like
+Cell1738	Ductal - terminal ductal like
+Cell1739	Ductal - MHC Class II
+Cell174	mDCs B
+Cell1740	Ductal - MHC Class II
+Cell1741	Ductal - terminal ductal like
+Cell1742	Ductal - MHC Class II
+Cell1743	Cancer clone B
+Cell1744	Ductal - terminal ductal like
+Cell1745	Endothelial cells
+Cell1746	Endothelial cells
+Cell1747	Ductal - CRISP3 high/centroacinar like
+Cell1748	Ductal - CRISP3 high/centroacinar like
+Cell1749	Ductal - MHC Class II
+Cell175	Ductal - MHC Class II
+Cell1750	Cancer clone B
+Cell1751	Ductal - MHC Class II
+Cell1752	Ductal - MHC Class II
+Cell1753	Ductal - APOL high/hypoxic
+Cell1754	Ductal - CRISP3 high/centroacinar like
+Cell1755	Ductal - terminal ductal like
+Cell1756	Ductal - CRISP3 high/centroacinar like
+Cell1757	Ductal - CRISP3 high/centroacinar like
+Cell1758	Ductal - terminal ductal like
+Cell1759	Ductal - APOL high/hypoxic
+Cell176	Ductal - CRISP3 high/centroacinar like
+Cell1760	Ductal - CRISP3 high/centroacinar like
+Cell1761	Ductal - APOL high/hypoxic
+Cell1762	Ductal - MHC Class II
+Cell1763	mDCs A
+Cell1764	Mast cells
+Cell1765	Ductal - APOL high/hypoxic
+Cell1766	Ductal - APOL high/hypoxic
+Cell1767	Ductal - CRISP3 high/centroacinar like
+Cell1768	Ductal - CRISP3 high/centroacinar like
+Cell1769	Ductal - CRISP3 high/centroacinar like
+Cell177	Ductal - terminal ductal like
+Cell1770	Ductal - MHC Class II
+Cell1771	Ductal - terminal ductal like
+Cell1772	Ductal - CRISP3 high/centroacinar like
+Cell1773	Ductal - MHC Class II
+Cell1774	Ductal - terminal ductal like
+Cell1775	Ductal - terminal ductal like
+Cell1776	Ductal - CRISP3 high/centroacinar like
+Cell1777	Ductal - terminal ductal like
+Cell1778	Ductal - MHC Class II
+Cell1779	Ductal - terminal ductal like
+Cell178	Ductal - MHC Class II
+Cell1780	Tuft cells
+Cell1781	Ductal - CRISP3 high/centroacinar like
+Cell1782	pDCs
+Cell1783	Ductal - terminal ductal like
+Cell1784	Ductal - CRISP3 high/centroacinar like
+Cell1785	Ductal - terminal ductal like
+Cell1786	Cancer clone B
+Cell1787	Ductal - MHC Class II
+Cell1788	Ductal - MHC Class II
+Cell1789	Ductal - terminal ductal like
+Cell179	Ductal - CRISP3 high/centroacinar like
+Cell1790	Cancer clone A
+Cell1791	Ductal - terminal ductal like
+Cell1792	Ductal - CRISP3 high/centroacinar like
+Cell1793	Ductal - MHC Class II
+Cell1794	Ductal - CRISP3 high/centroacinar like
+Cell1795	Ductal - terminal ductal like
+Cell1796	Cancer clone B
+Cell1797	Ductal - MHC Class II
+Cell1798	Ductal - CRISP3 high/centroacinar like
+Cell1799	Ductal - CRISP3 high/centroacinar like
+Cell18	Ductal - CRISP3 high/centroacinar like
+Cell180	Ductal - terminal ductal like
+Cell1800	Ductal - MHC Class II
+Cell1801	Ductal - terminal ductal like
+Cell1802	Ductal - MHC Class II
+Cell1803	T cells & NK cells
+Cell1804	Ductal - CRISP3 high/centroacinar like
+Cell1805	Ductal - APOL high/hypoxic
+Cell1806	Ductal - CRISP3 high/centroacinar like
+Cell1807	Ductal - terminal ductal like
+Cell1808	Ductal - CRISP3 high/centroacinar like
+Cell1809	Ductal - CRISP3 high/centroacinar like
+Cell181	Ductal - CRISP3 high/centroacinar like
+Cell1810	mDCs B
+Cell1811	Cancer clone B
+Cell1812	Acinar cells
+Cell1813	Ductal - MHC Class II
+Cell1814	Ductal - CRISP3 high/centroacinar like
+Cell1815	mDCs B
+Cell1816	mDCs A
+Cell1817	Ductal - CRISP3 high/centroacinar like
+Cell1818	Cancer clone A
+Cell1819	Tuft cells
+Cell182	Ductal - APOL high/hypoxic
+Cell1820	Ductal - CRISP3 high/centroacinar like
+Cell1821	Macrophages A
+Cell1822	Ductal - MHC Class II
+Cell1823	Ductal - APOL high/hypoxic
+Cell1824	Ductal - APOL high/hypoxic
+Cell1825	Ductal - APOL high/hypoxic
+Cell1826	Ductal - MHC Class II
+Cell1827	Ductal - CRISP3 high/centroacinar like
+Cell1828	Cancer clone A
+Cell1829	Ductal - CRISP3 high/centroacinar like
+Cell183	Ductal - CRISP3 high/centroacinar like
+Cell1830	Ductal - CRISP3 high/centroacinar like
+Cell1831	mDCs B
+Cell1832	Ductal - CRISP3 high/centroacinar like
+Cell1833	Ductal - APOL high/hypoxic
+Cell1834	Cancer clone B
+Cell1835	Ductal - MHC Class II
+Cell1836	Ductal - terminal ductal like
+Cell1837	Cancer clone B
+Cell1838	Cancer clone B
+Cell1839	Ductal - CRISP3 high/centroacinar like
+Cell184	Ductal - MHC Class II
+Cell1840	Ductal - CRISP3 high/centroacinar like
+Cell1841	Ductal - MHC Class II
+Cell1842	Ductal - terminal ductal like
+Cell1843	Endocrine cells
+Cell1844	Macrophages B
+Cell1845	Tuft cells
+Cell1846	pDCs
+Cell1847	Cancer clone B
+Cell1848	T cells & NK cells
+Cell1849	Ductal - terminal ductal like
+Cell185	Ductal - CRISP3 high/centroacinar like
+Cell1850	Ductal - terminal ductal like
+Cell1851	T cells & NK cells
+Cell1852	Ductal - APOL high/hypoxic
+Cell1853	mDCs A
+Cell1854	Ductal - CRISP3 high/centroacinar like
+Cell1855	Macrophages B
+Cell1856	Ductal - MHC Class II
+Cell1857	Ductal - APOL high/hypoxic
+Cell1858	T cells & NK cells
+Cell1859	Monocytes
+Cell186	Ductal - APOL high/hypoxic
+Cell1860	Ductal - APOL high/hypoxic
+Cell1861	Cancer clone A
+Cell1862	Cancer clone B
+Cell1863	Ductal - MHC Class II
+Cell1864	Ductal - APOL high/hypoxic
+Cell1865	Cancer clone B
+Cell1866	RBCs
+Cell1867	Ductal - terminal ductal like
+Cell1868	Cancer clone A
+Cell1869	Ductal - MHC Class II
+Cell187	Ductal - CRISP3 high/centroacinar like
+Cell1870	Ductal - CRISP3 high/centroacinar like
+Cell1871	Ductal - CRISP3 high/centroacinar like
+Cell1872	Cancer clone B
+Cell1873	Cancer clone B
+Cell1874	Ductal - MHC Class II
+Cell1875	T cells & NK cells
+Cell1876	Ductal - CRISP3 high/centroacinar like
+Cell1877	mDCs B
+Cell1878	Cancer clone B
+Cell1879	Ductal - terminal ductal like
+Cell188	Cancer clone B
+Cell1880	Tuft cells
+Cell1881	Ductal - MHC Class II
+Cell1882	Ductal - APOL high/hypoxic
+Cell1883	Endothelial cells
+Cell1884	Ductal - terminal ductal like
+Cell1885	Ductal - terminal ductal like
+Cell1886	Ductal - terminal ductal like
+Cell1887	Monocytes
+Cell1888	Tuft cells
+Cell1889	Cancer clone A
+Cell189	Ductal - APOL high/hypoxic
+Cell1890	Cancer clone A
+Cell1891	Ductal - MHC Class II
+Cell1892	Tuft cells
+Cell1893	Ductal - CRISP3 high/centroacinar like
+Cell1894	Ductal - MHC Class II
+Cell1895	T cells & NK cells
+Cell1896	Ductal - CRISP3 high/centroacinar like
+Cell1897	Ductal - terminal ductal like
+Cell1898	Ductal - terminal ductal like
+Cell1899	Ductal - terminal ductal like
+Cell19	Cancer clone A
+Cell190	pDCs
+Cell1900	Ductal - CRISP3 high/centroacinar like
+Cell1901	Ductal - CRISP3 high/centroacinar like
+Cell1902	Ductal - MHC Class II
+Cell1903	mDCs A
+Cell1904	Ductal - CRISP3 high/centroacinar like
+Cell1905	Ductal - CRISP3 high/centroacinar like
+Cell1906	Ductal - APOL high/hypoxic
+Cell1907	Cancer clone B
+Cell1908	T cells & NK cells
+Cell1909	Ductal - APOL high/hypoxic
+Cell191	Ductal - CRISP3 high/centroacinar like
+Cell1910	Ductal - MHC Class II
+Cell1911	Ductal - CRISP3 high/centroacinar like
+Cell1912	Ductal - MHC Class II
+Cell1913	Tuft cells
+Cell1914	T cells & NK cells
+Cell1915	Ductal - terminal ductal like
+Cell1916	Cancer clone B
+Cell1917	Ductal - MHC Class II
+Cell1918	Ductal - CRISP3 high/centroacinar like
+Cell1919	Ductal - CRISP3 high/centroacinar like
+Cell192	Cancer clone B
+Cell1920	Ductal - terminal ductal like
+Cell1921	Ductal - MHC Class II
+Cell1922	T cells & NK cells
+Cell1923	Acinar cells
+Cell1924	Ductal - terminal ductal like
+Cell1925	pDCs
+Cell1926	RBCs
+Cell193	Ductal - terminal ductal like
+Cell194	Ductal - terminal ductal like
+Cell195	Ductal - terminal ductal like
+Cell196	Ductal - APOL high/hypoxic
+Cell197	Cancer clone B
+Cell198	Ductal - CRISP3 high/centroacinar like
+Cell199	Ductal - terminal ductal like
+Cell2	Ductal - terminal ductal like
+Cell20	Ductal - MHC Class II
+Cell200	Ductal - terminal ductal like
+Cell201	Ductal - CRISP3 high/centroacinar like
+Cell202	Ductal - CRISP3 high/centroacinar like
+Cell203	Tuft cells
+Cell204	Ductal - terminal ductal like
+Cell205	Ductal - MHC Class II
+Cell206	Ductal - APOL high/hypoxic
+Cell207	Ductal - CRISP3 high/centroacinar like
+Cell208	Cancer clone A
+Cell209	Macrophages B
+Cell21	Cancer clone B
+Cell210	Ductal - terminal ductal like
+Cell211	Ductal - APOL high/hypoxic
+Cell212	Tuft cells
+Cell213	Ductal - MHC Class II
+Cell214	Macrophages B
+Cell215	Ductal - terminal ductal like
+Cell216	Ductal - APOL high/hypoxic
+Cell217	Ductal - terminal ductal like
+Cell218	Ductal - CRISP3 high/centroacinar like
+Cell219	Ductal - CRISP3 high/centroacinar like
+Cell22	Ductal - terminal ductal like
+Cell220	Ductal - CRISP3 high/centroacinar like
+Cell221	Cancer clone A
+Cell222	Ductal - CRISP3 high/centroacinar like
+Cell223	Macrophages B
+Cell224	Cancer clone A
+Cell225	Ductal - APOL high/hypoxic
+Cell226	Ductal - APOL high/hypoxic
+Cell227	Ductal - CRISP3 high/centroacinar like
+Cell228	T cells & NK cells
+Cell229	Ductal - CRISP3 high/centroacinar like
+Cell23	Ductal - CRISP3 high/centroacinar like
+Cell230	Ductal - APOL high/hypoxic
+Cell231	Ductal - CRISP3 high/centroacinar like
+Cell232	Ductal - MHC Class II
+Cell233	Ductal - CRISP3 high/centroacinar like
+Cell234	Cancer clone B
+Cell235	Ductal - APOL high/hypoxic
+Cell236	Ductal - MHC Class II
+Cell237	Ductal - CRISP3 high/centroacinar like
+Cell238	Ductal - MHC Class II
+Cell239	Ductal - CRISP3 high/centroacinar like
+Cell24	Ductal - MHC Class II
+Cell240	Ductal - APOL high/hypoxic
+Cell241	Ductal - CRISP3 high/centroacinar like
+Cell242	Ductal - terminal ductal like
+Cell243	Ductal - APOL high/hypoxic
+Cell244	Ductal - CRISP3 high/centroacinar like
+Cell245	Ductal - APOL high/hypoxic
+Cell246	Ductal - CRISP3 high/centroacinar like
+Cell247	Cancer clone A
+Cell248	Cancer clone B
+Cell249	Ductal - CRISP3 high/centroacinar like
+Cell25	Ductal - terminal ductal like
+Cell250	Ductal - CRISP3 high/centroacinar like
+Cell251	Ductal - CRISP3 high/centroacinar like
+Cell252	Tuft cells
+Cell253	Ductal - APOL high/hypoxic
+Cell254	Ductal - MHC Class II
+Cell255	pDCs
+Cell256	Ductal - MHC Class II
+Cell257	Cancer clone B
+Cell258	Ductal - terminal ductal like
+Cell259	Ductal - APOL high/hypoxic
+Cell26	Cancer clone B
+Cell260	Ductal - MHC Class II
+Cell261	Ductal - APOL high/hypoxic
+Cell262	Ductal - APOL high/hypoxic
+Cell263	Endothelial cells
+Cell264	Ductal - MHC Class II
+Cell265	Ductal - terminal ductal like
+Cell266	Cancer clone B
+Cell267	Ductal - CRISP3 high/centroacinar like
+Cell268	Ductal - terminal ductal like
+Cell269	Ductal - APOL high/hypoxic
+Cell27	Ductal - CRISP3 high/centroacinar like
+Cell270	Ductal - MHC Class II
+Cell271	Ductal - CRISP3 high/centroacinar like
+Cell272	Ductal - MHC Class II
+Cell273	Ductal - CRISP3 high/centroacinar like
+Cell274	Macrophages B
+Cell275	Ductal - terminal ductal like
+Cell276	Cancer clone B
+Cell277	Ductal - MHC Class II
+Cell278	Ductal - CRISP3 high/centroacinar like
+Cell279	Ductal - MHC Class II
+Cell28	mDCs A
+Cell280	pDCs
+Cell281	Ductal - MHC Class II
+Cell282	Macrophages B
+Cell283	Ductal - terminal ductal like
+Cell284	Cancer clone A
+Cell285	Ductal - CRISP3 high/centroacinar like
+Cell286	Ductal - MHC Class II
+Cell287	Ductal - CRISP3 high/centroacinar like
+Cell288	Tuft cells
+Cell289	Ductal - MHC Class II
+Cell29	Ductal - APOL high/hypoxic
+Cell290	Ductal - CRISP3 high/centroacinar like
+Cell291	Cancer clone A
+Cell292	Ductal - MHC Class II
+Cell293	Ductal - CRISP3 high/centroacinar like
+Cell294	mDCs A
+Cell295	T cells & NK cells
+Cell296	Ductal - APOL high/hypoxic
+Cell297	Ductal - terminal ductal like
+Cell298	Ductal - terminal ductal like
+Cell299	Ductal - CRISP3 high/centroacinar like
+Cell3	Ductal - terminal ductal like
+Cell30	Ductal - APOL high/hypoxic
+Cell300	Ductal - CRISP3 high/centroacinar like
+Cell301	Ductal - CRISP3 high/centroacinar like
+Cell302	Ductal - CRISP3 high/centroacinar like
+Cell303	Cancer clone B
+Cell304	Ductal - CRISP3 high/centroacinar like
+Cell305	Ductal - CRISP3 high/centroacinar like
+Cell306	Tuft cells
+Cell307	Ductal - CRISP3 high/centroacinar like
+Cell308	Ductal - CRISP3 high/centroacinar like
+Cell309	Ductal - terminal ductal like
+Cell31	Cancer clone B
+Cell310	Ductal - CRISP3 high/centroacinar like
+Cell311	Ductal - CRISP3 high/centroacinar like
+Cell312	Ductal - MHC Class II
+Cell313	Cancer clone B
+Cell314	Cancer clone A
+Cell315	Ductal - terminal ductal like
+Cell316	Macrophages A
+Cell317	Ductal - MHC Class II
+Cell318	Ductal - CRISP3 high/centroacinar like
+Cell319	Ductal - MHC Class II
+Cell32	Ductal - terminal ductal like
+Cell320	Ductal - MHC Class II
+Cell321	Monocytes
+Cell322	Ductal - terminal ductal like
+Cell323	Ductal - APOL high/hypoxic
+Cell324	T cells & NK cells
+Cell325	Ductal - CRISP3 high/centroacinar like
+Cell326	Ductal - APOL high/hypoxic
+Cell327	Ductal - terminal ductal like
+Cell328	mDCs B
+Cell329	T cells & NK cells
+Cell33	Ductal - CRISP3 high/centroacinar like
+Cell330	Ductal - CRISP3 high/centroacinar like
+Cell331	T cells & NK cells
+Cell332	Cancer clone A
+Cell333	Ductal - APOL high/hypoxic
+Cell334	Cancer clone B
+Cell335	Ductal - terminal ductal like
+Cell336	Ductal - terminal ductal like
+Cell337	Cancer clone B
+Cell338	Cancer clone A
+Cell339	Ductal - APOL high/hypoxic
+Cell34	Cancer clone B
+Cell340	Ductal - APOL high/hypoxic
+Cell341	Ductal - CRISP3 high/centroacinar like
+Cell342	Ductal - MHC Class II
+Cell343	T cells & NK cells
+Cell344	Cancer clone B
+Cell345	T cells & NK cells
+Cell346	Ductal - APOL high/hypoxic
+Cell347	Ductal - APOL high/hypoxic
+Cell348	Cancer clone A
+Cell349	Ductal - MHC Class II
+Cell35	Ductal - terminal ductal like
+Cell350	Ductal - CRISP3 high/centroacinar like
+Cell351	Ductal - CRISP3 high/centroacinar like
+Cell352	Ductal - MHC Class II
+Cell353	Ductal - CRISP3 high/centroacinar like
+Cell354	Ductal - APOL high/hypoxic
+Cell355	RBCs
+Cell356	Ductal - terminal ductal like
+Cell357	Ductal - terminal ductal like
+Cell358	T cells & NK cells
+Cell359	Ductal - terminal ductal like
+Cell36	Ductal - APOL high/hypoxic
+Cell360	Monocytes
+Cell361	Ductal - CRISP3 high/centroacinar like
+Cell362	Ductal - APOL high/hypoxic
+Cell363	Ductal - CRISP3 high/centroacinar like
+Cell364	Cancer clone A
+Cell365	pDCs
+Cell366	Cancer clone B
+Cell367	Monocytes
+Cell368	Ductal - MHC Class II
+Cell369	Ductal - terminal ductal like
+Cell37	Cancer clone B
+Cell370	Ductal - terminal ductal like
+Cell371	Ductal - CRISP3 high/centroacinar like
+Cell372	RBCs
+Cell373	RBCs
+Cell374	Ductal - CRISP3 high/centroacinar like
+Cell375	Cancer clone A
+Cell376	Cancer clone A
+Cell377	Ductal - terminal ductal like
+Cell378	Ductal - CRISP3 high/centroacinar like
+Cell379	Cancer clone B
+Cell38	Ductal - CRISP3 high/centroacinar like
+Cell380	Cancer clone A
+Cell381	Ductal - terminal ductal like
+Cell382	Cancer clone B
+Cell383	Ductal - MHC Class II
+Cell384	Cancer clone A
+Cell385	Ductal - CRISP3 high/centroacinar like
+Cell386	Ductal - CRISP3 high/centroacinar like
+Cell387	Ductal - CRISP3 high/centroacinar like
+Cell388	Ductal - terminal ductal like
+Cell389	Ductal - APOL high/hypoxic
+Cell39	Cancer clone A
+Cell390	Ductal - APOL high/hypoxic
+Cell391	Cancer clone A
+Cell392	Cancer clone A
+Cell393	Ductal - CRISP3 high/centroacinar like
+Cell394	Ductal - terminal ductal like
+Cell395	Ductal - MHC Class II
+Cell396	Cancer clone B
+Cell397	Ductal - terminal ductal like
+Cell398	Cancer clone A
+Cell399	Ductal - CRISP3 high/centroacinar like
+Cell4	Ductal - CRISP3 high/centroacinar like
+Cell40	Cancer clone A
+Cell400	Macrophages A
+Cell401	Ductal - CRISP3 high/centroacinar like
+Cell402	Ductal - APOL high/hypoxic
+Cell403	Ductal - MHC Class II
+Cell404	Ductal - terminal ductal like
+Cell405	Ductal - CRISP3 high/centroacinar like
+Cell406	Ductal - terminal ductal like
+Cell407	Ductal - APOL high/hypoxic
+Cell408	Ductal - APOL high/hypoxic
+Cell409	Ductal - CRISP3 high/centroacinar like
+Cell41	Cancer clone B
+Cell410	Ductal - CRISP3 high/centroacinar like
+Cell411	Ductal - CRISP3 high/centroacinar like
+Cell412	Ductal - CRISP3 high/centroacinar like
+Cell413	Cancer clone B
+Cell414	Cancer clone B
+Cell415	Ductal - CRISP3 high/centroacinar like
+Cell416	Cancer clone B
+Cell417	Ductal - MHC Class II
+Cell418	Ductal - CRISP3 high/centroacinar like
+Cell419	Ductal - APOL high/hypoxic
+Cell42	Ductal - CRISP3 high/centroacinar like
+Cell420	Cancer clone B
+Cell421	Ductal - APOL high/hypoxic
+Cell422	Ductal - MHC Class II
+Cell423	Ductal - MHC Class II
+Cell424	Cancer clone B
+Cell425	Ductal - CRISP3 high/centroacinar like
+Cell426	Ductal - CRISP3 high/centroacinar like
+Cell427	Ductal - CRISP3 high/centroacinar like
+Cell428	Ductal - CRISP3 high/centroacinar like
+Cell429	Ductal - CRISP3 high/centroacinar like
+Cell43	mDCs A
+Cell430	Ductal - CRISP3 high/centroacinar like
+Cell431	Ductal - CRISP3 high/centroacinar like
+Cell432	Ductal - MHC Class II
+Cell433	Ductal - terminal ductal like
+Cell434	Ductal - CRISP3 high/centroacinar like
+Cell435	Ductal - CRISP3 high/centroacinar like
+Cell436	Cancer clone A
+Cell437	Ductal - APOL high/hypoxic
+Cell438	Cancer clone B
+Cell439	Ductal - MHC Class II
+Cell44	Tuft cells
+Cell440	Ductal - CRISP3 high/centroacinar like
+Cell441	Ductal - CRISP3 high/centroacinar like
+Cell442	Cancer clone A
+Cell443	Ductal - CRISP3 high/centroacinar like
+Cell444	Cancer clone B
+Cell445	Ductal - MHC Class II
+Cell446	Mast cells
+Cell447	Ductal - MHC Class II
+Cell448	Ductal - MHC Class II
+Cell449	Ductal - terminal ductal like
+Cell45	mDCs B
+Cell450	Ductal - terminal ductal like
+Cell451	Ductal - MHC Class II
+Cell452	Ductal - CRISP3 high/centroacinar like
+Cell453	Ductal - MHC Class II
+Cell454	Ductal - CRISP3 high/centroacinar like
+Cell455	Cancer clone A
+Cell456	Ductal - CRISP3 high/centroacinar like
+Cell457	Ductal - MHC Class II
+Cell458	Ductal - terminal ductal like
+Cell459	Ductal - CRISP3 high/centroacinar like
+Cell46	Ductal - CRISP3 high/centroacinar like
+Cell460	Ductal - APOL high/hypoxic
+Cell461	Ductal - MHC Class II
+Cell462	Ductal - CRISP3 high/centroacinar like
+Cell463	Ductal - CRISP3 high/centroacinar like
+Cell464	Ductal - CRISP3 high/centroacinar like
+Cell465	Cancer clone A
+Cell466	Ductal - MHC Class II
+Cell467	Ductal - MHC Class II
+Cell468	Ductal - CRISP3 high/centroacinar like
+Cell469	Ductal - CRISP3 high/centroacinar like
+Cell47	Ductal - APOL high/hypoxic
+Cell470	Ductal - CRISP3 high/centroacinar like
+Cell471	Ductal - CRISP3 high/centroacinar like
+Cell472	Ductal - terminal ductal like
+Cell473	Ductal - APOL high/hypoxic
+Cell474	Ductal - terminal ductal like
+Cell475	Ductal - MHC Class II
+Cell476	Tuft cells
+Cell477	Macrophages B
+Cell478	Ductal - CRISP3 high/centroacinar like
+Cell479	Ductal - terminal ductal like
+Cell48	Ductal - MHC Class II
+Cell480	Ductal - CRISP3 high/centroacinar like
+Cell481	Cancer clone A
+Cell482	Ductal - CRISP3 high/centroacinar like
+Cell483	Ductal - CRISP3 high/centroacinar like
+Cell484	Cancer clone A
+Cell485	Ductal - terminal ductal like
+Cell486	Cancer clone A
+Cell487	Ductal - MHC Class II
+Cell488	Cancer clone A
+Cell489	Ductal - CRISP3 high/centroacinar like
+Cell49	Ductal - CRISP3 high/centroacinar like
+Cell490	Cancer clone A
+Cell491	Ductal - CRISP3 high/centroacinar like
+Cell492	Ductal - CRISP3 high/centroacinar like
+Cell493	Ductal - APOL high/hypoxic
+Cell494	Ductal - CRISP3 high/centroacinar like
+Cell495	Ductal - MHC Class II
+Cell496	Ductal - terminal ductal like
+Cell497	Ductal - CRISP3 high/centroacinar like
+Cell498	Ductal - MHC Class II
+Cell499	Ductal - APOL high/hypoxic
+Cell5	Cancer clone A
+Cell50	Ductal - terminal ductal like
+Cell500	Cancer clone B
+Cell501	Cancer clone B
+Cell502	Ductal - terminal ductal like
+Cell503	Ductal - terminal ductal like
+Cell504	Mast cells
+Cell505	Cancer clone A
+Cell506	Ductal - CRISP3 high/centroacinar like
+Cell507	Ductal - CRISP3 high/centroacinar like
+Cell508	Ductal - terminal ductal like
+Cell509	Ductal - terminal ductal like
+Cell51	Cancer clone A
+Cell510	Cancer clone B
+Cell511	Ductal - CRISP3 high/centroacinar like
+Cell512	Ductal - terminal ductal like
+Cell513	Ductal - CRISP3 high/centroacinar like
+Cell514	Cancer clone B
+Cell515	Ductal - APOL high/hypoxic
+Cell516	Ductal - CRISP3 high/centroacinar like
+Cell517	Ductal - MHC Class II
+Cell518	Cancer clone B
+Cell519	Ductal - terminal ductal like
+Cell52	Ductal - CRISP3 high/centroacinar like
+Cell520	Ductal - APOL high/hypoxic
+Cell521	Ductal - CRISP3 high/centroacinar like
+Cell522	Ductal - APOL high/hypoxic
+Cell523	Ductal - CRISP3 high/centroacinar like
+Cell524	Ductal - MHC Class II
+Cell525	Ductal - terminal ductal like
+Cell526	Ductal - CRISP3 high/centroacinar like
+Cell527	Ductal - CRISP3 high/centroacinar like
+Cell528	Ductal - terminal ductal like
+Cell529	Ductal - APOL high/hypoxic
+Cell53	Ductal - CRISP3 high/centroacinar like
+Cell530	Cancer clone B
+Cell531	Ductal - terminal ductal like
+Cell532	Ductal - CRISP3 high/centroacinar like
+Cell533	Ductal - CRISP3 high/centroacinar like
+Cell534	Ductal - CRISP3 high/centroacinar like
+Cell535	Ductal - terminal ductal like
+Cell536	Ductal - APOL high/hypoxic
+Cell537	Ductal - CRISP3 high/centroacinar like
+Cell538	Ductal - CRISP3 high/centroacinar like
+Cell539	Ductal - MHC Class II
+Cell54	Ductal - terminal ductal like
+Cell540	Ductal - terminal ductal like
+Cell541	Cancer clone A
+Cell542	Cancer clone B
+Cell543	Cancer clone B
+Cell544	mDCs A
+Cell545	Ductal - APOL high/hypoxic
+Cell546	Ductal - terminal ductal like
+Cell547	Ductal - CRISP3 high/centroacinar like
+Cell548	Ductal - terminal ductal like
+Cell549	Ductal - MHC Class II
+Cell55	Cancer clone A
+Cell550	Ductal - MHC Class II
+Cell551	Ductal - MHC Class II
+Cell552	Ductal - CRISP3 high/centroacinar like
+Cell553	Ductal - terminal ductal like
+Cell554	Ductal - terminal ductal like
+Cell555	Ductal - MHC Class II
+Cell556	Ductal - CRISP3 high/centroacinar like
+Cell557	Ductal - APOL high/hypoxic
+Cell558	Ductal - terminal ductal like
+Cell559	Ductal - MHC Class II
+Cell56	Ductal - APOL high/hypoxic
+Cell560	Ductal - MHC Class II
+Cell561	Cancer clone B
+Cell562	Ductal - APOL high/hypoxic
+Cell563	Ductal - CRISP3 high/centroacinar like
+Cell564	Ductal - terminal ductal like
+Cell565	Ductal - terminal ductal like
+Cell566	Ductal - MHC Class II
+Cell567	Cancer clone A
+Cell568	Ductal - APOL high/hypoxic
+Cell569	Ductal - terminal ductal like
+Cell57	Ductal - APOL high/hypoxic
+Cell570	Tuft cells
+Cell571	Cancer clone A
+Cell572	Ductal - APOL high/hypoxic
+Cell573	Tuft cells
+Cell574	Ductal - MHC Class II
+Cell575	Ductal - terminal ductal like
+Cell576	Tuft cells
+Cell577	Ductal - CRISP3 high/centroacinar like
+Cell578	Ductal - APOL high/hypoxic
+Cell579	Cancer clone A
+Cell58	Ductal - MHC Class II
+Cell580	Ductal - CRISP3 high/centroacinar like
+Cell581	Ductal - terminal ductal like
+Cell582	Ductal - APOL high/hypoxic
+Cell583	Ductal - MHC Class II
+Cell584	Ductal - CRISP3 high/centroacinar like
+Cell585	Ductal - APOL high/hypoxic
+Cell586	Macrophages B
+Cell587	Ductal - CRISP3 high/centroacinar like
+Cell588	Ductal - CRISP3 high/centroacinar like
+Cell589	Ductal - MHC Class II
+Cell59	Ductal - CRISP3 high/centroacinar like
+Cell590	Cancer clone B
+Cell591	Ductal - CRISP3 high/centroacinar like
+Cell592	Ductal - CRISP3 high/centroacinar like
+Cell593	Ductal - CRISP3 high/centroacinar like
+Cell594	Ductal - MHC Class II
+Cell595	Ductal - terminal ductal like
+Cell596	Ductal - MHC Class II
+Cell597	Cancer clone B
+Cell598	Ductal - CRISP3 high/centroacinar like
+Cell599	Cancer clone A
+Cell6	Cancer clone A
+Cell60	Cancer clone B
+Cell600	Cancer clone B
+Cell601	Ductal - terminal ductal like
+Cell602	Ductal - MHC Class II
+Cell603	Ductal - MHC Class II
+Cell604	mDCs B
+Cell605	Ductal - APOL high/hypoxic
+Cell606	mDCs B
+Cell607	Ductal - CRISP3 high/centroacinar like
+Cell608	T cells & NK cells
+Cell609	Cancer clone A
+Cell61	Ductal - CRISP3 high/centroacinar like
+Cell610	Ductal - CRISP3 high/centroacinar like
+Cell611	Macrophages A
+Cell612	Ductal - CRISP3 high/centroacinar like
+Cell613	Ductal - MHC Class II
+Cell614	Ductal - terminal ductal like
+Cell615	Ductal - terminal ductal like
+Cell616	Macrophages A
+Cell617	Ductal - MHC Class II
+Cell618	Ductal - MHC Class II
+Cell619	Ductal - CRISP3 high/centroacinar like
+Cell62	Ductal - MHC Class II
+Cell620	Ductal - APOL high/hypoxic
+Cell621	Ductal - terminal ductal like
+Cell622	Ductal - CRISP3 high/centroacinar like
+Cell623	Ductal - terminal ductal like
+Cell624	Ductal - CRISP3 high/centroacinar like
+Cell625	Ductal - terminal ductal like
+Cell626	Cancer clone A
+Cell627	Monocytes
+Cell628	Ductal - CRISP3 high/centroacinar like
+Cell629	Ductal - terminal ductal like
+Cell63	Ductal - terminal ductal like
+Cell630	Ductal - terminal ductal like
+Cell631	Cancer clone B
+Cell632	Ductal - CRISP3 high/centroacinar like
+Cell633	Ductal - CRISP3 high/centroacinar like
+Cell634	Ductal - CRISP3 high/centroacinar like
+Cell635	Ductal - CRISP3 high/centroacinar like
+Cell636	Ductal - CRISP3 high/centroacinar like
+Cell637	Ductal - APOL high/hypoxic
+Cell638	Ductal - CRISP3 high/centroacinar like
+Cell639	Macrophages A
+Cell64	Ductal - terminal ductal like
+Cell640	Ductal - terminal ductal like
+Cell641	Ductal - terminal ductal like
+Cell642	Ductal - MHC Class II
+Cell643	Ductal - terminal ductal like
+Cell644	Cancer clone A
+Cell645	Ductal - MHC Class II
+Cell646	Ductal - MHC Class II
+Cell647	Ductal - MHC Class II
+Cell648	Ductal - CRISP3 high/centroacinar like
+Cell649	Ductal - MHC Class II
+Cell65	Ductal - CRISP3 high/centroacinar like
+Cell650	Ductal - CRISP3 high/centroacinar like
+Cell651	Ductal - terminal ductal like
+Cell652	Cancer clone B
+Cell653	Ductal - terminal ductal like
+Cell654	Ductal - MHC Class II
+Cell655	Ductal - terminal ductal like
+Cell656	Ductal - terminal ductal like
+Cell657	T cells & NK cells
+Cell658	Ductal - APOL high/hypoxic
+Cell659	Monocytes
+Cell66	Cancer clone A
+Cell660	Cancer clone B
+Cell661	Ductal - MHC Class II
+Cell662	Ductal - CRISP3 high/centroacinar like
+Cell663	Ductal - APOL high/hypoxic
+Cell664	Ductal - terminal ductal like
+Cell665	Ductal - MHC Class II
+Cell666	Ductal - terminal ductal like
+Cell667	Cancer clone A
+Cell668	T cells & NK cells
+Cell669	Ductal - terminal ductal like
+Cell67	Ductal - terminal ductal like
+Cell670	Ductal - terminal ductal like
+Cell671	Ductal - CRISP3 high/centroacinar like
+Cell672	Ductal - terminal ductal like
+Cell673	Ductal - CRISP3 high/centroacinar like
+Cell674	Macrophages A
+Cell675	Cancer clone A
+Cell676	Ductal - CRISP3 high/centroacinar like
+Cell677	Ductal - MHC Class II
+Cell678	Ductal - terminal ductal like
+Cell679	Ductal - APOL high/hypoxic
+Cell68	Ductal - APOL high/hypoxic
+Cell680	Ductal - MHC Class II
+Cell681	Ductal - MHC Class II
+Cell682	Ductal - CRISP3 high/centroacinar like
+Cell683	Ductal - CRISP3 high/centroacinar like
+Cell684	Ductal - MHC Class II
+Cell685	Ductal - terminal ductal like
+Cell686	Fibroblasts
+Cell687	Ductal - terminal ductal like
+Cell688	T cells & NK cells
+Cell689	T cells & NK cells
+Cell69	Ductal - MHC Class II
+Cell690	Cancer clone A
+Cell691	Ductal - APOL high/hypoxic
+Cell692	Ductal - terminal ductal like
+Cell693	Cancer clone B
+Cell694	Macrophages B
+Cell695	T cells & NK cells
+Cell696	Ductal - MHC Class II
+Cell697	Ductal - CRISP3 high/centroacinar like
+Cell698	Ductal - MHC Class II
+Cell699	Ductal - APOL high/hypoxic
+Cell7	Ductal - CRISP3 high/centroacinar like
+Cell70	Cancer clone A
+Cell700	Ductal - CRISP3 high/centroacinar like
+Cell701	Ductal - CRISP3 high/centroacinar like
+Cell702	Ductal - terminal ductal like
+Cell703	Macrophages B
+Cell704	T cells & NK cells
+Cell705	Ductal - CRISP3 high/centroacinar like
+Cell706	Ductal - MHC Class II
+Cell707	Cancer clone A
+Cell708	Ductal - terminal ductal like
+Cell709	Cancer clone A
+Cell71	Ductal - MHC Class II
+Cell710	Monocytes
+Cell711	Ductal - MHC Class II
+Cell712	Ductal - CRISP3 high/centroacinar like
+Cell713	Ductal - CRISP3 high/centroacinar like
+Cell714	Ductal - APOL high/hypoxic
+Cell715	Ductal - APOL high/hypoxic
+Cell716	Monocytes
+Cell717	Endothelial cells
+Cell718	Ductal - terminal ductal like
+Cell719	T cells & NK cells
+Cell72	Ductal - CRISP3 high/centroacinar like
+Cell720	Macrophages B
+Cell721	T cells & NK cells
+Cell722	Acinar cells
+Cell723	Ductal - CRISP3 high/centroacinar like
+Cell724	T cells & NK cells
+Cell725	Cancer clone A
+Cell726	Ductal - MHC Class II
+Cell727	Ductal - terminal ductal like
+Cell728	Ductal - MHC Class II
+Cell729	Ductal - MHC Class II
+Cell73	Ductal - CRISP3 high/centroacinar like
+Cell730	Cancer clone A
+Cell731	RBCs
+Cell732	Ductal - CRISP3 high/centroacinar like
+Cell733	Cancer clone B
+Cell734	Fibroblasts
+Cell735	Ductal - MHC Class II
+Cell736	Ductal - MHC Class II
+Cell737	Ductal - MHC Class II
+Cell738	mDCs B
+Cell739	T cells & NK cells
+Cell74	Ductal - APOL high/hypoxic
+Cell740	Macrophages A
+Cell741	Ductal - MHC Class II
+Cell742	T cells & NK cells
+Cell743	Cancer clone B
+Cell744	Cancer clone A
+Cell745	Macrophages A
+Cell746	Ductal - CRISP3 high/centroacinar like
+Cell747	Ductal - CRISP3 high/centroacinar like
+Cell748	Monocytes
+Cell749	Ductal - CRISP3 high/centroacinar like
+Cell75	Ductal - CRISP3 high/centroacinar like
+Cell750	Ductal - CRISP3 high/centroacinar like
+Cell751	T cells & NK cells
+Cell752	Ductal - CRISP3 high/centroacinar like
+Cell753	RBCs
+Cell754	Ductal - CRISP3 high/centroacinar like
+Cell755	Monocytes
+Cell756	Ductal - CRISP3 high/centroacinar like
+Cell757	Ductal - terminal ductal like
+Cell758	Cancer clone B
+Cell759	Ductal - terminal ductal like
+Cell76	Ductal - CRISP3 high/centroacinar like
+Cell760	Ductal - MHC Class II
+Cell761	Cancer clone A
+Cell762	Ductal - CRISP3 high/centroacinar like
+Cell763	Ductal - APOL high/hypoxic
+Cell764	Ductal - CRISP3 high/centroacinar like
+Cell765	Ductal - terminal ductal like
+Cell766	Ductal - CRISP3 high/centroacinar like
+Cell767	Ductal - terminal ductal like
+Cell768	Cancer clone A
+Cell769	Cancer clone A
+Cell77	Ductal - CRISP3 high/centroacinar like
+Cell770	Ductal - CRISP3 high/centroacinar like
+Cell771	Mast cells
+Cell772	Cancer clone B
+Cell773	Ductal - MHC Class II
+Cell774	Cancer clone A
+Cell775	Ductal - terminal ductal like
+Cell776	Ductal - MHC Class II
+Cell777	Ductal - CRISP3 high/centroacinar like
+Cell778	Ductal - MHC Class II
+Cell779	Ductal - MHC Class II
+Cell78	Cancer clone B
+Cell780	Ductal - MHC Class II
+Cell781	Acinar cells
+Cell782	Cancer clone B
+Cell783	Ductal - CRISP3 high/centroacinar like
+Cell784	Ductal - MHC Class II
+Cell785	Ductal - APOL high/hypoxic
+Cell786	Ductal - CRISP3 high/centroacinar like
+Cell787	Ductal - terminal ductal like
+Cell788	Ductal - terminal ductal like
+Cell789	Cancer clone A
+Cell79	Cancer clone B
+Cell790	Ductal - terminal ductal like
+Cell791	Ductal - terminal ductal like
+Cell792	Ductal - terminal ductal like
+Cell793	Ductal - CRISP3 high/centroacinar like
+Cell794	Ductal - CRISP3 high/centroacinar like
+Cell795	Cancer clone A
+Cell796	Ductal - terminal ductal like
+Cell797	Cancer clone B
+Cell798	Ductal - terminal ductal like
+Cell799	Ductal - CRISP3 high/centroacinar like
+Cell8	Ductal - terminal ductal like
+Cell80	Ductal - MHC Class II
+Cell800	Ductal - APOL high/hypoxic
+Cell801	Ductal - CRISP3 high/centroacinar like
+Cell802	Ductal - CRISP3 high/centroacinar like
+Cell803	Ductal - CRISP3 high/centroacinar like
+Cell804	Ductal - terminal ductal like
+Cell805	Ductal - CRISP3 high/centroacinar like
+Cell806	Ductal - APOL high/hypoxic
+Cell807	Ductal - MHC Class II
+Cell808	Ductal - CRISP3 high/centroacinar like
+Cell809	Ductal - CRISP3 high/centroacinar like
+Cell81	Cancer clone A
+Cell810	Ductal - MHC Class II
+Cell811	Ductal - MHC Class II
+Cell812	Ductal - CRISP3 high/centroacinar like
+Cell813	Cancer clone A
+Cell814	Ductal - MHC Class II
+Cell815	Ductal - CRISP3 high/centroacinar like
+Cell816	Ductal - MHC Class II
+Cell817	Ductal - CRISP3 high/centroacinar like
+Cell818	Ductal - CRISP3 high/centroacinar like
+Cell819	Ductal - CRISP3 high/centroacinar like
+Cell82	pDCs
+Cell820	Ductal - CRISP3 high/centroacinar like
+Cell821	Ductal - terminal ductal like
+Cell822	Ductal - terminal ductal like
+Cell823	Ductal - terminal ductal like
+Cell824	Ductal - MHC Class II
+Cell825	Cancer clone A
+Cell826	Mast cells
+Cell827	Ductal - CRISP3 high/centroacinar like
+Cell828	Ductal - APOL high/hypoxic
+Cell829	Ductal - terminal ductal like
+Cell83	Ductal - CRISP3 high/centroacinar like
+Cell830	Ductal - MHC Class II
+Cell831	Cancer clone A
+Cell832	Ductal - APOL high/hypoxic
+Cell833	Mast cells
+Cell834	Ductal - APOL high/hypoxic
+Cell835	Ductal - terminal ductal like
+Cell836	Cancer clone A
+Cell837	Ductal - MHC Class II
+Cell838	Ductal - CRISP3 high/centroacinar like
+Cell839	Ductal - MHC Class II
+Cell84	Ductal - CRISP3 high/centroacinar like
+Cell840	Ductal - APOL high/hypoxic
+Cell841	Ductal - CRISP3 high/centroacinar like
+Cell842	Ductal - CRISP3 high/centroacinar like
+Cell843	Cancer clone B
+Cell844	Ductal - MHC Class II
+Cell845	Ductal - APOL high/hypoxic
+Cell846	Ductal - APOL high/hypoxic
+Cell847	Ductal - APOL high/hypoxic
+Cell848	Ductal - CRISP3 high/centroacinar like
+Cell849	Ductal - CRISP3 high/centroacinar like
+Cell85	Cancer clone A
+Cell850	Ductal - APOL high/hypoxic
+Cell851	Ductal - CRISP3 high/centroacinar like
+Cell852	Ductal - terminal ductal like
+Cell853	Ductal - CRISP3 high/centroacinar like
+Cell854	Ductal - APOL high/hypoxic
+Cell855	Ductal - MHC Class II
+Cell856	Endothelial cells
+Cell857	Ductal - APOL high/hypoxic
+Cell858	Ductal - terminal ductal like
+Cell859	Cancer clone A
+Cell86	Ductal - APOL high/hypoxic
+Cell860	Ductal - terminal ductal like
+Cell861	Ductal - APOL high/hypoxic
+Cell862	Ductal - MHC Class II
+Cell863	Ductal - APOL high/hypoxic
+Cell864	Ductal - APOL high/hypoxic
+Cell865	Ductal - MHC Class II
+Cell866	Cancer clone B
+Cell867	Ductal - terminal ductal like
+Cell868	Cancer clone B
+Cell869	Ductal - terminal ductal like
+Cell87	mDCs B
+Cell870	Ductal - CRISP3 high/centroacinar like
+Cell871	Ductal - CRISP3 high/centroacinar like
+Cell872	Ductal - APOL high/hypoxic
+Cell873	Cancer clone B
+Cell874	Ductal - CRISP3 high/centroacinar like
+Cell875	Ductal - terminal ductal like
+Cell876	Cancer clone B
+Cell877	Ductal - terminal ductal like
+Cell878	Ductal - MHC Class II
+Cell879	Ductal - APOL high/hypoxic
+Cell88	Ductal - APOL high/hypoxic
+Cell880	Ductal - CRISP3 high/centroacinar like
+Cell881	Ductal - APOL high/hypoxic
+Cell882	Ductal - CRISP3 high/centroacinar like
+Cell883	Ductal - CRISP3 high/centroacinar like
+Cell884	Ductal - terminal ductal like
+Cell885	Ductal - terminal ductal like
+Cell886	Ductal - terminal ductal like
+Cell887	Cancer clone B
+Cell888	Ductal - CRISP3 high/centroacinar like
+Cell889	Cancer clone B
+Cell89	Ductal - CRISP3 high/centroacinar like
+Cell890	Ductal - CRISP3 high/centroacinar like
+Cell891	Cancer clone A
+Cell892	Ductal - CRISP3 high/centroacinar like
+Cell893	Ductal - APOL high/hypoxic
+Cell894	mDCs B
+Cell895	Ductal - MHC Class II
+Cell896	Ductal - terminal ductal like
+Cell897	Macrophages A
+Cell898	Ductal - CRISP3 high/centroacinar like
+Cell899	Ductal - MHC Class II
+Cell9	Ductal - MHC Class II
+Cell90	Ductal - APOL high/hypoxic
+Cell900	Cancer clone B
+Cell901	Ductal - MHC Class II
+Cell902	Ductal - CRISP3 high/centroacinar like
+Cell903	Ductal - terminal ductal like
+Cell904	Ductal - terminal ductal like
+Cell905	Ductal - terminal ductal like
+Cell906	Ductal - APOL high/hypoxic
+Cell907	Ductal - CRISP3 high/centroacinar like
+Cell908	Cancer clone B
+Cell909	Ductal - terminal ductal like
+Cell91	Ductal - MHC Class II
+Cell910	Ductal - CRISP3 high/centroacinar like
+Cell911	Ductal - CRISP3 high/centroacinar like
+Cell912	Ductal - CRISP3 high/centroacinar like
+Cell913	Ductal - terminal ductal like
+Cell914	Ductal - CRISP3 high/centroacinar like
+Cell915	Ductal - MHC Class II
+Cell916	Ductal - MHC Class II
+Cell917	Ductal - CRISP3 high/centroacinar like
+Cell918	Ductal - CRISP3 high/centroacinar like
+Cell919	Ductal - CRISP3 high/centroacinar like
+Cell92	Ductal - CRISP3 high/centroacinar like
+Cell920	Cancer clone B
+Cell921	Macrophages A
+Cell922	Ductal - CRISP3 high/centroacinar like
+Cell923	Ductal - terminal ductal like
+Cell924	Macrophages A
+Cell925	Ductal - terminal ductal like
+Cell926	Ductal - terminal ductal like
+Cell927	Ductal - CRISP3 high/centroacinar like
+Cell928	Ductal - CRISP3 high/centroacinar like
+Cell929	Ductal - CRISP3 high/centroacinar like
+Cell93	Ductal - terminal ductal like
+Cell930	Ductal - APOL high/hypoxic
+Cell931	Ductal - APOL high/hypoxic
+Cell932	Ductal - MHC Class II
+Cell933	Cancer clone B
+Cell934	Ductal - MHC Class II
+Cell935	Ductal - APOL high/hypoxic
+Cell936	Cancer clone B
+Cell937	mDCs B
+Cell938	Cancer clone B
+Cell939	Ductal - CRISP3 high/centroacinar like
+Cell94	Ductal - APOL high/hypoxic
+Cell940	Ductal - terminal ductal like
+Cell941	Ductal - APOL high/hypoxic
+Cell942	Ductal - terminal ductal like
+Cell943	Ductal - CRISP3 high/centroacinar like
+Cell944	Cancer clone B
+Cell945	Ductal - APOL high/hypoxic
+Cell946	Ductal - CRISP3 high/centroacinar like
+Cell947	Ductal - CRISP3 high/centroacinar like
+Cell948	Ductal - APOL high/hypoxic
+Cell949	Ductal - terminal ductal like
+Cell95	Ductal - CRISP3 high/centroacinar like
+Cell950	Ductal - APOL high/hypoxic
+Cell951	Ductal - CRISP3 high/centroacinar like
+Cell952	Ductal - terminal ductal like
+Cell953	Cancer clone B
+Cell954	Ductal - APOL high/hypoxic
+Cell955	Ductal - CRISP3 high/centroacinar like
+Cell956	Ductal - CRISP3 high/centroacinar like
+Cell957	Ductal - CRISP3 high/centroacinar like
+Cell958	Ductal - CRISP3 high/centroacinar like
+Cell959	T cells & NK cells
+Cell96	Endocrine cells
+Cell960	Ductal - MHC Class II
+Cell961	Macrophages A
+Cell962	Ductal - APOL high/hypoxic
+Cell963	Ductal - terminal ductal like
+Cell964	Ductal - CRISP3 high/centroacinar like
+Cell965	Ductal - terminal ductal like
+Cell966	Ductal - terminal ductal like
+Cell967	Macrophages A
+Cell968	Ductal - MHC Class II
+Cell969	Ductal - APOL high/hypoxic
+Cell97	Endothelial cells
+Cell970	Cancer clone B
+Cell971	mDCs B
+Cell972	Ductal - MHC Class II
+Cell973	Fibroblasts
+Cell974	Ductal - APOL high/hypoxic
+Cell975	Ductal - MHC Class II
+Cell976	Ductal - terminal ductal like
+Cell977	Cancer clone B
+Cell978	Ductal - APOL high/hypoxic
+Cell979	mDCs B
+Cell98	Ductal - terminal ductal like
+Cell980	Ductal - MHC Class II
+Cell981	Ductal - APOL high/hypoxic
+Cell982	Ductal - terminal ductal like
+Cell983	Ductal - APOL high/hypoxic
+Cell984	Cancer clone B
+Cell985	Ductal - MHC Class II
+Cell986	Cancer clone A
+Cell987	Ductal - CRISP3 high/centroacinar like
+Cell988	Ductal - CRISP3 high/centroacinar like
+Cell989	Ductal - CRISP3 high/centroacinar like
+Cell99	Ductal - terminal ductal like
+Cell990	Ductal - terminal ductal like
+Cell991	Ductal - terminal ductal like
+Cell992	Ductal - CRISP3 high/centroacinar like
+Cell993	Ductal - terminal ductal like
+Cell994	Ductal - terminal ductal like
+Cell995	Ductal - MHC Class II
+Cell996	Ductal - MHC Class II
+Cell997	Ductal - CRISP3 high/centroacinar like
+Cell998	Ductal - CRISP3 high/centroacinar like
+Cell999	Tuft cells
