@@ -1,0 +1,1927 @@
+"","CellID","CellType","cluster"
+"1","Cell1","Acinar cells",1
+"2","Cell10","Ductal - terminal ductal like",7
+"3","Cell100","Ductal - MHC Class II",6
+"4","Cell1000","Ductal - MHC Class II",6
+"5","Cell1001","mDCs B",15
+"6","Cell1002","Ductal - MHC Class II",6
+"7","Cell1003","Ductal - CRISP3 high/centroacinar like",5
+"8","Cell1004","Ductal - CRISP3 high/centroacinar like",5
+"9","Cell1005","Ductal - CRISP3 high/centroacinar like",5
+"10","Cell1006","Ductal - terminal ductal like",7
+"11","Cell1007","Cancer clone B",3
+"12","Cell1008","Cancer clone A",2
+"13","Cell1009","Cancer clone B",3
+"14","Cell101","Ductal - CRISP3 high/centroacinar like",5
+"15","Cell1010","Ductal - CRISP3 high/centroacinar like",5
+"16","Cell1011","Ductal - CRISP3 high/centroacinar like",5
+"17","Cell1012","Ductal - APOL high/hypoxic",4
+"18","Cell1013","Ductal - MHC Class II",6
+"19","Cell1014","Cancer clone A",2
+"20","Cell1015","mDCs A",14
+"21","Cell1016","Ductal - CRISP3 high/centroacinar like",5
+"22","Cell1017","mDCs B",15
+"23","Cell1018","Cancer clone B",3
+"24","Cell1019","Macrophages B",12
+"25","Cell102","mDCs A",14
+"26","Cell1020","Ductal - terminal ductal like",7
+"27","Cell1021","Ductal - APOL high/hypoxic",4
+"28","Cell1022","Macrophages B",12
+"29","Cell1023","Ductal - CRISP3 high/centroacinar like",5
+"30","Cell1024","Ductal - CRISP3 high/centroacinar like",5
+"31","Cell1025","Ductal - CRISP3 high/centroacinar like",5
+"32","Cell1026","Cancer clone B",3
+"33","Cell1027","Ductal - terminal ductal like",7
+"34","Cell1028","Ductal - terminal ductal like",7
+"35","Cell1029","Ductal - terminal ductal like",7
+"36","Cell103","Ductal - CRISP3 high/centroacinar like",5
+"37","Cell1030","Cancer clone B",3
+"38","Cell1031","Cancer clone B",3
+"39","Cell1032","Ductal - terminal ductal like",7
+"40","Cell1033","Ductal - APOL high/hypoxic",4
+"41","Cell1034","Macrophages B",12
+"42","Cell1035","T cells & NK cells",19
+"43","Cell1036","Tuft cells",20
+"44","Cell1037","Ductal - MHC Class II",6
+"45","Cell1038","Ductal - CRISP3 high/centroacinar like",5
+"46","Cell1039","Ductal - APOL high/hypoxic",4
+"47","Cell104","Ductal - APOL high/hypoxic",4
+"48","Cell1040","Cancer clone B",3
+"49","Cell1041","Endocrine cells",8
+"50","Cell1042","Cancer clone B",3
+"51","Cell1043","Ductal - APOL high/hypoxic",4
+"52","Cell1044","Ductal - terminal ductal like",7
+"53","Cell1045","Tuft cells",20
+"54","Cell1046","Ductal - MHC Class II",6
+"55","Cell1047","Ductal - APOL high/hypoxic",4
+"56","Cell1048","Cancer clone B",3
+"57","Cell1049","Ductal - CRISP3 high/centroacinar like",5
+"58","Cell105","Ductal - terminal ductal like",7
+"59","Cell1050","pDCs",17
+"60","Cell1051","mDCs B",15
+"61","Cell1052","Ductal - terminal ductal like",7
+"62","Cell1053","Ductal - CRISP3 high/centroacinar like",5
+"63","Cell1054","Ductal - MHC Class II",6
+"64","Cell1055","Macrophages A",11
+"65","Cell1056","Ductal - CRISP3 high/centroacinar like",5
+"66","Cell1057","Ductal - terminal ductal like",7
+"67","Cell1058","Cancer clone B",3
+"68","Cell1059","Ductal - CRISP3 high/centroacinar like",5
+"69","Cell106","Cancer clone B",3
+"70","Cell1060","Ductal - APOL high/hypoxic",4
+"71","Cell1061","Ductal - terminal ductal like",7
+"72","Cell1062","Ductal - APOL high/hypoxic",4
+"73","Cell1063","Ductal - CRISP3 high/centroacinar like",5
+"74","Cell1064","Ductal - CRISP3 high/centroacinar like",5
+"75","Cell1065","Monocytes",16
+"76","Cell1066","Ductal - CRISP3 high/centroacinar like",5
+"77","Cell1067","Ductal - CRISP3 high/centroacinar like",5
+"78","Cell1068","Ductal - MHC Class II",6
+"79","Cell1069","Ductal - terminal ductal like",7
+"80","Cell107","Ductal - CRISP3 high/centroacinar like",5
+"81","Cell1070","Ductal - CRISP3 high/centroacinar like",5
+"82","Cell1071","Ductal - CRISP3 high/centroacinar like",5
+"83","Cell1072","Ductal - CRISP3 high/centroacinar like",5
+"84","Cell1073","Monocytes",16
+"85","Cell1074","Ductal - terminal ductal like",7
+"86","Cell1075","Cancer clone A",2
+"87","Cell1076","Ductal - MHC Class II",6
+"88","Cell1077","RBCs",18
+"89","Cell1078","Acinar cells",1
+"90","Cell1079","RBCs",18
+"91","Cell108","Ductal - CRISP3 high/centroacinar like",5
+"92","Cell1080","Ductal - CRISP3 high/centroacinar like",5
+"93","Cell1081","Ductal - CRISP3 high/centroacinar like",5
+"94","Cell1082","Ductal - CRISP3 high/centroacinar like",5
+"95","Cell1083","Cancer clone A",2
+"96","Cell1084","Ductal - MHC Class II",6
+"97","Cell1085","Ductal - CRISP3 high/centroacinar like",5
+"98","Cell1086","Ductal - terminal ductal like",7
+"99","Cell1087","Ductal - terminal ductal like",7
+"100","Cell1088","Ductal - terminal ductal like",7
+"101","Cell1089","Ductal - CRISP3 high/centroacinar like",5
+"102","Cell109","Ductal - CRISP3 high/centroacinar like",5
+"103","Cell1090","Ductal - APOL high/hypoxic",4
+"104","Cell1091","Ductal - MHC Class II",6
+"105","Cell1092","Cancer clone B",3
+"106","Cell1093","Cancer clone B",3
+"107","Cell1094","Ductal - terminal ductal like",7
+"108","Cell1095","Ductal - MHC Class II",6
+"109","Cell1096","Ductal - CRISP3 high/centroacinar like",5
+"110","Cell1097","Ductal - APOL high/hypoxic",4
+"111","Cell1098","Ductal - terminal ductal like",7
+"112","Cell1099","Ductal - terminal ductal like",7
+"113","Cell11","Ductal - terminal ductal like",7
+"114","Cell110","Ductal - MHC Class II",6
+"115","Cell1100","Ductal - APOL high/hypoxic",4
+"116","Cell1101","Ductal - terminal ductal like",7
+"117","Cell1102","Ductal - terminal ductal like",7
+"118","Cell1103","Ductal - MHC Class II",6
+"119","Cell1104","Cancer clone A",2
+"120","Cell1105","Ductal - CRISP3 high/centroacinar like",5
+"121","Cell1106","Ductal - CRISP3 high/centroacinar like",5
+"122","Cell1107","Ductal - APOL high/hypoxic",4
+"123","Cell1108","Ductal - CRISP3 high/centroacinar like",5
+"124","Cell1109","mDCs B",15
+"125","Cell111","Ductal - MHC Class II",6
+"126","Cell1110","Cancer clone A",2
+"127","Cell1111","mDCs B",15
+"128","Cell1112","Cancer clone B",3
+"129","Cell1113","pDCs",17
+"130","Cell1114","Ductal - MHC Class II",6
+"131","Cell1115","Ductal - CRISP3 high/centroacinar like",5
+"132","Cell1116","Ductal - terminal ductal like",7
+"133","Cell1117","Ductal - APOL high/hypoxic",4
+"134","Cell1118","Ductal - CRISP3 high/centroacinar like",5
+"135","Cell1119","Ductal - terminal ductal like",7
+"136","Cell112","Ductal - MHC Class II",6
+"137","Cell1120","Ductal - MHC Class II",6
+"138","Cell1121","Ductal - CRISP3 high/centroacinar like",5
+"139","Cell1122","Ductal - APOL high/hypoxic",4
+"140","Cell1123","Ductal - MHC Class II",6
+"141","Cell1124","Ductal - MHC Class II",6
+"142","Cell1125","Ductal - MHC Class II",6
+"143","Cell1126","Ductal - CRISP3 high/centroacinar like",5
+"144","Cell1127","Cancer clone A",2
+"145","Cell1128","Ductal - terminal ductal like",7
+"146","Cell1129","Ductal - APOL high/hypoxic",4
+"147","Cell113","Ductal - CRISP3 high/centroacinar like",5
+"148","Cell1130","Ductal - terminal ductal like",7
+"149","Cell1131","Ductal - terminal ductal like",7
+"150","Cell1132","Cancer clone B",3
+"151","Cell1133","Ductal - CRISP3 high/centroacinar like",5
+"152","Cell1134","Tuft cells",20
+"153","Cell1135","Cancer clone A",2
+"154","Cell1136","Ductal - CRISP3 high/centroacinar like",5
+"155","Cell1137","Ductal - terminal ductal like",7
+"156","Cell1138","Ductal - MHC Class II",6
+"157","Cell1139","Ductal - terminal ductal like",7
+"158","Cell114","Ductal - CRISP3 high/centroacinar like",5
+"159","Cell1140","Cancer clone B",3
+"160","Cell1141","Acinar cells",1
+"161","Cell1142","Cancer clone A",2
+"162","Cell1143","Ductal - CRISP3 high/centroacinar like",5
+"163","Cell1144","Ductal - MHC Class II",6
+"164","Cell1145","Cancer clone A",2
+"165","Cell1146","Ductal - terminal ductal like",7
+"166","Cell1147","Ductal - APOL high/hypoxic",4
+"167","Cell1148","Cancer clone A",2
+"168","Cell1149","Cancer clone B",3
+"169","Cell115","Ductal - CRISP3 high/centroacinar like",5
+"170","Cell1150","Ductal - terminal ductal like",7
+"171","Cell1151","Ductal - CRISP3 high/centroacinar like",5
+"172","Cell1152","Ductal - CRISP3 high/centroacinar like",5
+"173","Cell1153","mDCs B",15
+"174","Cell1154","Ductal - APOL high/hypoxic",4
+"175","Cell1155","Cancer clone B",3
+"176","Cell1156","Cancer clone A",2
+"177","Cell1157","Ductal - CRISP3 high/centroacinar like",5
+"178","Cell1158","Ductal - terminal ductal like",7
+"179","Cell1159","Ductal - terminal ductal like",7
+"180","Cell116","Ductal - MHC Class II",6
+"181","Cell1160","Ductal - APOL high/hypoxic",4
+"182","Cell1161","Ductal - CRISP3 high/centroacinar like",5
+"183","Cell1162","Ductal - APOL high/hypoxic",4
+"184","Cell1163","Ductal - CRISP3 high/centroacinar like",5
+"185","Cell1164","Ductal - CRISP3 high/centroacinar like",5
+"186","Cell1165","Cancer clone B",3
+"187","Cell1166","Ductal - APOL high/hypoxic",4
+"188","Cell1167","Ductal - CRISP3 high/centroacinar like",5
+"189","Cell1168","Ductal - MHC Class II",6
+"190","Cell1169","Ductal - CRISP3 high/centroacinar like",5
+"191","Cell117","Ductal - MHC Class II",6
+"192","Cell1170","Ductal - MHC Class II",6
+"193","Cell1171","Ductal - terminal ductal like",7
+"194","Cell1172","Ductal - MHC Class II",6
+"195","Cell1173","Ductal - terminal ductal like",7
+"196","Cell1174","Ductal - APOL high/hypoxic",4
+"197","Cell1175","Ductal - MHC Class II",6
+"198","Cell1176","Cancer clone A",2
+"199","Cell1177","Ductal - terminal ductal like",7
+"200","Cell1178","Ductal - MHC Class II",6
+"201","Cell1179","Ductal - APOL high/hypoxic",4
+"202","Cell118","Ductal - CRISP3 high/centroacinar like",5
+"203","Cell1180","Cancer clone B",3
+"204","Cell1181","Ductal - CRISP3 high/centroacinar like",5
+"205","Cell1182","Ductal - MHC Class II",6
+"206","Cell1183","Ductal - terminal ductal like",7
+"207","Cell1184","Ductal - CRISP3 high/centroacinar like",5
+"208","Cell1185","Ductal - MHC Class II",6
+"209","Cell1186","Ductal - terminal ductal like",7
+"210","Cell1187","Ductal - terminal ductal like",7
+"211","Cell1188","Ductal - MHC Class II",6
+"212","Cell1189","Ductal - MHC Class II",6
+"213","Cell119","Ductal - APOL high/hypoxic",4
+"214","Cell1190","Ductal - MHC Class II",6
+"215","Cell1191","Ductal - MHC Class II",6
+"216","Cell1192","Ductal - terminal ductal like",7
+"217","Cell1193","Cancer clone B",3
+"218","Cell1194","Ductal - terminal ductal like",7
+"219","Cell1195","Ductal - APOL high/hypoxic",4
+"220","Cell1196","Ductal - terminal ductal like",7
+"221","Cell1197","Ductal - CRISP3 high/centroacinar like",5
+"222","Cell1198","Ductal - MHC Class II",6
+"223","Cell1199","Ductal - APOL high/hypoxic",4
+"224","Cell12","Cancer clone B",3
+"225","Cell120","Ductal - MHC Class II",6
+"226","Cell1200","Cancer clone B",3
+"227","Cell1201","Ductal - APOL high/hypoxic",4
+"228","Cell1202","Ductal - MHC Class II",6
+"229","Cell1203","Ductal - terminal ductal like",7
+"230","Cell1204","Ductal - terminal ductal like",7
+"231","Cell1205","Ductal - MHC Class II",6
+"232","Cell1206","Cancer clone A",2
+"233","Cell1207","Ductal - CRISP3 high/centroacinar like",5
+"234","Cell1208","Ductal - CRISP3 high/centroacinar like",5
+"235","Cell1209","Ductal - CRISP3 high/centroacinar like",5
+"236","Cell121","Ductal - MHC Class II",6
+"237","Cell1210","Ductal - APOL high/hypoxic",4
+"238","Cell1211","Ductal - CRISP3 high/centroacinar like",5
+"239","Cell1212","Ductal - CRISP3 high/centroacinar like",5
+"240","Cell1213","Ductal - APOL high/hypoxic",4
+"241","Cell1214","Ductal - CRISP3 high/centroacinar like",5
+"242","Cell1215","Ductal - APOL high/hypoxic",4
+"243","Cell1216","Ductal - terminal ductal like",7
+"244","Cell1217","Ductal - CRISP3 high/centroacinar like",5
+"245","Cell1218","Ductal - MHC Class II",6
+"246","Cell1219","Ductal - CRISP3 high/centroacinar like",5
+"247","Cell122","Ductal - CRISP3 high/centroacinar like",5
+"248","Cell1220","Monocytes",16
+"249","Cell1221","Ductal - APOL high/hypoxic",4
+"250","Cell1222","Cancer clone B",3
+"251","Cell1223","Ductal - CRISP3 high/centroacinar like",5
+"252","Cell1224","Tuft cells",20
+"253","Cell1225","Macrophages A",11
+"254","Cell1226","Ductal - terminal ductal like",7
+"255","Cell1227","Ductal - CRISP3 high/centroacinar like",5
+"256","Cell1228","Macrophages B",12
+"257","Cell1229","T cells & NK cells",19
+"258","Cell123","Ductal - terminal ductal like",7
+"259","Cell1230","Ductal - terminal ductal like",7
+"260","Cell1231","Ductal - CRISP3 high/centroacinar like",5
+"261","Cell1232","Cancer clone B",3
+"262","Cell1233","Ductal - CRISP3 high/centroacinar like",5
+"263","Cell1234","Ductal - terminal ductal like",7
+"264","Cell1235","Ductal - CRISP3 high/centroacinar like",5
+"265","Cell1236","Ductal - MHC Class II",6
+"266","Cell1237","Ductal - CRISP3 high/centroacinar like",5
+"267","Cell1238","Cancer clone B",3
+"268","Cell1239","Ductal - MHC Class II",6
+"269","Cell124","Ductal - APOL high/hypoxic",4
+"270","Cell1240","Cancer clone B",3
+"271","Cell1241","Ductal - CRISP3 high/centroacinar like",5
+"272","Cell1242","Tuft cells",20
+"273","Cell1243","Ductal - terminal ductal like",7
+"274","Cell1244","Endothelial cells",9
+"275","Cell1245","Ductal - terminal ductal like",7
+"276","Cell1246","Ductal - APOL high/hypoxic",4
+"277","Cell1247","Ductal - terminal ductal like",7
+"278","Cell1248","Ductal - terminal ductal like",7
+"279","Cell1249","Ductal - CRISP3 high/centroacinar like",5
+"280","Cell125","Ductal - APOL high/hypoxic",4
+"281","Cell1250","Ductal - APOL high/hypoxic",4
+"282","Cell1251","Ductal - terminal ductal like",7
+"283","Cell1252","Ductal - MHC Class II",6
+"284","Cell1253","Ductal - CRISP3 high/centroacinar like",5
+"285","Cell1254","Ductal - APOL high/hypoxic",4
+"286","Cell1255","Ductal - MHC Class II",6
+"287","Cell1256","Ductal - terminal ductal like",7
+"288","Cell1257","Ductal - APOL high/hypoxic",4
+"289","Cell1258","mDCs B",15
+"290","Cell1259","Ductal - APOL high/hypoxic",4
+"291","Cell126","Macrophages A",11
+"292","Cell1260","Ductal - CRISP3 high/centroacinar like",5
+"293","Cell1261","Ductal - CRISP3 high/centroacinar like",5
+"294","Cell1262","Ductal - terminal ductal like",7
+"295","Cell1263","Ductal - MHC Class II",6
+"296","Cell1264","Cancer clone B",3
+"297","Cell1265","Cancer clone B",3
+"298","Cell1266","Cancer clone B",3
+"299","Cell1267","Ductal - terminal ductal like",7
+"300","Cell1268","Ductal - MHC Class II",6
+"301","Cell1269","Ductal - terminal ductal like",7
+"302","Cell127","mDCs B",15
+"303","Cell1270","Ductal - CRISP3 high/centroacinar like",5
+"304","Cell1271","Macrophages B",12
+"305","Cell1272","Ductal - CRISP3 high/centroacinar like",5
+"306","Cell1273","Ductal - CRISP3 high/centroacinar like",5
+"307","Cell1274","Cancer clone A",2
+"308","Cell1275","Cancer clone A",2
+"309","Cell1276","Ductal - CRISP3 high/centroacinar like",5
+"310","Cell1277","Ductal - MHC Class II",6
+"311","Cell1278","Ductal - CRISP3 high/centroacinar like",5
+"312","Cell1279","Ductal - CRISP3 high/centroacinar like",5
+"313","Cell128","Cancer clone B",3
+"314","Cell1280","Ductal - CRISP3 high/centroacinar like",5
+"315","Cell1281","Ductal - MHC Class II",6
+"316","Cell1282","Ductal - CRISP3 high/centroacinar like",5
+"317","Cell1283","Cancer clone B",3
+"318","Cell1284","Tuft cells",20
+"319","Cell1285","Ductal - MHC Class II",6
+"320","Cell1286","Cancer clone A",2
+"321","Cell1287","Ductal - terminal ductal like",7
+"322","Cell1288","Ductal - MHC Class II",6
+"323","Cell1289","Ductal - CRISP3 high/centroacinar like",5
+"324","Cell129","Ductal - MHC Class II",6
+"325","Cell1290","Ductal - terminal ductal like",7
+"326","Cell1291","Ductal - terminal ductal like",7
+"327","Cell1292","Ductal - CRISP3 high/centroacinar like",5
+"328","Cell1293","Ductal - APOL high/hypoxic",4
+"329","Cell1294","Ductal - CRISP3 high/centroacinar like",5
+"330","Cell1295","Ductal - terminal ductal like",7
+"331","Cell1296","Cancer clone B",3
+"332","Cell1297","Ductal - terminal ductal like",7
+"333","Cell1298","Ductal - CRISP3 high/centroacinar like",5
+"334","Cell1299","Cancer clone A",2
+"335","Cell13","Ductal - CRISP3 high/centroacinar like",5
+"336","Cell130","Ductal - CRISP3 high/centroacinar like",5
+"337","Cell1300","Ductal - CRISP3 high/centroacinar like",5
+"338","Cell1301","Ductal - MHC Class II",6
+"339","Cell1302","T cells & NK cells",19
+"340","Cell1303","Ductal - CRISP3 high/centroacinar like",5
+"341","Cell1304","Ductal - CRISP3 high/centroacinar like",5
+"342","Cell1305","T cells & NK cells",19
+"343","Cell1306","Cancer clone B",3
+"344","Cell1307","Macrophages B",12
+"345","Cell1308","Ductal - CRISP3 high/centroacinar like",5
+"346","Cell1309","Cancer clone B",3
+"347","Cell131","Ductal - MHC Class II",6
+"348","Cell1310","Cancer clone B",3
+"349","Cell1311","Ductal - CRISP3 high/centroacinar like",5
+"350","Cell1312","Ductal - APOL high/hypoxic",4
+"351","Cell1313","Tuft cells",20
+"352","Cell1314","Ductal - CRISP3 high/centroacinar like",5
+"353","Cell1315","Ductal - CRISP3 high/centroacinar like",5
+"354","Cell1316","mDCs B",15
+"355","Cell1317","Ductal - APOL high/hypoxic",4
+"356","Cell1318","Ductal - MHC Class II",6
+"357","Cell1319","T cells & NK cells",19
+"358","Cell132","Ductal - CRISP3 high/centroacinar like",5
+"359","Cell1320","Ductal - terminal ductal like",7
+"360","Cell1321","Ductal - CRISP3 high/centroacinar like",5
+"361","Cell1322","Ductal - CRISP3 high/centroacinar like",5
+"362","Cell1323","Ductal - terminal ductal like",7
+"363","Cell1324","Cancer clone B",3
+"364","Cell1325","Cancer clone A",2
+"365","Cell1326","Ductal - CRISP3 high/centroacinar like",5
+"366","Cell1327","Cancer clone A",2
+"367","Cell1328","Ductal - APOL high/hypoxic",4
+"368","Cell1329","Ductal - CRISP3 high/centroacinar like",5
+"369","Cell133","Ductal - terminal ductal like",7
+"370","Cell1330","Ductal - CRISP3 high/centroacinar like",5
+"371","Cell1331","Cancer clone B",3
+"372","Cell1332","Ductal - terminal ductal like",7
+"373","Cell1333","Cancer clone B",3
+"374","Cell1334","Cancer clone A",2
+"375","Cell1335","Ductal - CRISP3 high/centroacinar like",5
+"376","Cell1336","Tuft cells",20
+"377","Cell1337","Ductal - MHC Class II",6
+"378","Cell1338","Cancer clone B",3
+"379","Cell1339","Ductal - terminal ductal like",7
+"380","Cell134","Ductal - CRISP3 high/centroacinar like",5
+"381","Cell1340","Cancer clone B",3
+"382","Cell1341","Cancer clone A",2
+"383","Cell1342","Ductal - MHC Class II",6
+"384","Cell1343","Ductal - MHC Class II",6
+"385","Cell1344","Ductal - MHC Class II",6
+"386","Cell1345","Cancer clone B",3
+"387","Cell1346","Ductal - terminal ductal like",7
+"388","Cell1347","Ductal - APOL high/hypoxic",4
+"389","Cell1348","Ductal - CRISP3 high/centroacinar like",5
+"390","Cell1349","Macrophages B",12
+"391","Cell135","Cancer clone A",2
+"392","Cell1350","Cancer clone A",2
+"393","Cell1351","Ductal - MHC Class II",6
+"394","Cell1352","Cancer clone B",3
+"395","Cell1353","Ductal - terminal ductal like",7
+"396","Cell1354","Ductal - terminal ductal like",7
+"397","Cell1355","Monocytes",16
+"398","Cell1356","Tuft cells",20
+"399","Cell1357","pDCs",17
+"400","Cell1358","Ductal - MHC Class II",6
+"401","Cell1359","Cancer clone B",3
+"402","Cell136","Ductal - terminal ductal like",7
+"403","Cell1360","mDCs B",15
+"404","Cell1361","Cancer clone A",2
+"405","Cell1362","Ductal - APOL high/hypoxic",4
+"406","Cell1363","Ductal - APOL high/hypoxic",4
+"407","Cell1364","Ductal - APOL high/hypoxic",4
+"408","Cell1365","Ductal - APOL high/hypoxic",4
+"409","Cell1366","RBCs",18
+"410","Cell1367","Ductal - APOL high/hypoxic",4
+"411","Cell1368","Ductal - CRISP3 high/centroacinar like",5
+"412","Cell1369","Ductal - CRISP3 high/centroacinar like",5
+"413","Cell137","Ductal - CRISP3 high/centroacinar like",5
+"414","Cell1370","RBCs",18
+"415","Cell1371","RBCs",18
+"416","Cell1372","Ductal - terminal ductal like",7
+"417","Cell1373","Ductal - terminal ductal like",7
+"418","Cell1374","Ductal - CRISP3 high/centroacinar like",5
+"419","Cell1375","Ductal - terminal ductal like",7
+"420","Cell1376","Cancer clone B",3
+"421","Cell1377","Ductal - terminal ductal like",7
+"422","Cell1378","Acinar cells",1
+"423","Cell1379","Ductal - APOL high/hypoxic",4
+"424","Cell138","Mast cells",13
+"425","Cell1380","Cancer clone A",2
+"426","Cell1381","Ductal - MHC Class II",6
+"427","Cell1382","Ductal - MHC Class II",6
+"428","Cell1383","Ductal - CRISP3 high/centroacinar like",5
+"429","Cell1384","Cancer clone B",3
+"430","Cell1385","Ductal - terminal ductal like",7
+"431","Cell1386","Ductal - CRISP3 high/centroacinar like",5
+"432","Cell1387","Ductal - MHC Class II",6
+"433","Cell1388","Ductal - terminal ductal like",7
+"434","Cell1389","Ductal - APOL high/hypoxic",4
+"435","Cell139","Ductal - CRISP3 high/centroacinar like",5
+"436","Cell1390","Ductal - terminal ductal like",7
+"437","Cell1391","Cancer clone B",3
+"438","Cell1392","Ductal - MHC Class II",6
+"439","Cell1393","Cancer clone A",2
+"440","Cell1394","Cancer clone A",2
+"441","Cell1395","Cancer clone A",2
+"442","Cell1396","Ductal - CRISP3 high/centroacinar like",5
+"443","Cell1397","Cancer clone A",2
+"444","Cell1398","Ductal - CRISP3 high/centroacinar like",5
+"445","Cell1399","Ductal - MHC Class II",6
+"446","Cell14","Ductal - CRISP3 high/centroacinar like",5
+"447","Cell140","Ductal - CRISP3 high/centroacinar like",5
+"448","Cell1400","Ductal - CRISP3 high/centroacinar like",5
+"449","Cell1401","Ductal - terminal ductal like",7
+"450","Cell1402","Cancer clone B",3
+"451","Cell1403","Ductal - CRISP3 high/centroacinar like",5
+"452","Cell1404","Ductal - terminal ductal like",7
+"453","Cell1405","Ductal - CRISP3 high/centroacinar like",5
+"454","Cell1406","Ductal - CRISP3 high/centroacinar like",5
+"455","Cell1407","Ductal - CRISP3 high/centroacinar like",5
+"456","Cell1408","Ductal - terminal ductal like",7
+"457","Cell1409","Ductal - CRISP3 high/centroacinar like",5
+"458","Cell141","Ductal - CRISP3 high/centroacinar like",5
+"459","Cell1410","Cancer clone B",3
+"460","Cell1411","Ductal - terminal ductal like",7
+"461","Cell1412","Ductal - CRISP3 high/centroacinar like",5
+"462","Cell1413","Ductal - CRISP3 high/centroacinar like",5
+"463","Cell1414","Ductal - terminal ductal like",7
+"464","Cell1415","Ductal - MHC Class II",6
+"465","Cell1416","Ductal - APOL high/hypoxic",4
+"466","Cell1417","Ductal - MHC Class II",6
+"467","Cell1418","Ductal - terminal ductal like",7
+"468","Cell1419","Cancer clone A",2
+"469","Cell142","Ductal - terminal ductal like",7
+"470","Cell1420","Ductal - CRISP3 high/centroacinar like",5
+"471","Cell1421","Ductal - CRISP3 high/centroacinar like",5
+"472","Cell1422","Ductal - terminal ductal like",7
+"473","Cell1423","Ductal - CRISP3 high/centroacinar like",5
+"474","Cell1424","Cancer clone B",3
+"475","Cell1425","Ductal - terminal ductal like",7
+"476","Cell1426","mDCs A",14
+"477","Cell1427","Ductal - MHC Class II",6
+"478","Cell1428","Ductal - CRISP3 high/centroacinar like",5
+"479","Cell1429","Ductal - terminal ductal like",7
+"480","Cell143","Ductal - terminal ductal like",7
+"481","Cell1430","Ductal - terminal ductal like",7
+"482","Cell1431","Ductal - MHC Class II",6
+"483","Cell1432","mDCs B",15
+"484","Cell1433","Cancer clone B",3
+"485","Cell1434","Ductal - terminal ductal like",7
+"486","Cell1435","Ductal - CRISP3 high/centroacinar like",5
+"487","Cell1436","Ductal - CRISP3 high/centroacinar like",5
+"488","Cell1437","Acinar cells",1
+"489","Cell1438","Ductal - CRISP3 high/centroacinar like",5
+"490","Cell1439","Endothelial cells",9
+"491","Cell144","Ductal - APOL high/hypoxic",4
+"492","Cell1440","Ductal - CRISP3 high/centroacinar like",5
+"493","Cell1441","Ductal - APOL high/hypoxic",4
+"494","Cell1442","Cancer clone B",3
+"495","Cell1443","Ductal - terminal ductal like",7
+"496","Cell1444","Ductal - CRISP3 high/centroacinar like",5
+"497","Cell1445","mDCs B",15
+"498","Cell1446","Ductal - CRISP3 high/centroacinar like",5
+"499","Cell1447","Ductal - terminal ductal like",7
+"500","Cell1448","Ductal - terminal ductal like",7
+"501","Cell1449","Ductal - CRISP3 high/centroacinar like",5
+"502","Cell145","Cancer clone A",2
+"503","Cell1450","RBCs",18
+"504","Cell1451","Ductal - CRISP3 high/centroacinar like",5
+"505","Cell1452","Ductal - CRISP3 high/centroacinar like",5
+"506","Cell1453","Ductal - terminal ductal like",7
+"507","Cell1454","Ductal - APOL high/hypoxic",4
+"508","Cell1455","Ductal - CRISP3 high/centroacinar like",5
+"509","Cell1456","Cancer clone B",3
+"510","Cell1457","Cancer clone B",3
+"511","Cell1458","Ductal - terminal ductal like",7
+"512","Cell1459","Ductal - CRISP3 high/centroacinar like",5
+"513","Cell146","Ductal - CRISP3 high/centroacinar like",5
+"514","Cell1460","Ductal - CRISP3 high/centroacinar like",5
+"515","Cell1461","Ductal - MHC Class II",6
+"516","Cell1462","Ductal - CRISP3 high/centroacinar like",5
+"517","Cell1463","Ductal - MHC Class II",6
+"518","Cell1464","Cancer clone B",3
+"519","Cell1465","Mast cells",13
+"520","Cell1466","Ductal - terminal ductal like",7
+"521","Cell1467","Ductal - CRISP3 high/centroacinar like",5
+"522","Cell1468","Ductal - terminal ductal like",7
+"523","Cell1469","Ductal - APOL high/hypoxic",4
+"524","Cell147","Ductal - CRISP3 high/centroacinar like",5
+"525","Cell1470","Cancer clone A",2
+"526","Cell1471","Ductal - terminal ductal like",7
+"527","Cell1472","mDCs B",15
+"528","Cell1473","Endothelial cells",9
+"529","Cell1474","Cancer clone B",3
+"530","Cell1475","mDCs B",15
+"531","Cell1476","Ductal - APOL high/hypoxic",4
+"532","Cell1477","Ductal - CRISP3 high/centroacinar like",5
+"533","Cell1478","Ductal - terminal ductal like",7
+"534","Cell1479","Ductal - CRISP3 high/centroacinar like",5
+"535","Cell148","Ductal - CRISP3 high/centroacinar like",5
+"536","Cell1480","Ductal - CRISP3 high/centroacinar like",5
+"537","Cell1481","Ductal - terminal ductal like",7
+"538","Cell1482","Ductal - terminal ductal like",7
+"539","Cell1483","Ductal - MHC Class II",6
+"540","Cell1484","Ductal - terminal ductal like",7
+"541","Cell1485","Mast cells",13
+"542","Cell1486","Ductal - CRISP3 high/centroacinar like",5
+"543","Cell1487","Ductal - terminal ductal like",7
+"544","Cell1488","Ductal - MHC Class II",6
+"545","Cell1489","Ductal - CRISP3 high/centroacinar like",5
+"546","Cell149","Ductal - CRISP3 high/centroacinar like",5
+"547","Cell1490","Ductal - CRISP3 high/centroacinar like",5
+"548","Cell1491","Ductal - CRISP3 high/centroacinar like",5
+"549","Cell1492","Ductal - terminal ductal like",7
+"550","Cell1493","Ductal - MHC Class II",6
+"551","Cell1494","Ductal - APOL high/hypoxic",4
+"552","Cell1495","Ductal - CRISP3 high/centroacinar like",5
+"553","Cell1496","Ductal - CRISP3 high/centroacinar like",5
+"554","Cell1497","Cancer clone A",2
+"555","Cell1498","Ductal - APOL high/hypoxic",4
+"556","Cell1499","Ductal - CRISP3 high/centroacinar like",5
+"557","Cell15","Ductal - terminal ductal like",7
+"558","Cell150","Ductal - terminal ductal like",7
+"559","Cell1500","Ductal - CRISP3 high/centroacinar like",5
+"560","Cell1501","Cancer clone A",2
+"561","Cell1502","Cancer clone B",3
+"562","Cell1503","Ductal - terminal ductal like",7
+"563","Cell1504","Ductal - terminal ductal like",7
+"564","Cell1505","Ductal - MHC Class II",6
+"565","Cell1506","Ductal - APOL high/hypoxic",4
+"566","Cell1507","Ductal - terminal ductal like",7
+"567","Cell1508","Ductal - terminal ductal like",7
+"568","Cell1509","Ductal - CRISP3 high/centroacinar like",5
+"569","Cell151","Cancer clone B",3
+"570","Cell1510","Ductal - terminal ductal like",7
+"571","Cell1511","Cancer clone B",3
+"572","Cell1512","mDCs B",15
+"573","Cell1513","Acinar cells",1
+"574","Cell1514","Ductal - CRISP3 high/centroacinar like",5
+"575","Cell1515","Ductal - terminal ductal like",7
+"576","Cell1516","Cancer clone B",3
+"577","Cell1517","Ductal - MHC Class II",6
+"578","Cell1518","Ductal - APOL high/hypoxic",4
+"579","Cell1519","Ductal - MHC Class II",6
+"580","Cell152","Ductal - CRISP3 high/centroacinar like",5
+"581","Cell1520","Ductal - CRISP3 high/centroacinar like",5
+"582","Cell1521","Ductal - MHC Class II",6
+"583","Cell1522","Ductal - MHC Class II",6
+"584","Cell1523","Ductal - CRISP3 high/centroacinar like",5
+"585","Cell1524","Ductal - MHC Class II",6
+"586","Cell1525","Ductal - CRISP3 high/centroacinar like",5
+"587","Cell1526","Ductal - CRISP3 high/centroacinar like",5
+"588","Cell1527","Ductal - MHC Class II",6
+"589","Cell1528","mDCs B",15
+"590","Cell1529","Ductal - terminal ductal like",7
+"591","Cell153","Ductal - MHC Class II",6
+"592","Cell1530","Ductal - terminal ductal like",7
+"593","Cell1531","Fibroblasts",10
+"594","Cell1532","Ductal - terminal ductal like",7
+"595","Cell1533","Ductal - terminal ductal like",7
+"596","Cell1534","Ductal - MHC Class II",6
+"597","Cell1535","Cancer clone B",3
+"598","Cell1536","Ductal - CRISP3 high/centroacinar like",5
+"599","Cell1537","Ductal - APOL high/hypoxic",4
+"600","Cell1538","T cells & NK cells",19
+"601","Cell1539","Ductal - CRISP3 high/centroacinar like",5
+"602","Cell154","Mast cells",13
+"603","Cell1540","Ductal - terminal ductal like",7
+"604","Cell1541","Ductal - CRISP3 high/centroacinar like",5
+"605","Cell1542","Ductal - MHC Class II",6
+"606","Cell1543","Ductal - APOL high/hypoxic",4
+"607","Cell1544","Ductal - terminal ductal like",7
+"608","Cell1545","Ductal - terminal ductal like",7
+"609","Cell1546","Ductal - APOL high/hypoxic",4
+"610","Cell1547","Ductal - CRISP3 high/centroacinar like",5
+"611","Cell1548","Ductal - MHC Class II",6
+"612","Cell1549","Ductal - terminal ductal like",7
+"613","Cell155","Ductal - MHC Class II",6
+"614","Cell1550","Cancer clone B",3
+"615","Cell1551","Ductal - CRISP3 high/centroacinar like",5
+"616","Cell1552","Ductal - APOL high/hypoxic",4
+"617","Cell1553","Ductal - CRISP3 high/centroacinar like",5
+"618","Cell1554","Ductal - terminal ductal like",7
+"619","Cell1555","Ductal - CRISP3 high/centroacinar like",5
+"620","Cell1556","Ductal - MHC Class II",6
+"621","Cell1557","Ductal - terminal ductal like",7
+"622","Cell1558","Ductal - CRISP3 high/centroacinar like",5
+"623","Cell1559","Ductal - APOL high/hypoxic",4
+"624","Cell156","Ductal - CRISP3 high/centroacinar like",5
+"625","Cell1560","Ductal - CRISP3 high/centroacinar like",5
+"626","Cell1561","Ductal - MHC Class II",6
+"627","Cell1562","Ductal - CRISP3 high/centroacinar like",5
+"628","Cell1563","Mast cells",13
+"629","Cell1564","Cancer clone B",3
+"630","Cell1565","Ductal - APOL high/hypoxic",4
+"631","Cell1566","Ductal - MHC Class II",6
+"632","Cell1567","Ductal - terminal ductal like",7
+"633","Cell1568","Ductal - APOL high/hypoxic",4
+"634","Cell1569","Cancer clone A",2
+"635","Cell157","Ductal - CRISP3 high/centroacinar like",5
+"636","Cell1570","Cancer clone A",2
+"637","Cell1571","Ductal - CRISP3 high/centroacinar like",5
+"638","Cell1572","Ductal - CRISP3 high/centroacinar like",5
+"639","Cell1573","Ductal - MHC Class II",6
+"640","Cell1574","Ductal - MHC Class II",6
+"641","Cell1575","Tuft cells",20
+"642","Cell1576","Ductal - terminal ductal like",7
+"643","Cell1577","Cancer clone A",2
+"644","Cell1578","Ductal - MHC Class II",6
+"645","Cell1579","Cancer clone B",3
+"646","Cell158","Ductal - terminal ductal like",7
+"647","Cell1580","Cancer clone B",3
+"648","Cell1581","Ductal - APOL high/hypoxic",4
+"649","Cell1582","T cells & NK cells",19
+"650","Cell1583","Ductal - CRISP3 high/centroacinar like",5
+"651","Cell1584","Ductal - terminal ductal like",7
+"652","Cell1585","Cancer clone A",2
+"653","Cell1586","Mast cells",13
+"654","Cell1587","Ductal - APOL high/hypoxic",4
+"655","Cell1588","Ductal - APOL high/hypoxic",4
+"656","Cell1589","Ductal - MHC Class II",6
+"657","Cell159","Ductal - APOL high/hypoxic",4
+"658","Cell1590","Ductal - terminal ductal like",7
+"659","Cell1591","Macrophages A",11
+"660","Cell1592","Ductal - CRISP3 high/centroacinar like",5
+"661","Cell1593","Ductal - MHC Class II",6
+"662","Cell1594","Ductal - APOL high/hypoxic",4
+"663","Cell1595","Ductal - APOL high/hypoxic",4
+"664","Cell1596","Ductal - terminal ductal like",7
+"665","Cell1597","Ductal - CRISP3 high/centroacinar like",5
+"666","Cell1598","Cancer clone B",3
+"667","Cell1599","Endothelial cells",9
+"668","Cell16","Ductal - terminal ductal like",7
+"669","Cell160","Ductal - MHC Class II",6
+"670","Cell1600","Cancer clone A",2
+"671","Cell1601","Ductal - MHC Class II",6
+"672","Cell1602","Ductal - CRISP3 high/centroacinar like",5
+"673","Cell1603","Tuft cells",20
+"674","Cell1604","Tuft cells",20
+"675","Cell1605","Ductal - CRISP3 high/centroacinar like",5
+"676","Cell1606","Monocytes",16
+"677","Cell1607","Ductal - MHC Class II",6
+"678","Cell1608","Cancer clone B",3
+"679","Cell1609","Ductal - CRISP3 high/centroacinar like",5
+"680","Cell161","Cancer clone B",3
+"681","Cell1610","Ductal - terminal ductal like",7
+"682","Cell1611","Cancer clone B",3
+"683","Cell1612","mDCs B",15
+"684","Cell1613","Acinar cells",1
+"685","Cell1614","Ductal - CRISP3 high/centroacinar like",5
+"686","Cell1615","pDCs",17
+"687","Cell1616","Ductal - terminal ductal like",7
+"688","Cell1617","Ductal - CRISP3 high/centroacinar like",5
+"689","Cell1618","Ductal - MHC Class II",6
+"690","Cell1619","Cancer clone A",2
+"691","Cell162","Ductal - terminal ductal like",7
+"692","Cell1620","Ductal - CRISP3 high/centroacinar like",5
+"693","Cell1621","Ductal - terminal ductal like",7
+"694","Cell1622","Ductal - terminal ductal like",7
+"695","Cell1623","Ductal - CRISP3 high/centroacinar like",5
+"696","Cell1624","Ductal - CRISP3 high/centroacinar like",5
+"697","Cell1625","Ductal - APOL high/hypoxic",4
+"698","Cell1626","Ductal - APOL high/hypoxic",4
+"699","Cell1627","Ductal - MHC Class II",6
+"700","Cell1628","Ductal - CRISP3 high/centroacinar like",5
+"701","Cell1629","Cancer clone A",2
+"702","Cell163","Ductal - terminal ductal like",7
+"703","Cell1630","Ductal - APOL high/hypoxic",4
+"704","Cell1631","Ductal - CRISP3 high/centroacinar like",5
+"705","Cell1632","Ductal - APOL high/hypoxic",4
+"706","Cell1633","Ductal - terminal ductal like",7
+"707","Cell1634","Ductal - CRISP3 high/centroacinar like",5
+"708","Cell1635","Ductal - CRISP3 high/centroacinar like",5
+"709","Cell1636","Acinar cells",1
+"710","Cell1637","Ductal - APOL high/hypoxic",4
+"711","Cell1638","Ductal - CRISP3 high/centroacinar like",5
+"712","Cell1639","Ductal - MHC Class II",6
+"713","Cell164","Cancer clone B",3
+"714","Cell1640","Cancer clone B",3
+"715","Cell1641","Monocytes",16
+"716","Cell1642","T cells & NK cells",19
+"717","Cell1643","Monocytes",16
+"718","Cell1644","Cancer clone B",3
+"719","Cell1645","Ductal - APOL high/hypoxic",4
+"720","Cell1646","T cells & NK cells",19
+"721","Cell1647","Macrophages A",11
+"722","Cell1648","Ductal - terminal ductal like",7
+"723","Cell1649","Ductal - terminal ductal like",7
+"724","Cell165","Mast cells",13
+"725","Cell1650","Ductal - CRISP3 high/centroacinar like",5
+"726","Cell1651","Ductal - terminal ductal like",7
+"727","Cell1652","Tuft cells",20
+"728","Cell1653","Ductal - terminal ductal like",7
+"729","Cell1654","Ductal - CRISP3 high/centroacinar like",5
+"730","Cell1655","mDCs B",15
+"731","Cell1656","Ductal - CRISP3 high/centroacinar like",5
+"732","Cell1657","pDCs",17
+"733","Cell1658","RBCs",18
+"734","Cell1659","Ductal - MHC Class II",6
+"735","Cell166","Ductal - MHC Class II",6
+"736","Cell1660","RBCs",18
+"737","Cell1661","Ductal - MHC Class II",6
+"738","Cell1662","Acinar cells",1
+"739","Cell1663","Ductal - CRISP3 high/centroacinar like",5
+"740","Cell1664","Ductal - APOL high/hypoxic",4
+"741","Cell1665","Ductal - CRISP3 high/centroacinar like",5
+"742","Cell1666","Ductal - CRISP3 high/centroacinar like",5
+"743","Cell1667","Macrophages A",11
+"744","Cell1668","Ductal - MHC Class II",6
+"745","Cell1669","Cancer clone A",2
+"746","Cell167","Ductal - terminal ductal like",7
+"747","Cell1670","Cancer clone A",2
+"748","Cell1671","Cancer clone A",2
+"749","Cell1672","Ductal - CRISP3 high/centroacinar like",5
+"750","Cell1673","Ductal - CRISP3 high/centroacinar like",5
+"751","Cell1674","Ductal - APOL high/hypoxic",4
+"752","Cell1675","Ductal - terminal ductal like",7
+"753","Cell1676","Ductal - terminal ductal like",7
+"754","Cell1677","Ductal - CRISP3 high/centroacinar like",5
+"755","Cell1678","Tuft cells",20
+"756","Cell1679","Ductal - CRISP3 high/centroacinar like",5
+"757","Cell168","Cancer clone A",2
+"758","Cell1680","Ductal - APOL high/hypoxic",4
+"759","Cell1681","Ductal - CRISP3 high/centroacinar like",5
+"760","Cell1682","Ductal - MHC Class II",6
+"761","Cell1683","Ductal - CRISP3 high/centroacinar like",5
+"762","Cell1684","Cancer clone A",2
+"763","Cell1685","Mast cells",13
+"764","Cell1686","Ductal - terminal ductal like",7
+"765","Cell1687","Ductal - MHC Class II",6
+"766","Cell1688","Ductal - CRISP3 high/centroacinar like",5
+"767","Cell1689","Ductal - CRISP3 high/centroacinar like",5
+"768","Cell169","Cancer clone B",3
+"769","Cell1690","Cancer clone A",2
+"770","Cell1691","Ductal - CRISP3 high/centroacinar like",5
+"771","Cell1692","Ductal - terminal ductal like",7
+"772","Cell1693","Ductal - CRISP3 high/centroacinar like",5
+"773","Cell1694","Ductal - CRISP3 high/centroacinar like",5
+"774","Cell1695","Ductal - terminal ductal like",7
+"775","Cell1696","Ductal - MHC Class II",6
+"776","Cell1697","Ductal - MHC Class II",6
+"777","Cell1698","Ductal - MHC Class II",6
+"778","Cell1699","Ductal - CRISP3 high/centroacinar like",5
+"779","Cell17","Ductal - CRISP3 high/centroacinar like",5
+"780","Cell170","Ductal - MHC Class II",6
+"781","Cell1700","Ductal - APOL high/hypoxic",4
+"782","Cell1701","Ductal - CRISP3 high/centroacinar like",5
+"783","Cell1702","Cancer clone B",3
+"784","Cell1703","Ductal - terminal ductal like",7
+"785","Cell1704","Cancer clone B",3
+"786","Cell1705","Ductal - CRISP3 high/centroacinar like",5
+"787","Cell1706","mDCs A",14
+"788","Cell1707","Fibroblasts",10
+"789","Cell1708","Ductal - MHC Class II",6
+"790","Cell1709","Ductal - APOL high/hypoxic",4
+"791","Cell171","Cancer clone B",3
+"792","Cell1710","Ductal - CRISP3 high/centroacinar like",5
+"793","Cell1711","Cancer clone A",2
+"794","Cell1712","Ductal - MHC Class II",6
+"795","Cell1713","Ductal - CRISP3 high/centroacinar like",5
+"796","Cell1714","Ductal - CRISP3 high/centroacinar like",5
+"797","Cell1715","Ductal - CRISP3 high/centroacinar like",5
+"798","Cell1716","Ductal - terminal ductal like",7
+"799","Cell1717","Ductal - terminal ductal like",7
+"800","Cell1718","Ductal - terminal ductal like",7
+"801","Cell1719","Cancer clone A",2
+"802","Cell172","Ductal - CRISP3 high/centroacinar like",5
+"803","Cell1720","Ductal - MHC Class II",6
+"804","Cell1721","Ductal - terminal ductal like",7
+"805","Cell1722","Ductal - MHC Class II",6
+"806","Cell1723","Cancer clone B",3
+"807","Cell1724","Ductal - CRISP3 high/centroacinar like",5
+"808","Cell1725","Cancer clone B",3
+"809","Cell1726","Cancer clone B",3
+"810","Cell1727","Ductal - CRISP3 high/centroacinar like",5
+"811","Cell1728","Cancer clone A",2
+"812","Cell1729","Ductal - terminal ductal like",7
+"813","Cell173","Cancer clone B",3
+"814","Cell1730","Cancer clone B",3
+"815","Cell1731","Ductal - APOL high/hypoxic",4
+"816","Cell1732","Ductal - terminal ductal like",7
+"817","Cell1733","Ductal - CRISP3 high/centroacinar like",5
+"818","Cell1734","Macrophages A",11
+"819","Cell1735","Ductal - CRISP3 high/centroacinar like",5
+"820","Cell1736","Ductal - APOL high/hypoxic",4
+"821","Cell1737","Ductal - terminal ductal like",7
+"822","Cell1738","Ductal - terminal ductal like",7
+"823","Cell1739","Ductal - MHC Class II",6
+"824","Cell174","mDCs B",15
+"825","Cell1740","Ductal - MHC Class II",6
+"826","Cell1741","Ductal - terminal ductal like",7
+"827","Cell1742","Ductal - MHC Class II",6
+"828","Cell1743","Cancer clone B",3
+"829","Cell1744","Ductal - terminal ductal like",7
+"830","Cell1745","Endothelial cells",9
+"831","Cell1746","Endothelial cells",9
+"832","Cell1747","Ductal - CRISP3 high/centroacinar like",5
+"833","Cell1748","Ductal - CRISP3 high/centroacinar like",5
+"834","Cell1749","Ductal - MHC Class II",6
+"835","Cell175","Ductal - MHC Class II",6
+"836","Cell1750","Cancer clone B",3
+"837","Cell1751","Ductal - MHC Class II",6
+"838","Cell1752","Ductal - MHC Class II",6
+"839","Cell1753","Ductal - APOL high/hypoxic",4
+"840","Cell1754","Ductal - CRISP3 high/centroacinar like",5
+"841","Cell1755","Ductal - terminal ductal like",7
+"842","Cell1756","Ductal - CRISP3 high/centroacinar like",5
+"843","Cell1757","Ductal - CRISP3 high/centroacinar like",5
+"844","Cell1758","Ductal - terminal ductal like",7
+"845","Cell1759","Ductal - APOL high/hypoxic",4
+"846","Cell176","Ductal - CRISP3 high/centroacinar like",5
+"847","Cell1760","Ductal - CRISP3 high/centroacinar like",5
+"848","Cell1761","Ductal - APOL high/hypoxic",4
+"849","Cell1762","Ductal - MHC Class II",6
+"850","Cell1763","mDCs A",14
+"851","Cell1764","Mast cells",13
+"852","Cell1765","Ductal - APOL high/hypoxic",4
+"853","Cell1766","Ductal - APOL high/hypoxic",4
+"854","Cell1767","Ductal - CRISP3 high/centroacinar like",5
+"855","Cell1768","Ductal - CRISP3 high/centroacinar like",5
+"856","Cell1769","Ductal - CRISP3 high/centroacinar like",5
+"857","Cell177","Ductal - terminal ductal like",7
+"858","Cell1770","Ductal - MHC Class II",6
+"859","Cell1771","Ductal - terminal ductal like",7
+"860","Cell1772","Ductal - CRISP3 high/centroacinar like",5
+"861","Cell1773","Ductal - MHC Class II",6
+"862","Cell1774","Ductal - terminal ductal like",7
+"863","Cell1775","Ductal - terminal ductal like",7
+"864","Cell1776","Ductal - CRISP3 high/centroacinar like",5
+"865","Cell1777","Ductal - terminal ductal like",7
+"866","Cell1778","Ductal - MHC Class II",6
+"867","Cell1779","Ductal - terminal ductal like",7
+"868","Cell178","Ductal - MHC Class II",6
+"869","Cell1780","Tuft cells",20
+"870","Cell1781","Ductal - CRISP3 high/centroacinar like",5
+"871","Cell1782","pDCs",17
+"872","Cell1783","Ductal - terminal ductal like",7
+"873","Cell1784","Ductal - CRISP3 high/centroacinar like",5
+"874","Cell1785","Ductal - terminal ductal like",7
+"875","Cell1786","Cancer clone B",3
+"876","Cell1787","Ductal - MHC Class II",6
+"877","Cell1788","Ductal - MHC Class II",6
+"878","Cell1789","Ductal - terminal ductal like",7
+"879","Cell179","Ductal - CRISP3 high/centroacinar like",5
+"880","Cell1790","Cancer clone A",2
+"881","Cell1791","Ductal - terminal ductal like",7
+"882","Cell1792","Ductal - CRISP3 high/centroacinar like",5
+"883","Cell1793","Ductal - MHC Class II",6
+"884","Cell1794","Ductal - CRISP3 high/centroacinar like",5
+"885","Cell1795","Ductal - terminal ductal like",7
+"886","Cell1796","Cancer clone B",3
+"887","Cell1797","Ductal - MHC Class II",6
+"888","Cell1798","Ductal - CRISP3 high/centroacinar like",5
+"889","Cell1799","Ductal - CRISP3 high/centroacinar like",5
+"890","Cell18","Ductal - CRISP3 high/centroacinar like",5
+"891","Cell180","Ductal - terminal ductal like",7
+"892","Cell1800","Ductal - MHC Class II",6
+"893","Cell1801","Ductal - terminal ductal like",7
+"894","Cell1802","Ductal - MHC Class II",6
+"895","Cell1803","T cells & NK cells",19
+"896","Cell1804","Ductal - CRISP3 high/centroacinar like",5
+"897","Cell1805","Ductal - APOL high/hypoxic",4
+"898","Cell1806","Ductal - CRISP3 high/centroacinar like",5
+"899","Cell1807","Ductal - terminal ductal like",7
+"900","Cell1808","Ductal - CRISP3 high/centroacinar like",5
+"901","Cell1809","Ductal - CRISP3 high/centroacinar like",5
+"902","Cell181","Ductal - CRISP3 high/centroacinar like",5
+"903","Cell1810","mDCs B",15
+"904","Cell1811","Cancer clone B",3
+"905","Cell1812","Acinar cells",1
+"906","Cell1813","Ductal - MHC Class II",6
+"907","Cell1814","Ductal - CRISP3 high/centroacinar like",5
+"908","Cell1815","mDCs B",15
+"909","Cell1816","mDCs A",14
+"910","Cell1817","Ductal - CRISP3 high/centroacinar like",5
+"911","Cell1818","Cancer clone A",2
+"912","Cell1819","Tuft cells",20
+"913","Cell182","Ductal - APOL high/hypoxic",4
+"914","Cell1820","Ductal - CRISP3 high/centroacinar like",5
+"915","Cell1821","Macrophages A",11
+"916","Cell1822","Ductal - MHC Class II",6
+"917","Cell1823","Ductal - APOL high/hypoxic",4
+"918","Cell1824","Ductal - APOL high/hypoxic",4
+"919","Cell1825","Ductal - APOL high/hypoxic",4
+"920","Cell1826","Ductal - MHC Class II",6
+"921","Cell1827","Ductal - CRISP3 high/centroacinar like",5
+"922","Cell1828","Cancer clone A",2
+"923","Cell1829","Ductal - CRISP3 high/centroacinar like",5
+"924","Cell183","Ductal - CRISP3 high/centroacinar like",5
+"925","Cell1830","Ductal - CRISP3 high/centroacinar like",5
+"926","Cell1831","mDCs B",15
+"927","Cell1832","Ductal - CRISP3 high/centroacinar like",5
+"928","Cell1833","Ductal - APOL high/hypoxic",4
+"929","Cell1834","Cancer clone B",3
+"930","Cell1835","Ductal - MHC Class II",6
+"931","Cell1836","Ductal - terminal ductal like",7
+"932","Cell1837","Cancer clone B",3
+"933","Cell1838","Cancer clone B",3
+"934","Cell1839","Ductal - CRISP3 high/centroacinar like",5
+"935","Cell184","Ductal - MHC Class II",6
+"936","Cell1840","Ductal - CRISP3 high/centroacinar like",5
+"937","Cell1841","Ductal - MHC Class II",6
+"938","Cell1842","Ductal - terminal ductal like",7
+"939","Cell1843","Endocrine cells",8
+"940","Cell1844","Macrophages B",12
+"941","Cell1845","Tuft cells",20
+"942","Cell1846","pDCs",17
+"943","Cell1847","Cancer clone B",3
+"944","Cell1848","T cells & NK cells",19
+"945","Cell1849","Ductal - terminal ductal like",7
+"946","Cell185","Ductal - CRISP3 high/centroacinar like",5
+"947","Cell1850","Ductal - terminal ductal like",7
+"948","Cell1851","T cells & NK cells",19
+"949","Cell1852","Ductal - APOL high/hypoxic",4
+"950","Cell1853","mDCs A",14
+"951","Cell1854","Ductal - CRISP3 high/centroacinar like",5
+"952","Cell1855","Macrophages B",12
+"953","Cell1856","Ductal - MHC Class II",6
+"954","Cell1857","Ductal - APOL high/hypoxic",4
+"955","Cell1858","T cells & NK cells",19
+"956","Cell1859","Monocytes",16
+"957","Cell186","Ductal - APOL high/hypoxic",4
+"958","Cell1860","Ductal - APOL high/hypoxic",4
+"959","Cell1861","Cancer clone A",2
+"960","Cell1862","Cancer clone B",3
+"961","Cell1863","Ductal - MHC Class II",6
+"962","Cell1864","Ductal - APOL high/hypoxic",4
+"963","Cell1865","Cancer clone B",3
+"964","Cell1866","RBCs",18
+"965","Cell1867","Ductal - terminal ductal like",7
+"966","Cell1868","Cancer clone A",2
+"967","Cell1869","Ductal - MHC Class II",6
+"968","Cell187","Ductal - CRISP3 high/centroacinar like",5
+"969","Cell1870","Ductal - CRISP3 high/centroacinar like",5
+"970","Cell1871","Ductal - CRISP3 high/centroacinar like",5
+"971","Cell1872","Cancer clone B",3
+"972","Cell1873","Cancer clone B",3
+"973","Cell1874","Ductal - MHC Class II",6
+"974","Cell1875","T cells & NK cells",19
+"975","Cell1876","Ductal - CRISP3 high/centroacinar like",5
+"976","Cell1877","mDCs B",15
+"977","Cell1878","Cancer clone B",3
+"978","Cell1879","Ductal - terminal ductal like",7
+"979","Cell188","Cancer clone B",3
+"980","Cell1880","Tuft cells",20
+"981","Cell1881","Ductal - MHC Class II",6
+"982","Cell1882","Ductal - APOL high/hypoxic",4
+"983","Cell1883","Endothelial cells",9
+"984","Cell1884","Ductal - terminal ductal like",7
+"985","Cell1885","Ductal - terminal ductal like",7
+"986","Cell1886","Ductal - terminal ductal like",7
+"987","Cell1887","Monocytes",16
+"988","Cell1888","Tuft cells",20
+"989","Cell1889","Cancer clone A",2
+"990","Cell189","Ductal - APOL high/hypoxic",4
+"991","Cell1890","Cancer clone A",2
+"992","Cell1891","Ductal - MHC Class II",6
+"993","Cell1892","Tuft cells",20
+"994","Cell1893","Ductal - CRISP3 high/centroacinar like",5
+"995","Cell1894","Ductal - MHC Class II",6
+"996","Cell1895","T cells & NK cells",19
+"997","Cell1896","Ductal - CRISP3 high/centroacinar like",5
+"998","Cell1897","Ductal - terminal ductal like",7
+"999","Cell1898","Ductal - terminal ductal like",7
+"1000","Cell1899","Ductal - terminal ductal like",7
+"1001","Cell19","Cancer clone A",2
+"1002","Cell190","pDCs",17
+"1003","Cell1900","Ductal - CRISP3 high/centroacinar like",5
+"1004","Cell1901","Ductal - CRISP3 high/centroacinar like",5
+"1005","Cell1902","Ductal - MHC Class II",6
+"1006","Cell1903","mDCs A",14
+"1007","Cell1904","Ductal - CRISP3 high/centroacinar like",5
+"1008","Cell1905","Ductal - CRISP3 high/centroacinar like",5
+"1009","Cell1906","Ductal - APOL high/hypoxic",4
+"1010","Cell1907","Cancer clone B",3
+"1011","Cell1908","T cells & NK cells",19
+"1012","Cell1909","Ductal - APOL high/hypoxic",4
+"1013","Cell191","Ductal - CRISP3 high/centroacinar like",5
+"1014","Cell1910","Ductal - MHC Class II",6
+"1015","Cell1911","Ductal - CRISP3 high/centroacinar like",5
+"1016","Cell1912","Ductal - MHC Class II",6
+"1017","Cell1913","Tuft cells",20
+"1018","Cell1914","T cells & NK cells",19
+"1019","Cell1915","Ductal - terminal ductal like",7
+"1020","Cell1916","Cancer clone B",3
+"1021","Cell1917","Ductal - MHC Class II",6
+"1022","Cell1918","Ductal - CRISP3 high/centroacinar like",5
+"1023","Cell1919","Ductal - CRISP3 high/centroacinar like",5
+"1024","Cell192","Cancer clone B",3
+"1025","Cell1920","Ductal - terminal ductal like",7
+"1026","Cell1921","Ductal - MHC Class II",6
+"1027","Cell1922","T cells & NK cells",19
+"1028","Cell1923","Acinar cells",1
+"1029","Cell1924","Ductal - terminal ductal like",7
+"1030","Cell1925","pDCs",17
+"1031","Cell1926","RBCs",18
+"1032","Cell193","Ductal - terminal ductal like",7
+"1033","Cell194","Ductal - terminal ductal like",7
+"1034","Cell195","Ductal - terminal ductal like",7
+"1035","Cell196","Ductal - APOL high/hypoxic",4
+"1036","Cell197","Cancer clone B",3
+"1037","Cell198","Ductal - CRISP3 high/centroacinar like",5
+"1038","Cell199","Ductal - terminal ductal like",7
+"1039","Cell2","Ductal - terminal ductal like",7
+"1040","Cell20","Ductal - MHC Class II",6
+"1041","Cell200","Ductal - terminal ductal like",7
+"1042","Cell201","Ductal - CRISP3 high/centroacinar like",5
+"1043","Cell202","Ductal - CRISP3 high/centroacinar like",5
+"1044","Cell203","Tuft cells",20
+"1045","Cell204","Ductal - terminal ductal like",7
+"1046","Cell205","Ductal - MHC Class II",6
+"1047","Cell206","Ductal - APOL high/hypoxic",4
+"1048","Cell207","Ductal - CRISP3 high/centroacinar like",5
+"1049","Cell208","Cancer clone A",2
+"1050","Cell209","Macrophages B",12
+"1051","Cell21","Cancer clone B",3
+"1052","Cell210","Ductal - terminal ductal like",7
+"1053","Cell211","Ductal - APOL high/hypoxic",4
+"1054","Cell212","Tuft cells",20
+"1055","Cell213","Ductal - MHC Class II",6
+"1056","Cell214","Macrophages B",12
+"1057","Cell215","Ductal - terminal ductal like",7
+"1058","Cell216","Ductal - APOL high/hypoxic",4
+"1059","Cell217","Ductal - terminal ductal like",7
+"1060","Cell218","Ductal - CRISP3 high/centroacinar like",5
+"1061","Cell219","Ductal - CRISP3 high/centroacinar like",5
+"1062","Cell22","Ductal - terminal ductal like",7
+"1063","Cell220","Ductal - CRISP3 high/centroacinar like",5
+"1064","Cell221","Cancer clone A",2
+"1065","Cell222","Ductal - CRISP3 high/centroacinar like",5
+"1066","Cell223","Macrophages B",12
+"1067","Cell224","Cancer clone A",2
+"1068","Cell225","Ductal - APOL high/hypoxic",4
+"1069","Cell226","Ductal - APOL high/hypoxic",4
+"1070","Cell227","Ductal - CRISP3 high/centroacinar like",5
+"1071","Cell228","T cells & NK cells",19
+"1072","Cell229","Ductal - CRISP3 high/centroacinar like",5
+"1073","Cell23","Ductal - CRISP3 high/centroacinar like",5
+"1074","Cell230","Ductal - APOL high/hypoxic",4
+"1075","Cell231","Ductal - CRISP3 high/centroacinar like",5
+"1076","Cell232","Ductal - MHC Class II",6
+"1077","Cell233","Ductal - CRISP3 high/centroacinar like",5
+"1078","Cell234","Cancer clone B",3
+"1079","Cell235","Ductal - APOL high/hypoxic",4
+"1080","Cell236","Ductal - MHC Class II",6
+"1081","Cell237","Ductal - CRISP3 high/centroacinar like",5
+"1082","Cell238","Ductal - MHC Class II",6
+"1083","Cell239","Ductal - CRISP3 high/centroacinar like",5
+"1084","Cell24","Ductal - MHC Class II",6
+"1085","Cell240","Ductal - APOL high/hypoxic",4
+"1086","Cell241","Ductal - CRISP3 high/centroacinar like",5
+"1087","Cell242","Ductal - terminal ductal like",7
+"1088","Cell243","Ductal - APOL high/hypoxic",4
+"1089","Cell244","Ductal - CRISP3 high/centroacinar like",5
+"1090","Cell245","Ductal - APOL high/hypoxic",4
+"1091","Cell246","Ductal - CRISP3 high/centroacinar like",5
+"1092","Cell247","Cancer clone A",2
+"1093","Cell248","Cancer clone B",3
+"1094","Cell249","Ductal - CRISP3 high/centroacinar like",5
+"1095","Cell25","Ductal - terminal ductal like",7
+"1096","Cell250","Ductal - CRISP3 high/centroacinar like",5
+"1097","Cell251","Ductal - CRISP3 high/centroacinar like",5
+"1098","Cell252","Tuft cells",20
+"1099","Cell253","Ductal - APOL high/hypoxic",4
+"1100","Cell254","Ductal - MHC Class II",6
+"1101","Cell255","pDCs",17
+"1102","Cell256","Ductal - MHC Class II",6
+"1103","Cell257","Cancer clone B",3
+"1104","Cell258","Ductal - terminal ductal like",7
+"1105","Cell259","Ductal - APOL high/hypoxic",4
+"1106","Cell26","Cancer clone B",3
+"1107","Cell260","Ductal - MHC Class II",6
+"1108","Cell261","Ductal - APOL high/hypoxic",4
+"1109","Cell262","Ductal - APOL high/hypoxic",4
+"1110","Cell263","Endothelial cells",9
+"1111","Cell264","Ductal - MHC Class II",6
+"1112","Cell265","Ductal - terminal ductal like",7
+"1113","Cell266","Cancer clone B",3
+"1114","Cell267","Ductal - CRISP3 high/centroacinar like",5
+"1115","Cell268","Ductal - terminal ductal like",7
+"1116","Cell269","Ductal - APOL high/hypoxic",4
+"1117","Cell27","Ductal - CRISP3 high/centroacinar like",5
+"1118","Cell270","Ductal - MHC Class II",6
+"1119","Cell271","Ductal - CRISP3 high/centroacinar like",5
+"1120","Cell272","Ductal - MHC Class II",6
+"1121","Cell273","Ductal - CRISP3 high/centroacinar like",5
+"1122","Cell274","Macrophages B",12
+"1123","Cell275","Ductal - terminal ductal like",7
+"1124","Cell276","Cancer clone B",3
+"1125","Cell277","Ductal - MHC Class II",6
+"1126","Cell278","Ductal - CRISP3 high/centroacinar like",5
+"1127","Cell279","Ductal - MHC Class II",6
+"1128","Cell28","mDCs A",14
+"1129","Cell280","pDCs",17
+"1130","Cell281","Ductal - MHC Class II",6
+"1131","Cell282","Macrophages B",12
+"1132","Cell283","Ductal - terminal ductal like",7
+"1133","Cell284","Cancer clone A",2
+"1134","Cell285","Ductal - CRISP3 high/centroacinar like",5
+"1135","Cell286","Ductal - MHC Class II",6
+"1136","Cell287","Ductal - CRISP3 high/centroacinar like",5
+"1137","Cell288","Tuft cells",20
+"1138","Cell289","Ductal - MHC Class II",6
+"1139","Cell29","Ductal - APOL high/hypoxic",4
+"1140","Cell290","Ductal - CRISP3 high/centroacinar like",5
+"1141","Cell291","Cancer clone A",2
+"1142","Cell292","Ductal - MHC Class II",6
+"1143","Cell293","Ductal - CRISP3 high/centroacinar like",5
+"1144","Cell294","mDCs A",14
+"1145","Cell295","T cells & NK cells",19
+"1146","Cell296","Ductal - APOL high/hypoxic",4
+"1147","Cell297","Ductal - terminal ductal like",7
+"1148","Cell298","Ductal - terminal ductal like",7
+"1149","Cell299","Ductal - CRISP3 high/centroacinar like",5
+"1150","Cell3","Ductal - terminal ductal like",7
+"1151","Cell30","Ductal - APOL high/hypoxic",4
+"1152","Cell300","Ductal - CRISP3 high/centroacinar like",5
+"1153","Cell301","Ductal - CRISP3 high/centroacinar like",5
+"1154","Cell302","Ductal - CRISP3 high/centroacinar like",5
+"1155","Cell303","Cancer clone B",3
+"1156","Cell304","Ductal - CRISP3 high/centroacinar like",5
+"1157","Cell305","Ductal - CRISP3 high/centroacinar like",5
+"1158","Cell306","Tuft cells",20
+"1159","Cell307","Ductal - CRISP3 high/centroacinar like",5
+"1160","Cell308","Ductal - CRISP3 high/centroacinar like",5
+"1161","Cell309","Ductal - terminal ductal like",7
+"1162","Cell31","Cancer clone B",3
+"1163","Cell310","Ductal - CRISP3 high/centroacinar like",5
+"1164","Cell311","Ductal - CRISP3 high/centroacinar like",5
+"1165","Cell312","Ductal - MHC Class II",6
+"1166","Cell313","Cancer clone B",3
+"1167","Cell314","Cancer clone A",2
+"1168","Cell315","Ductal - terminal ductal like",7
+"1169","Cell316","Macrophages A",11
+"1170","Cell317","Ductal - MHC Class II",6
+"1171","Cell318","Ductal - CRISP3 high/centroacinar like",5
+"1172","Cell319","Ductal - MHC Class II",6
+"1173","Cell32","Ductal - terminal ductal like",7
+"1174","Cell320","Ductal - MHC Class II",6
+"1175","Cell321","Monocytes",16
+"1176","Cell322","Ductal - terminal ductal like",7
+"1177","Cell323","Ductal - APOL high/hypoxic",4
+"1178","Cell324","T cells & NK cells",19
+"1179","Cell325","Ductal - CRISP3 high/centroacinar like",5
+"1180","Cell326","Ductal - APOL high/hypoxic",4
+"1181","Cell327","Ductal - terminal ductal like",7
+"1182","Cell328","mDCs B",15
+"1183","Cell329","T cells & NK cells",19
+"1184","Cell33","Ductal - CRISP3 high/centroacinar like",5
+"1185","Cell330","Ductal - CRISP3 high/centroacinar like",5
+"1186","Cell331","T cells & NK cells",19
+"1187","Cell332","Cancer clone A",2
+"1188","Cell333","Ductal - APOL high/hypoxic",4
+"1189","Cell334","Cancer clone B",3
+"1190","Cell335","Ductal - terminal ductal like",7
+"1191","Cell336","Ductal - terminal ductal like",7
+"1192","Cell337","Cancer clone B",3
+"1193","Cell338","Cancer clone A",2
+"1194","Cell339","Ductal - APOL high/hypoxic",4
+"1195","Cell34","Cancer clone B",3
+"1196","Cell340","Ductal - APOL high/hypoxic",4
+"1197","Cell341","Ductal - CRISP3 high/centroacinar like",5
+"1198","Cell342","Ductal - MHC Class II",6
+"1199","Cell343","T cells & NK cells",19
+"1200","Cell344","Cancer clone B",3
+"1201","Cell345","T cells & NK cells",19
+"1202","Cell346","Ductal - APOL high/hypoxic",4
+"1203","Cell347","Ductal - APOL high/hypoxic",4
+"1204","Cell348","Cancer clone A",2
+"1205","Cell349","Ductal - MHC Class II",6
+"1206","Cell35","Ductal - terminal ductal like",7
+"1207","Cell350","Ductal - CRISP3 high/centroacinar like",5
+"1208","Cell351","Ductal - CRISP3 high/centroacinar like",5
+"1209","Cell352","Ductal - MHC Class II",6
+"1210","Cell353","Ductal - CRISP3 high/centroacinar like",5
+"1211","Cell354","Ductal - APOL high/hypoxic",4
+"1212","Cell355","RBCs",18
+"1213","Cell356","Ductal - terminal ductal like",7
+"1214","Cell357","Ductal - terminal ductal like",7
+"1215","Cell358","T cells & NK cells",19
+"1216","Cell359","Ductal - terminal ductal like",7
+"1217","Cell36","Ductal - APOL high/hypoxic",4
+"1218","Cell360","Monocytes",16
+"1219","Cell361","Ductal - CRISP3 high/centroacinar like",5
+"1220","Cell362","Ductal - APOL high/hypoxic",4
+"1221","Cell363","Ductal - CRISP3 high/centroacinar like",5
+"1222","Cell364","Cancer clone A",2
+"1223","Cell365","pDCs",17
+"1224","Cell366","Cancer clone B",3
+"1225","Cell367","Monocytes",16
+"1226","Cell368","Ductal - MHC Class II",6
+"1227","Cell369","Ductal - terminal ductal like",7
+"1228","Cell37","Cancer clone B",3
+"1229","Cell370","Ductal - terminal ductal like",7
+"1230","Cell371","Ductal - CRISP3 high/centroacinar like",5
+"1231","Cell372","RBCs",18
+"1232","Cell373","RBCs",18
+"1233","Cell374","Ductal - CRISP3 high/centroacinar like",5
+"1234","Cell375","Cancer clone A",2
+"1235","Cell376","Cancer clone A",2
+"1236","Cell377","Ductal - terminal ductal like",7
+"1237","Cell378","Ductal - CRISP3 high/centroacinar like",5
+"1238","Cell379","Cancer clone B",3
+"1239","Cell38","Ductal - CRISP3 high/centroacinar like",5
+"1240","Cell380","Cancer clone A",2
+"1241","Cell381","Ductal - terminal ductal like",7
+"1242","Cell382","Cancer clone B",3
+"1243","Cell383","Ductal - MHC Class II",6
+"1244","Cell384","Cancer clone A",2
+"1245","Cell385","Ductal - CRISP3 high/centroacinar like",5
+"1246","Cell386","Ductal - CRISP3 high/centroacinar like",5
+"1247","Cell387","Ductal - CRISP3 high/centroacinar like",5
+"1248","Cell388","Ductal - terminal ductal like",7
+"1249","Cell389","Ductal - APOL high/hypoxic",4
+"1250","Cell39","Cancer clone A",2
+"1251","Cell390","Ductal - APOL high/hypoxic",4
+"1252","Cell391","Cancer clone A",2
+"1253","Cell392","Cancer clone A",2
+"1254","Cell393","Ductal - CRISP3 high/centroacinar like",5
+"1255","Cell394","Ductal - terminal ductal like",7
+"1256","Cell395","Ductal - MHC Class II",6
+"1257","Cell396","Cancer clone B",3
+"1258","Cell397","Ductal - terminal ductal like",7
+"1259","Cell398","Cancer clone A",2
+"1260","Cell399","Ductal - CRISP3 high/centroacinar like",5
+"1261","Cell4","Ductal - CRISP3 high/centroacinar like",5
+"1262","Cell40","Cancer clone A",2
+"1263","Cell400","Macrophages A",11
+"1264","Cell401","Ductal - CRISP3 high/centroacinar like",5
+"1265","Cell402","Ductal - APOL high/hypoxic",4
+"1266","Cell403","Ductal - MHC Class II",6
+"1267","Cell404","Ductal - terminal ductal like",7
+"1268","Cell405","Ductal - CRISP3 high/centroacinar like",5
+"1269","Cell406","Ductal - terminal ductal like",7
+"1270","Cell407","Ductal - APOL high/hypoxic",4
+"1271","Cell408","Ductal - APOL high/hypoxic",4
+"1272","Cell409","Ductal - CRISP3 high/centroacinar like",5
+"1273","Cell41","Cancer clone B",3
+"1274","Cell410","Ductal - CRISP3 high/centroacinar like",5
+"1275","Cell411","Ductal - CRISP3 high/centroacinar like",5
+"1276","Cell412","Ductal - CRISP3 high/centroacinar like",5
+"1277","Cell413","Cancer clone B",3
+"1278","Cell414","Cancer clone B",3
+"1279","Cell415","Ductal - CRISP3 high/centroacinar like",5
+"1280","Cell416","Cancer clone B",3
+"1281","Cell417","Ductal - MHC Class II",6
+"1282","Cell418","Ductal - CRISP3 high/centroacinar like",5
+"1283","Cell419","Ductal - APOL high/hypoxic",4
+"1284","Cell42","Ductal - CRISP3 high/centroacinar like",5
+"1285","Cell420","Cancer clone B",3
+"1286","Cell421","Ductal - APOL high/hypoxic",4
+"1287","Cell422","Ductal - MHC Class II",6
+"1288","Cell423","Ductal - MHC Class II",6
+"1289","Cell424","Cancer clone B",3
+"1290","Cell425","Ductal - CRISP3 high/centroacinar like",5
+"1291","Cell426","Ductal - CRISP3 high/centroacinar like",5
+"1292","Cell427","Ductal - CRISP3 high/centroacinar like",5
+"1293","Cell428","Ductal - CRISP3 high/centroacinar like",5
+"1294","Cell429","Ductal - CRISP3 high/centroacinar like",5
+"1295","Cell43","mDCs A",14
+"1296","Cell430","Ductal - CRISP3 high/centroacinar like",5
+"1297","Cell431","Ductal - CRISP3 high/centroacinar like",5
+"1298","Cell432","Ductal - MHC Class II",6
+"1299","Cell433","Ductal - terminal ductal like",7
+"1300","Cell434","Ductal - CRISP3 high/centroacinar like",5
+"1301","Cell435","Ductal - CRISP3 high/centroacinar like",5
+"1302","Cell436","Cancer clone A",2
+"1303","Cell437","Ductal - APOL high/hypoxic",4
+"1304","Cell438","Cancer clone B",3
+"1305","Cell439","Ductal - MHC Class II",6
+"1306","Cell44","Tuft cells",20
+"1307","Cell440","Ductal - CRISP3 high/centroacinar like",5
+"1308","Cell441","Ductal - CRISP3 high/centroacinar like",5
+"1309","Cell442","Cancer clone A",2
+"1310","Cell443","Ductal - CRISP3 high/centroacinar like",5
+"1311","Cell444","Cancer clone B",3
+"1312","Cell445","Ductal - MHC Class II",6
+"1313","Cell446","Mast cells",13
+"1314","Cell447","Ductal - MHC Class II",6
+"1315","Cell448","Ductal - MHC Class II",6
+"1316","Cell449","Ductal - terminal ductal like",7
+"1317","Cell45","mDCs B",15
+"1318","Cell450","Ductal - terminal ductal like",7
+"1319","Cell451","Ductal - MHC Class II",6
+"1320","Cell452","Ductal - CRISP3 high/centroacinar like",5
+"1321","Cell453","Ductal - MHC Class II",6
+"1322","Cell454","Ductal - CRISP3 high/centroacinar like",5
+"1323","Cell455","Cancer clone A",2
+"1324","Cell456","Ductal - CRISP3 high/centroacinar like",5
+"1325","Cell457","Ductal - MHC Class II",6
+"1326","Cell458","Ductal - terminal ductal like",7
+"1327","Cell459","Ductal - CRISP3 high/centroacinar like",5
+"1328","Cell46","Ductal - CRISP3 high/centroacinar like",5
+"1329","Cell460","Ductal - APOL high/hypoxic",4
+"1330","Cell461","Ductal - MHC Class II",6
+"1331","Cell462","Ductal - CRISP3 high/centroacinar like",5
+"1332","Cell463","Ductal - CRISP3 high/centroacinar like",5
+"1333","Cell464","Ductal - CRISP3 high/centroacinar like",5
+"1334","Cell465","Cancer clone A",2
+"1335","Cell466","Ductal - MHC Class II",6
+"1336","Cell467","Ductal - MHC Class II",6
+"1337","Cell468","Ductal - CRISP3 high/centroacinar like",5
+"1338","Cell469","Ductal - CRISP3 high/centroacinar like",5
+"1339","Cell47","Ductal - APOL high/hypoxic",4
+"1340","Cell470","Ductal - CRISP3 high/centroacinar like",5
+"1341","Cell471","Ductal - CRISP3 high/centroacinar like",5
+"1342","Cell472","Ductal - terminal ductal like",7
+"1343","Cell473","Ductal - APOL high/hypoxic",4
+"1344","Cell474","Ductal - terminal ductal like",7
+"1345","Cell475","Ductal - MHC Class II",6
+"1346","Cell476","Tuft cells",20
+"1347","Cell477","Macrophages B",12
+"1348","Cell478","Ductal - CRISP3 high/centroacinar like",5
+"1349","Cell479","Ductal - terminal ductal like",7
+"1350","Cell48","Ductal - MHC Class II",6
+"1351","Cell480","Ductal - CRISP3 high/centroacinar like",5
+"1352","Cell481","Cancer clone A",2
+"1353","Cell482","Ductal - CRISP3 high/centroacinar like",5
+"1354","Cell483","Ductal - CRISP3 high/centroacinar like",5
+"1355","Cell484","Cancer clone A",2
+"1356","Cell485","Ductal - terminal ductal like",7
+"1357","Cell486","Cancer clone A",2
+"1358","Cell487","Ductal - MHC Class II",6
+"1359","Cell488","Cancer clone A",2
+"1360","Cell489","Ductal - CRISP3 high/centroacinar like",5
+"1361","Cell49","Ductal - CRISP3 high/centroacinar like",5
+"1362","Cell490","Cancer clone A",2
+"1363","Cell491","Ductal - CRISP3 high/centroacinar like",5
+"1364","Cell492","Ductal - CRISP3 high/centroacinar like",5
+"1365","Cell493","Ductal - APOL high/hypoxic",4
+"1366","Cell494","Ductal - CRISP3 high/centroacinar like",5
+"1367","Cell495","Ductal - MHC Class II",6
+"1368","Cell496","Ductal - terminal ductal like",7
+"1369","Cell497","Ductal - CRISP3 high/centroacinar like",5
+"1370","Cell498","Ductal - MHC Class II",6
+"1371","Cell499","Ductal - APOL high/hypoxic",4
+"1372","Cell5","Cancer clone A",2
+"1373","Cell50","Ductal - terminal ductal like",7
+"1374","Cell500","Cancer clone B",3
+"1375","Cell501","Cancer clone B",3
+"1376","Cell502","Ductal - terminal ductal like",7
+"1377","Cell503","Ductal - terminal ductal like",7
+"1378","Cell504","Mast cells",13
+"1379","Cell505","Cancer clone A",2
+"1380","Cell506","Ductal - CRISP3 high/centroacinar like",5
+"1381","Cell507","Ductal - CRISP3 high/centroacinar like",5
+"1382","Cell508","Ductal - terminal ductal like",7
+"1383","Cell509","Ductal - terminal ductal like",7
+"1384","Cell51","Cancer clone A",2
+"1385","Cell510","Cancer clone B",3
+"1386","Cell511","Ductal - CRISP3 high/centroacinar like",5
+"1387","Cell512","Ductal - terminal ductal like",7
+"1388","Cell513","Ductal - CRISP3 high/centroacinar like",5
+"1389","Cell514","Cancer clone B",3
+"1390","Cell515","Ductal - APOL high/hypoxic",4
+"1391","Cell516","Ductal - CRISP3 high/centroacinar like",5
+"1392","Cell517","Ductal - MHC Class II",6
+"1393","Cell518","Cancer clone B",3
+"1394","Cell519","Ductal - terminal ductal like",7
+"1395","Cell52","Ductal - CRISP3 high/centroacinar like",5
+"1396","Cell520","Ductal - APOL high/hypoxic",4
+"1397","Cell521","Ductal - CRISP3 high/centroacinar like",5
+"1398","Cell522","Ductal - APOL high/hypoxic",4
+"1399","Cell523","Ductal - CRISP3 high/centroacinar like",5
+"1400","Cell524","Ductal - MHC Class II",6
+"1401","Cell525","Ductal - terminal ductal like",7
+"1402","Cell526","Ductal - CRISP3 high/centroacinar like",5
+"1403","Cell527","Ductal - CRISP3 high/centroacinar like",5
+"1404","Cell528","Ductal - terminal ductal like",7
+"1405","Cell529","Ductal - APOL high/hypoxic",4
+"1406","Cell53","Ductal - CRISP3 high/centroacinar like",5
+"1407","Cell530","Cancer clone B",3
+"1408","Cell531","Ductal - terminal ductal like",7
+"1409","Cell532","Ductal - CRISP3 high/centroacinar like",5
+"1410","Cell533","Ductal - CRISP3 high/centroacinar like",5
+"1411","Cell534","Ductal - CRISP3 high/centroacinar like",5
+"1412","Cell535","Ductal - terminal ductal like",7
+"1413","Cell536","Ductal - APOL high/hypoxic",4
+"1414","Cell537","Ductal - CRISP3 high/centroacinar like",5
+"1415","Cell538","Ductal - CRISP3 high/centroacinar like",5
+"1416","Cell539","Ductal - MHC Class II",6
+"1417","Cell54","Ductal - terminal ductal like",7
+"1418","Cell540","Ductal - terminal ductal like",7
+"1419","Cell541","Cancer clone A",2
+"1420","Cell542","Cancer clone B",3
+"1421","Cell543","Cancer clone B",3
+"1422","Cell544","mDCs A",14
+"1423","Cell545","Ductal - APOL high/hypoxic",4
+"1424","Cell546","Ductal - terminal ductal like",7
+"1425","Cell547","Ductal - CRISP3 high/centroacinar like",5
+"1426","Cell548","Ductal - terminal ductal like",7
+"1427","Cell549","Ductal - MHC Class II",6
+"1428","Cell55","Cancer clone A",2
+"1429","Cell550","Ductal - MHC Class II",6
+"1430","Cell551","Ductal - MHC Class II",6
+"1431","Cell552","Ductal - CRISP3 high/centroacinar like",5
+"1432","Cell553","Ductal - terminal ductal like",7
+"1433","Cell554","Ductal - terminal ductal like",7
+"1434","Cell555","Ductal - MHC Class II",6
+"1435","Cell556","Ductal - CRISP3 high/centroacinar like",5
+"1436","Cell557","Ductal - APOL high/hypoxic",4
+"1437","Cell558","Ductal - terminal ductal like",7
+"1438","Cell559","Ductal - MHC Class II",6
+"1439","Cell56","Ductal - APOL high/hypoxic",4
+"1440","Cell560","Ductal - MHC Class II",6
+"1441","Cell561","Cancer clone B",3
+"1442","Cell562","Ductal - APOL high/hypoxic",4
+"1443","Cell563","Ductal - CRISP3 high/centroacinar like",5
+"1444","Cell564","Ductal - terminal ductal like",7
+"1445","Cell565","Ductal - terminal ductal like",7
+"1446","Cell566","Ductal - MHC Class II",6
+"1447","Cell567","Cancer clone A",2
+"1448","Cell568","Ductal - APOL high/hypoxic",4
+"1449","Cell569","Ductal - terminal ductal like",7
+"1450","Cell57","Ductal - APOL high/hypoxic",4
+"1451","Cell570","Tuft cells",20
+"1452","Cell571","Cancer clone A",2
+"1453","Cell572","Ductal - APOL high/hypoxic",4
+"1454","Cell573","Tuft cells",20
+"1455","Cell574","Ductal - MHC Class II",6
+"1456","Cell575","Ductal - terminal ductal like",7
+"1457","Cell576","Tuft cells",20
+"1458","Cell577","Ductal - CRISP3 high/centroacinar like",5
+"1459","Cell578","Ductal - APOL high/hypoxic",4
+"1460","Cell579","Cancer clone A",2
+"1461","Cell58","Ductal - MHC Class II",6
+"1462","Cell580","Ductal - CRISP3 high/centroacinar like",5
+"1463","Cell581","Ductal - terminal ductal like",7
+"1464","Cell582","Ductal - APOL high/hypoxic",4
+"1465","Cell583","Ductal - MHC Class II",6
+"1466","Cell584","Ductal - CRISP3 high/centroacinar like",5
+"1467","Cell585","Ductal - APOL high/hypoxic",4
+"1468","Cell586","Macrophages B",12
+"1469","Cell587","Ductal - CRISP3 high/centroacinar like",5
+"1470","Cell588","Ductal - CRISP3 high/centroacinar like",5
+"1471","Cell589","Ductal - MHC Class II",6
+"1472","Cell59","Ductal - CRISP3 high/centroacinar like",5
+"1473","Cell590","Cancer clone B",3
+"1474","Cell591","Ductal - CRISP3 high/centroacinar like",5
+"1475","Cell592","Ductal - CRISP3 high/centroacinar like",5
+"1476","Cell593","Ductal - CRISP3 high/centroacinar like",5
+"1477","Cell594","Ductal - MHC Class II",6
+"1478","Cell595","Ductal - terminal ductal like",7
+"1479","Cell596","Ductal - MHC Class II",6
+"1480","Cell597","Cancer clone B",3
+"1481","Cell598","Ductal - CRISP3 high/centroacinar like",5
+"1482","Cell599","Cancer clone A",2
+"1483","Cell6","Cancer clone A",2
+"1484","Cell60","Cancer clone B",3
+"1485","Cell600","Cancer clone B",3
+"1486","Cell601","Ductal - terminal ductal like",7
+"1487","Cell602","Ductal - MHC Class II",6
+"1488","Cell603","Ductal - MHC Class II",6
+"1489","Cell604","mDCs B",15
+"1490","Cell605","Ductal - APOL high/hypoxic",4
+"1491","Cell606","mDCs B",15
+"1492","Cell607","Ductal - CRISP3 high/centroacinar like",5
+"1493","Cell608","T cells & NK cells",19
+"1494","Cell609","Cancer clone A",2
+"1495","Cell61","Ductal - CRISP3 high/centroacinar like",5
+"1496","Cell610","Ductal - CRISP3 high/centroacinar like",5
+"1497","Cell611","Macrophages A",11
+"1498","Cell612","Ductal - CRISP3 high/centroacinar like",5
+"1499","Cell613","Ductal - MHC Class II",6
+"1500","Cell614","Ductal - terminal ductal like",7
+"1501","Cell615","Ductal - terminal ductal like",7
+"1502","Cell616","Macrophages A",11
+"1503","Cell617","Ductal - MHC Class II",6
+"1504","Cell618","Ductal - MHC Class II",6
+"1505","Cell619","Ductal - CRISP3 high/centroacinar like",5
+"1506","Cell62","Ductal - MHC Class II",6
+"1507","Cell620","Ductal - APOL high/hypoxic",4
+"1508","Cell621","Ductal - terminal ductal like",7
+"1509","Cell622","Ductal - CRISP3 high/centroacinar like",5
+"1510","Cell623","Ductal - terminal ductal like",7
+"1511","Cell624","Ductal - CRISP3 high/centroacinar like",5
+"1512","Cell625","Ductal - terminal ductal like",7
+"1513","Cell626","Cancer clone A",2
+"1514","Cell627","Monocytes",16
+"1515","Cell628","Ductal - CRISP3 high/centroacinar like",5
+"1516","Cell629","Ductal - terminal ductal like",7
+"1517","Cell63","Ductal - terminal ductal like",7
+"1518","Cell630","Ductal - terminal ductal like",7
+"1519","Cell631","Cancer clone B",3
+"1520","Cell632","Ductal - CRISP3 high/centroacinar like",5
+"1521","Cell633","Ductal - CRISP3 high/centroacinar like",5
+"1522","Cell634","Ductal - CRISP3 high/centroacinar like",5
+"1523","Cell635","Ductal - CRISP3 high/centroacinar like",5
+"1524","Cell636","Ductal - CRISP3 high/centroacinar like",5
+"1525","Cell637","Ductal - APOL high/hypoxic",4
+"1526","Cell638","Ductal - CRISP3 high/centroacinar like",5
+"1527","Cell639","Macrophages A",11
+"1528","Cell64","Ductal - terminal ductal like",7
+"1529","Cell640","Ductal - terminal ductal like",7
+"1530","Cell641","Ductal - terminal ductal like",7
+"1531","Cell642","Ductal - MHC Class II",6
+"1532","Cell643","Ductal - terminal ductal like",7
+"1533","Cell644","Cancer clone A",2
+"1534","Cell645","Ductal - MHC Class II",6
+"1535","Cell646","Ductal - MHC Class II",6
+"1536","Cell647","Ductal - MHC Class II",6
+"1537","Cell648","Ductal - CRISP3 high/centroacinar like",5
+"1538","Cell649","Ductal - MHC Class II",6
+"1539","Cell65","Ductal - CRISP3 high/centroacinar like",5
+"1540","Cell650","Ductal - CRISP3 high/centroacinar like",5
+"1541","Cell651","Ductal - terminal ductal like",7
+"1542","Cell652","Cancer clone B",3
+"1543","Cell653","Ductal - terminal ductal like",7
+"1544","Cell654","Ductal - MHC Class II",6
+"1545","Cell655","Ductal - terminal ductal like",7
+"1546","Cell656","Ductal - terminal ductal like",7
+"1547","Cell657","T cells & NK cells",19
+"1548","Cell658","Ductal - APOL high/hypoxic",4
+"1549","Cell659","Monocytes",16
+"1550","Cell66","Cancer clone A",2
+"1551","Cell660","Cancer clone B",3
+"1552","Cell661","Ductal - MHC Class II",6
+"1553","Cell662","Ductal - CRISP3 high/centroacinar like",5
+"1554","Cell663","Ductal - APOL high/hypoxic",4
+"1555","Cell664","Ductal - terminal ductal like",7
+"1556","Cell665","Ductal - MHC Class II",6
+"1557","Cell666","Ductal - terminal ductal like",7
+"1558","Cell667","Cancer clone A",2
+"1559","Cell668","T cells & NK cells",19
+"1560","Cell669","Ductal - terminal ductal like",7
+"1561","Cell67","Ductal - terminal ductal like",7
+"1562","Cell670","Ductal - terminal ductal like",7
+"1563","Cell671","Ductal - CRISP3 high/centroacinar like",5
+"1564","Cell672","Ductal - terminal ductal like",7
+"1565","Cell673","Ductal - CRISP3 high/centroacinar like",5
+"1566","Cell674","Macrophages A",11
+"1567","Cell675","Cancer clone A",2
+"1568","Cell676","Ductal - CRISP3 high/centroacinar like",5
+"1569","Cell677","Ductal - MHC Class II",6
+"1570","Cell678","Ductal - terminal ductal like",7
+"1571","Cell679","Ductal - APOL high/hypoxic",4
+"1572","Cell68","Ductal - APOL high/hypoxic",4
+"1573","Cell680","Ductal - MHC Class II",6
+"1574","Cell681","Ductal - MHC Class II",6
+"1575","Cell682","Ductal - CRISP3 high/centroacinar like",5
+"1576","Cell683","Ductal - CRISP3 high/centroacinar like",5
+"1577","Cell684","Ductal - MHC Class II",6
+"1578","Cell685","Ductal - terminal ductal like",7
+"1579","Cell686","Fibroblasts",10
+"1580","Cell687","Ductal - terminal ductal like",7
+"1581","Cell688","T cells & NK cells",19
+"1582","Cell689","T cells & NK cells",19
+"1583","Cell69","Ductal - MHC Class II",6
+"1584","Cell690","Cancer clone A",2
+"1585","Cell691","Ductal - APOL high/hypoxic",4
+"1586","Cell692","Ductal - terminal ductal like",7
+"1587","Cell693","Cancer clone B",3
+"1588","Cell694","Macrophages B",12
+"1589","Cell695","T cells & NK cells",19
+"1590","Cell696","Ductal - MHC Class II",6
+"1591","Cell697","Ductal - CRISP3 high/centroacinar like",5
+"1592","Cell698","Ductal - MHC Class II",6
+"1593","Cell699","Ductal - APOL high/hypoxic",4
+"1594","Cell7","Ductal - CRISP3 high/centroacinar like",5
+"1595","Cell70","Cancer clone A",2
+"1596","Cell700","Ductal - CRISP3 high/centroacinar like",5
+"1597","Cell701","Ductal - CRISP3 high/centroacinar like",5
+"1598","Cell702","Ductal - terminal ductal like",7
+"1599","Cell703","Macrophages B",12
+"1600","Cell704","T cells & NK cells",19
+"1601","Cell705","Ductal - CRISP3 high/centroacinar like",5
+"1602","Cell706","Ductal - MHC Class II",6
+"1603","Cell707","Cancer clone A",2
+"1604","Cell708","Ductal - terminal ductal like",7
+"1605","Cell709","Cancer clone A",2
+"1606","Cell71","Ductal - MHC Class II",6
+"1607","Cell710","Monocytes",16
+"1608","Cell711","Ductal - MHC Class II",6
+"1609","Cell712","Ductal - CRISP3 high/centroacinar like",5
+"1610","Cell713","Ductal - CRISP3 high/centroacinar like",5
+"1611","Cell714","Ductal - APOL high/hypoxic",4
+"1612","Cell715","Ductal - APOL high/hypoxic",4
+"1613","Cell716","Monocytes",16
+"1614","Cell717","Endothelial cells",9
+"1615","Cell718","Ductal - terminal ductal like",7
+"1616","Cell719","T cells & NK cells",19
+"1617","Cell72","Ductal - CRISP3 high/centroacinar like",5
+"1618","Cell720","Macrophages B",12
+"1619","Cell721","T cells & NK cells",19
+"1620","Cell722","Acinar cells",1
+"1621","Cell723","Ductal - CRISP3 high/centroacinar like",5
+"1622","Cell724","T cells & NK cells",19
+"1623","Cell725","Cancer clone A",2
+"1624","Cell726","Ductal - MHC Class II",6
+"1625","Cell727","Ductal - terminal ductal like",7
+"1626","Cell728","Ductal - MHC Class II",6
+"1627","Cell729","Ductal - MHC Class II",6
+"1628","Cell73","Ductal - CRISP3 high/centroacinar like",5
+"1629","Cell730","Cancer clone A",2
+"1630","Cell731","RBCs",18
+"1631","Cell732","Ductal - CRISP3 high/centroacinar like",5
+"1632","Cell733","Cancer clone B",3
+"1633","Cell734","Fibroblasts",10
+"1634","Cell735","Ductal - MHC Class II",6
+"1635","Cell736","Ductal - MHC Class II",6
+"1636","Cell737","Ductal - MHC Class II",6
+"1637","Cell738","mDCs B",15
+"1638","Cell739","T cells & NK cells",19
+"1639","Cell74","Ductal - APOL high/hypoxic",4
+"1640","Cell740","Macrophages A",11
+"1641","Cell741","Ductal - MHC Class II",6
+"1642","Cell742","T cells & NK cells",19
+"1643","Cell743","Cancer clone B",3
+"1644","Cell744","Cancer clone A",2
+"1645","Cell745","Macrophages A",11
+"1646","Cell746","Ductal - CRISP3 high/centroacinar like",5
+"1647","Cell747","Ductal - CRISP3 high/centroacinar like",5
+"1648","Cell748","Monocytes",16
+"1649","Cell749","Ductal - CRISP3 high/centroacinar like",5
+"1650","Cell75","Ductal - CRISP3 high/centroacinar like",5
+"1651","Cell750","Ductal - CRISP3 high/centroacinar like",5
+"1652","Cell751","T cells & NK cells",19
+"1653","Cell752","Ductal - CRISP3 high/centroacinar like",5
+"1654","Cell753","RBCs",18
+"1655","Cell754","Ductal - CRISP3 high/centroacinar like",5
+"1656","Cell755","Monocytes",16
+"1657","Cell756","Ductal - CRISP3 high/centroacinar like",5
+"1658","Cell757","Ductal - terminal ductal like",7
+"1659","Cell758","Cancer clone B",3
+"1660","Cell759","Ductal - terminal ductal like",7
+"1661","Cell76","Ductal - CRISP3 high/centroacinar like",5
+"1662","Cell760","Ductal - MHC Class II",6
+"1663","Cell761","Cancer clone A",2
+"1664","Cell762","Ductal - CRISP3 high/centroacinar like",5
+"1665","Cell763","Ductal - APOL high/hypoxic",4
+"1666","Cell764","Ductal - CRISP3 high/centroacinar like",5
+"1667","Cell765","Ductal - terminal ductal like",7
+"1668","Cell766","Ductal - CRISP3 high/centroacinar like",5
+"1669","Cell767","Ductal - terminal ductal like",7
+"1670","Cell768","Cancer clone A",2
+"1671","Cell769","Cancer clone A",2
+"1672","Cell77","Ductal - CRISP3 high/centroacinar like",5
+"1673","Cell770","Ductal - CRISP3 high/centroacinar like",5
+"1674","Cell771","Mast cells",13
+"1675","Cell772","Cancer clone B",3
+"1676","Cell773","Ductal - MHC Class II",6
+"1677","Cell774","Cancer clone A",2
+"1678","Cell775","Ductal - terminal ductal like",7
+"1679","Cell776","Ductal - MHC Class II",6
+"1680","Cell777","Ductal - CRISP3 high/centroacinar like",5
+"1681","Cell778","Ductal - MHC Class II",6
+"1682","Cell779","Ductal - MHC Class II",6
+"1683","Cell78","Cancer clone B",3
+"1684","Cell780","Ductal - MHC Class II",6
+"1685","Cell781","Acinar cells",1
+"1686","Cell782","Cancer clone B",3
+"1687","Cell783","Ductal - CRISP3 high/centroacinar like",5
+"1688","Cell784","Ductal - MHC Class II",6
+"1689","Cell785","Ductal - APOL high/hypoxic",4
+"1690","Cell786","Ductal - CRISP3 high/centroacinar like",5
+"1691","Cell787","Ductal - terminal ductal like",7
+"1692","Cell788","Ductal - terminal ductal like",7
+"1693","Cell789","Cancer clone A",2
+"1694","Cell79","Cancer clone B",3
+"1695","Cell790","Ductal - terminal ductal like",7
+"1696","Cell791","Ductal - terminal ductal like",7
+"1697","Cell792","Ductal - terminal ductal like",7
+"1698","Cell793","Ductal - CRISP3 high/centroacinar like",5
+"1699","Cell794","Ductal - CRISP3 high/centroacinar like",5
+"1700","Cell795","Cancer clone A",2
+"1701","Cell796","Ductal - terminal ductal like",7
+"1702","Cell797","Cancer clone B",3
+"1703","Cell798","Ductal - terminal ductal like",7
+"1704","Cell799","Ductal - CRISP3 high/centroacinar like",5
+"1705","Cell8","Ductal - terminal ductal like",7
+"1706","Cell80","Ductal - MHC Class II",6
+"1707","Cell800","Ductal - APOL high/hypoxic",4
+"1708","Cell801","Ductal - CRISP3 high/centroacinar like",5
+"1709","Cell802","Ductal - CRISP3 high/centroacinar like",5
+"1710","Cell803","Ductal - CRISP3 high/centroacinar like",5
+"1711","Cell804","Ductal - terminal ductal like",7
+"1712","Cell805","Ductal - CRISP3 high/centroacinar like",5
+"1713","Cell806","Ductal - APOL high/hypoxic",4
+"1714","Cell807","Ductal - MHC Class II",6
+"1715","Cell808","Ductal - CRISP3 high/centroacinar like",5
+"1716","Cell809","Ductal - CRISP3 high/centroacinar like",5
+"1717","Cell81","Cancer clone A",2
+"1718","Cell810","Ductal - MHC Class II",6
+"1719","Cell811","Ductal - MHC Class II",6
+"1720","Cell812","Ductal - CRISP3 high/centroacinar like",5
+"1721","Cell813","Cancer clone A",2
+"1722","Cell814","Ductal - MHC Class II",6
+"1723","Cell815","Ductal - CRISP3 high/centroacinar like",5
+"1724","Cell816","Ductal - MHC Class II",6
+"1725","Cell817","Ductal - CRISP3 high/centroacinar like",5
+"1726","Cell818","Ductal - CRISP3 high/centroacinar like",5
+"1727","Cell819","Ductal - CRISP3 high/centroacinar like",5
+"1728","Cell82","pDCs",17
+"1729","Cell820","Ductal - CRISP3 high/centroacinar like",5
+"1730","Cell821","Ductal - terminal ductal like",7
+"1731","Cell822","Ductal - terminal ductal like",7
+"1732","Cell823","Ductal - terminal ductal like",7
+"1733","Cell824","Ductal - MHC Class II",6
+"1734","Cell825","Cancer clone A",2
+"1735","Cell826","Mast cells",13
+"1736","Cell827","Ductal - CRISP3 high/centroacinar like",5
+"1737","Cell828","Ductal - APOL high/hypoxic",4
+"1738","Cell829","Ductal - terminal ductal like",7
+"1739","Cell83","Ductal - CRISP3 high/centroacinar like",5
+"1740","Cell830","Ductal - MHC Class II",6
+"1741","Cell831","Cancer clone A",2
+"1742","Cell832","Ductal - APOL high/hypoxic",4
+"1743","Cell833","Mast cells",13
+"1744","Cell834","Ductal - APOL high/hypoxic",4
+"1745","Cell835","Ductal - terminal ductal like",7
+"1746","Cell836","Cancer clone A",2
+"1747","Cell837","Ductal - MHC Class II",6
+"1748","Cell838","Ductal - CRISP3 high/centroacinar like",5
+"1749","Cell839","Ductal - MHC Class II",6
+"1750","Cell84","Ductal - CRISP3 high/centroacinar like",5
+"1751","Cell840","Ductal - APOL high/hypoxic",4
+"1752","Cell841","Ductal - CRISP3 high/centroacinar like",5
+"1753","Cell842","Ductal - CRISP3 high/centroacinar like",5
+"1754","Cell843","Cancer clone B",3
+"1755","Cell844","Ductal - MHC Class II",6
+"1756","Cell845","Ductal - APOL high/hypoxic",4
+"1757","Cell846","Ductal - APOL high/hypoxic",4
+"1758","Cell847","Ductal - APOL high/hypoxic",4
+"1759","Cell848","Ductal - CRISP3 high/centroacinar like",5
+"1760","Cell849","Ductal - CRISP3 high/centroacinar like",5
+"1761","Cell85","Cancer clone A",2
+"1762","Cell850","Ductal - APOL high/hypoxic",4
+"1763","Cell851","Ductal - CRISP3 high/centroacinar like",5
+"1764","Cell852","Ductal - terminal ductal like",7
+"1765","Cell853","Ductal - CRISP3 high/centroacinar like",5
+"1766","Cell854","Ductal - APOL high/hypoxic",4
+"1767","Cell855","Ductal - MHC Class II",6
+"1768","Cell856","Endothelial cells",9
+"1769","Cell857","Ductal - APOL high/hypoxic",4
+"1770","Cell858","Ductal - terminal ductal like",7
+"1771","Cell859","Cancer clone A",2
+"1772","Cell86","Ductal - APOL high/hypoxic",4
+"1773","Cell860","Ductal - terminal ductal like",7
+"1774","Cell861","Ductal - APOL high/hypoxic",4
+"1775","Cell862","Ductal - MHC Class II",6
+"1776","Cell863","Ductal - APOL high/hypoxic",4
+"1777","Cell864","Ductal - APOL high/hypoxic",4
+"1778","Cell865","Ductal - MHC Class II",6
+"1779","Cell866","Cancer clone B",3
+"1780","Cell867","Ductal - terminal ductal like",7
+"1781","Cell868","Cancer clone B",3
+"1782","Cell869","Ductal - terminal ductal like",7
+"1783","Cell87","mDCs B",15
+"1784","Cell870","Ductal - CRISP3 high/centroacinar like",5
+"1785","Cell871","Ductal - CRISP3 high/centroacinar like",5
+"1786","Cell872","Ductal - APOL high/hypoxic",4
+"1787","Cell873","Cancer clone B",3
+"1788","Cell874","Ductal - CRISP3 high/centroacinar like",5
+"1789","Cell875","Ductal - terminal ductal like",7
+"1790","Cell876","Cancer clone B",3
+"1791","Cell877","Ductal - terminal ductal like",7
+"1792","Cell878","Ductal - MHC Class II",6
+"1793","Cell879","Ductal - APOL high/hypoxic",4
+"1794","Cell88","Ductal - APOL high/hypoxic",4
+"1795","Cell880","Ductal - CRISP3 high/centroacinar like",5
+"1796","Cell881","Ductal - APOL high/hypoxic",4
+"1797","Cell882","Ductal - CRISP3 high/centroacinar like",5
+"1798","Cell883","Ductal - CRISP3 high/centroacinar like",5
+"1799","Cell884","Ductal - terminal ductal like",7
+"1800","Cell885","Ductal - terminal ductal like",7
+"1801","Cell886","Ductal - terminal ductal like",7
+"1802","Cell887","Cancer clone B",3
+"1803","Cell888","Ductal - CRISP3 high/centroacinar like",5
+"1804","Cell889","Cancer clone B",3
+"1805","Cell89","Ductal - CRISP3 high/centroacinar like",5
+"1806","Cell890","Ductal - CRISP3 high/centroacinar like",5
+"1807","Cell891","Cancer clone A",2
+"1808","Cell892","Ductal - CRISP3 high/centroacinar like",5
+"1809","Cell893","Ductal - APOL high/hypoxic",4
+"1810","Cell894","mDCs B",15
+"1811","Cell895","Ductal - MHC Class II",6
+"1812","Cell896","Ductal - terminal ductal like",7
+"1813","Cell897","Macrophages A",11
+"1814","Cell898","Ductal - CRISP3 high/centroacinar like",5
+"1815","Cell899","Ductal - MHC Class II",6
+"1816","Cell9","Ductal - MHC Class II",6
+"1817","Cell90","Ductal - APOL high/hypoxic",4
+"1818","Cell900","Cancer clone B",3
+"1819","Cell901","Ductal - MHC Class II",6
+"1820","Cell902","Ductal - CRISP3 high/centroacinar like",5
+"1821","Cell903","Ductal - terminal ductal like",7
+"1822","Cell904","Ductal - terminal ductal like",7
+"1823","Cell905","Ductal - terminal ductal like",7
+"1824","Cell906","Ductal - APOL high/hypoxic",4
+"1825","Cell907","Ductal - CRISP3 high/centroacinar like",5
+"1826","Cell908","Cancer clone B",3
+"1827","Cell909","Ductal - terminal ductal like",7
+"1828","Cell91","Ductal - MHC Class II",6
+"1829","Cell910","Ductal - CRISP3 high/centroacinar like",5
+"1830","Cell911","Ductal - CRISP3 high/centroacinar like",5
+"1831","Cell912","Ductal - CRISP3 high/centroacinar like",5
+"1832","Cell913","Ductal - terminal ductal like",7
+"1833","Cell914","Ductal - CRISP3 high/centroacinar like",5
+"1834","Cell915","Ductal - MHC Class II",6
+"1835","Cell916","Ductal - MHC Class II",6
+"1836","Cell917","Ductal - CRISP3 high/centroacinar like",5
+"1837","Cell918","Ductal - CRISP3 high/centroacinar like",5
+"1838","Cell919","Ductal - CRISP3 high/centroacinar like",5
+"1839","Cell92","Ductal - CRISP3 high/centroacinar like",5
+"1840","Cell920","Cancer clone B",3
+"1841","Cell921","Macrophages A",11
+"1842","Cell922","Ductal - CRISP3 high/centroacinar like",5
+"1843","Cell923","Ductal - terminal ductal like",7
+"1844","Cell924","Macrophages A",11
+"1845","Cell925","Ductal - terminal ductal like",7
+"1846","Cell926","Ductal - terminal ductal like",7
+"1847","Cell927","Ductal - CRISP3 high/centroacinar like",5
+"1848","Cell928","Ductal - CRISP3 high/centroacinar like",5
+"1849","Cell929","Ductal - CRISP3 high/centroacinar like",5
+"1850","Cell93","Ductal - terminal ductal like",7
+"1851","Cell930","Ductal - APOL high/hypoxic",4
+"1852","Cell931","Ductal - APOL high/hypoxic",4
+"1853","Cell932","Ductal - MHC Class II",6
+"1854","Cell933","Cancer clone B",3
+"1855","Cell934","Ductal - MHC Class II",6
+"1856","Cell935","Ductal - APOL high/hypoxic",4
+"1857","Cell936","Cancer clone B",3
+"1858","Cell937","mDCs B",15
+"1859","Cell938","Cancer clone B",3
+"1860","Cell939","Ductal - CRISP3 high/centroacinar like",5
+"1861","Cell94","Ductal - APOL high/hypoxic",4
+"1862","Cell940","Ductal - terminal ductal like",7
+"1863","Cell941","Ductal - APOL high/hypoxic",4
+"1864","Cell942","Ductal - terminal ductal like",7
+"1865","Cell943","Ductal - CRISP3 high/centroacinar like",5
+"1866","Cell944","Cancer clone B",3
+"1867","Cell945","Ductal - APOL high/hypoxic",4
+"1868","Cell946","Ductal - CRISP3 high/centroacinar like",5
+"1869","Cell947","Ductal - CRISP3 high/centroacinar like",5
+"1870","Cell948","Ductal - APOL high/hypoxic",4
+"1871","Cell949","Ductal - terminal ductal like",7
+"1872","Cell95","Ductal - CRISP3 high/centroacinar like",5
+"1873","Cell950","Ductal - APOL high/hypoxic",4
+"1874","Cell951","Ductal - CRISP3 high/centroacinar like",5
+"1875","Cell952","Ductal - terminal ductal like",7
+"1876","Cell953","Cancer clone B",3
+"1877","Cell954","Ductal - APOL high/hypoxic",4
+"1878","Cell955","Ductal - CRISP3 high/centroacinar like",5
+"1879","Cell956","Ductal - CRISP3 high/centroacinar like",5
+"1880","Cell957","Ductal - CRISP3 high/centroacinar like",5
+"1881","Cell958","Ductal - CRISP3 high/centroacinar like",5
+"1882","Cell959","T cells & NK cells",19
+"1883","Cell96","Endocrine cells",8
+"1884","Cell960","Ductal - MHC Class II",6
+"1885","Cell961","Macrophages A",11
+"1886","Cell962","Ductal - APOL high/hypoxic",4
+"1887","Cell963","Ductal - terminal ductal like",7
+"1888","Cell964","Ductal - CRISP3 high/centroacinar like",5
+"1889","Cell965","Ductal - terminal ductal like",7
+"1890","Cell966","Ductal - terminal ductal like",7
+"1891","Cell967","Macrophages A",11
+"1892","Cell968","Ductal - MHC Class II",6
+"1893","Cell969","Ductal - APOL high/hypoxic",4
+"1894","Cell97","Endothelial cells",9
+"1895","Cell970","Cancer clone B",3
+"1896","Cell971","mDCs B",15
+"1897","Cell972","Ductal - MHC Class II",6
+"1898","Cell973","Fibroblasts",10
+"1899","Cell974","Ductal - APOL high/hypoxic",4
+"1900","Cell975","Ductal - MHC Class II",6
+"1901","Cell976","Ductal - terminal ductal like",7
+"1902","Cell977","Cancer clone B",3
+"1903","Cell978","Ductal - APOL high/hypoxic",4
+"1904","Cell979","mDCs B",15
+"1905","Cell98","Ductal - terminal ductal like",7
+"1906","Cell980","Ductal - MHC Class II",6
+"1907","Cell981","Ductal - APOL high/hypoxic",4
+"1908","Cell982","Ductal - terminal ductal like",7
+"1909","Cell983","Ductal - APOL high/hypoxic",4
+"1910","Cell984","Cancer clone B",3
+"1911","Cell985","Ductal - MHC Class II",6
+"1912","Cell986","Cancer clone A",2
+"1913","Cell987","Ductal - CRISP3 high/centroacinar like",5
+"1914","Cell988","Ductal - CRISP3 high/centroacinar like",5
+"1915","Cell989","Ductal - CRISP3 high/centroacinar like",5
+"1916","Cell99","Ductal - terminal ductal like",7
+"1917","Cell990","Ductal - terminal ductal like",7
+"1918","Cell991","Ductal - terminal ductal like",7
+"1919","Cell992","Ductal - CRISP3 high/centroacinar like",5
+"1920","Cell993","Ductal - terminal ductal like",7
+"1921","Cell994","Ductal - terminal ductal like",7
+"1922","Cell995","Ductal - MHC Class II",6
+"1923","Cell996","Ductal - MHC Class II",6
+"1924","Cell997","Ductal - CRISP3 high/centroacinar like",5
+"1925","Cell998","Ductal - CRISP3 high/centroacinar like",5
+"1926","Cell999","Tuft cells",20

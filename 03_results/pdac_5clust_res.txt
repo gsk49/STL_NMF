@@ -1,0 +1,34 @@
+Noisy
+
+Param: deep_nmfs.0.l_1
+Val: Parameter containing:
+tensor([2.5846], device='mps:0', requires_grad=True)
+Param: deep_nmfs.0.l_2
+Val: Parameter containing:
+tensor([2.0582], device='mps:0', requires_grad=True)
+Param: deep_nmfs.0.s_1
+Val: Parameter containing:
+tensor([0.1930], device='mps:0', requires_grad=True)
+Param: deep_nmfs.0.s_2
+Val: Parameter containing:
+tensor([0.1550], device='mps:0', requires_grad=True)
+Abs Loss: 0.3354531417558478
+Rel Loss: 0.020890591929359784
+
+No Noise 
+
+Param: deep_nmfs.0.l_1
+Val: Parameter containing:
+tensor([2.4861], device='mps:0', requires_grad=True)
+Param: deep_nmfs.0.l_2
+Val: Parameter containing:
+tensor([2.1172], device='mps:0', requires_grad=True)
+Param: deep_nmfs.0.s_1
+Val: Parameter containing:
+tensor([0.1063], device='mps:0', requires_grad=True)
+Param: deep_nmfs.0.s_2
+Val: Parameter containing:
+tensor([0.0718], device='mps:0', requires_grad=True)
+
+Abs Loss: 0.26083251572510396
+Rel Loss: 0.01630668144604318

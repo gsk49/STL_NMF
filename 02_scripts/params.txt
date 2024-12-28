@@ -1,0 +1,7 @@
+lambda1 = nn.Parameter(torch.ones(1)*32, requires_grad=True)
+lambda2 = nn.Parameter(torch.ones(1)*18, requires_grad=True)
+
+sigma1 = nn.Parameter(torch.ones(1)*22, requires_grad=True)
+sigma2 = nn.Parameter(torch.ones(1)*8, requires_grad=True)
+
+Res: Abs~11-14, Rel~1.3
