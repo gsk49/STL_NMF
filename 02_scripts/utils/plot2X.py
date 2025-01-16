@@ -6,17 +6,17 @@ import numpy as np
 import torch
 
 # stlnmfV = np.array(pd.read_csv("DEEPNMF_real3.csv", sep=",", header=None))[1:3, :]
-stlnmfV = np.array(pd.read_csv("V_group_sparsity.csv", sep=",", header=None))[1:3,:]
+stlnmfV = np.array(pd.read_csv("zzz_outputs/V_group_sparsity.csv", sep=",", header=None))[1:3,:]
 threshold = 1e-3  # Define the threshold value
 stlnmfV[stlnmfV < threshold] = 0
-stlnmfV /= sum(stlnmfV)
+stlnmfV /= sum(stlnmfV)+np.ones(len(stlnmfV.T))*.00001
 cardV = np.array(pd.read_csv("./CARD/card_real_3.csv", sep=",", header=0))[:,1:3].T
 stereoV = np.array(pd.read_csv("stereoscope/pdac_a_stereo/03_X_real/XT_real/W.2024-08-21175235.111338.tsv", sep="\t", header=0, index_col=0))[:,1:3].T
-stereoV /= sum(stereoV)
+stereoV /= sum(stereoV)+np.ones(len(stereoV.T))*.00001
 realV = pd.read_csv("./01_real_data/pdac_a.tsv", sep="\t", header=0)
 realV.set_index("Genes", inplace=True)
 realV = np.array([realV.loc["TM4SF1"], realV.loc["S100A4"]], dtype=float)
-realV /= np.max(np.max(realV))
+realV /= sum(realV) + np.ones(len(realV.T))*.00001
 print(realV)
 
 threshold = 1e-5  # Define the threshold value
@@ -31,17 +31,17 @@ loss_stereoV = torch.tensor(np.array(stereoV), dtype=torch.float32)
 loss_realV = torch.tensor(np.array(realV), dtype=torch.float32)
 
 
-# print("CARD:")
-# print(torch.norm(loss_cardV - loss_realV).item())
-# print((torch.norm(loss_cardV - loss_realV)/torch.norm(loss_realV)).item())
+print("CARD:")
+print(torch.norm(loss_cardV - loss_realV).item())
+print((torch.norm(loss_cardV - loss_realV)/torch.norm(loss_realV)).item())
 
-# print("STL NMF:")
-# print(torch.norm(loss_stlnmfV - loss_realV).item())
-# print((torch.norm(loss_stlnmfV - loss_realV)/torch.norm(loss_realV)).item())
+print("STL NMF:")
+print(torch.norm(loss_stlnmfV - loss_realV).item())
+print((torch.norm(loss_stlnmfV - loss_realV)/torch.norm(loss_realV)).item())
 
-# print("stereo:")
-# print(torch.norm(loss_stereoV - loss_realV).item())
-# print((torch.norm(loss_stereoV - loss_realV)/torch.norm(loss_realV)).item())
+print("stereo:")
+print(torch.norm(loss_stereoV - loss_realV).item())
+print((torch.norm(loss_stereoV - loss_realV)/torch.norm(loss_realV)).item())
 
 locs = np.array(pd.read_csv("./01_real_data/locs.csv", sep=",", header=None))
 
@@ -161,11 +161,11 @@ im_ct2s = ax2.pcolormesh(stlnmf_ct3, cmap=custom_cmap)
 im_ct1r = ax4.pcolormesh(card_ct2, cmap=custom_cmap)
 im_ct2r = ax5.pcolormesh(card_ct3, cmap=custom_cmap)
 
-im_ct1real = ax7.pcolormesh(real_ct2, cmap=custom_cmap, norm=LogNorm(vmin=1*np.exp(-10), vmax=1))
-im_ct2real = ax8.pcolormesh(real_ct3, cmap=custom_cmap, norm=LogNorm(vmin=1*np.exp(-10), vmax=1))
+im_ct1real = ax7.pcolormesh(real_ct2, cmap=custom_cmap)
+im_ct2real = ax8.pcolormesh(real_ct3, cmap=custom_cmap)
 
-im_ct1stereo = ax10.pcolormesh(stereo_ct2, cmap=custom_cmap, norm=LogNorm(vmin=1*np.exp(-10), vmax=1))
-im_ct2stereo = ax11.pcolormesh(stereo_ct3, cmap=custom_cmap, norm=LogNorm(vmin=1*np.exp(-10), vmax=1))
+im_ct1stereo = ax10.pcolormesh(stereo_ct2, cmap=custom_cmap)
+im_ct2stereo = ax11.pcolormesh(stereo_ct3, cmap=custom_cmap)
 
 ax8.set_ylabel("Cell Type 3: Cancer Clone B", weight="bold")
 ax7.set_ylabel("Cell Type 2: Cancer Clone A", weight="bold")

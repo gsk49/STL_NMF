@@ -29,8 +29,8 @@ class SuperLayer(nn.Module):
         
 
 
-    def forward(self, X, V, W1, W2, W3, W4):
-        stack = torch.stack([W1, W2, W3, W4]).to(device=device)
+    def forward(self, X, V, W1, W2, W3):
+        stack = torch.stack([W1, W2, W3]).to(device=device)
         W = stack[torch.argmax(self.I.T, dim=1)].squeeze().to(device=device)
 
         V = V.to(dtype=torch.float32, device=device)
@@ -92,7 +92,6 @@ class SuperNet(nn.Module):
         self.W_1 = nn.Parameter(torch.ones((1, B.shape[1]), device=device)*20, requires_grad=True)
         self.W_2 = nn.Parameter(torch.ones((1, B.shape[1]), device=device)*8, requires_grad=True)
         self.W_3 = nn.Parameter(torch.ones((1, B.shape[1]), device=device)*.5, requires_grad=True)
-        self.W_4 = nn.Parameter(torch.ones((1, B.shape[1]), device=device)*.5, requires_grad=True)
 
 
 
@@ -117,7 +116,7 @@ class SuperNet(nn.Module):
                 for param in l.parameters():
                     param.requires_grad = False
             # v,l1,l2,s1,s2 = l(x, v, i)  # Updated V is passed to each layer
-            v, d, a, j, jm, w = l(x, v, self.W_1.abs() / self.W_1.abs().sum(), self.W_2.abs() / self.W_2.abs().sum(), self.W_3.abs() / self.W_3.abs().sum(), self.W_4.abs() / self.W_4.abs().sum())  # Updated V is passed to each layer
+            v, d, a, j, jm, w = l(x, v, self.W_1.abs() / self.W_1.abs().sum(), self.W_2.abs() / self.W_2.abs().sum(), self.W_3.abs() / self.W_3.abs().sum())  # Updated V is passed to each layer
         # print(1*torch.norm(x-torch.matmul(self.B,v), p="fro")**2)
         # print(self.l1*torch.trace(torch.matmul(torch.matmul(v,(d-a)), v.T)))
         # print(self.l2*torch.norm(torch.matmul(v.T,j)-jm, p="fro")**2)

@@ -6,10 +6,10 @@ import numpy as np
 import torch
 
 # stlnmfV = np.array(pd.read_csv("DEEPNMF_5c_v0_0.csv", sep=",", header=None))
-cardV = np.array(pd.read_csv("./CARD/noiseless_5_v/card_x0_0_0_sim.csv", sep=",", header=0)).T
-stlnmf = np.array(pd.read_csv("./DEEPNMF_x0_0_clean5.csv", sep=",", header=None))
-realV = np.array(pd.read_csv("./00_synthetic/00_PDAC_A/00_No_X_Noise/05_clust/02_v/v/v0_0.csv", sep=" ", header=None))
-stereoV = np.array(pd.read_csv("stereoscope/pdac_a_stereo/00_No_X_Noise/5ct/x0_0_0_sim/W.2024-11-21131431.846613.tsv", sep="\t", header=0, index_col=0))
+cardV = np.array(pd.read_csv("./CARD/noisy_5_v/card_x0_0_0_sim.csv", sep=",", header=0)).T
+stlnmf = np.array(pd.read_csv("./zzz_outputs/DEEPNMF_x0_0_noisy5.csv", sep=",", header=None))
+realV = np.array(pd.read_csv("./00_synthetic/00_PDAC_A/01_X_Noise/05_clust/02_v/v/v0_0.csv", sep=" ", header=None))
+stereoV = np.array(pd.read_csv("stereoscope/pdac_a_stereo/01_X_Noise/5ct/x0_0_0_sim/W.2024-11-20200526.342252.tsv", sep="\t", header=0, index_col=0))
 stereoV = np.c_[stereoV[:,0],stereoV[:,1],stereoV[:,7],stereoV[:,9],stereoV[:,6]].T
 # stereoV = np.array([stereoV[:,0],stereoV[:,1],stereoV[:,7],stereoV[:,9],stereoV[:,6]])
 stereoV /= sum(stereoV)
@@ -156,14 +156,14 @@ ax10.set_xlabel("CARD", weight="bold")
 ax20.set_xlabel("Stereoscope", weight="bold")
 ax5.set_xlabel("STL NMF", weight="bold")
 
-ax11.set_title(label="Five Clusters, Clean X",
+ax11.set_title(label="Five Clusters, Noisy X",
           loc="left",
           fontstyle='italic', fontsize=15, weight="bold")
 
 fig.colorbar(im_ct1s, ax=[ax1, ax2, ax3, ax4, ax5], orientation='vertical', fraction=0.3, pad=0.04)
 fig.get_layout_engine().set(w_pad=.1, h_pad=.1)
 
-fig.savefig("v_clean5_lognorm.png")
+fig.savefig("v_noisy5_lognorm.png")
 
 
 
@@ -234,7 +234,7 @@ ax10.set_xlabel("CARD", weight="bold")
 ax20.set_xlabel("Stereoscope", weight="bold")
 ax5.set_xlabel("STL NMF", weight="bold")
 
-ax11.set_title(label="Five Clusters, Clean X",
+ax11.set_title(label="Five Clusters, Noisy X",
           loc="left",
           fontstyle='italic', fontsize=15, weight="bold")
 
@@ -242,7 +242,7 @@ fig.colorbar(im_ct1s, ax=[ax1, ax2, ax3, ax4, ax5], orientation='vertical', frac
 fig.get_layout_engine().set(w_pad=.1, h_pad=.1)
 
 
-fig.savefig("v_clean5.png")
+fig.savefig("v_noisy5.png")
 
 # fig = plt.figure(figsize=(7,17))
 # ax1 = plt.subplot(5,2,1)

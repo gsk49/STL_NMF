@@ -211,7 +211,7 @@ def train():
             for name, param in model.named_parameters():
                 print(f'Param: {name}')
                 print(f"Val: {param}")
-            torch.save(model.state_dict(), "model_ruitao.pth")
+            torch.save(model.state_dict(), "model_synth.pth")
 
             color_map = {0: 'C0', 1: 'C1', 2: 'C2'}
             colors = [color_map[label] for label in types]

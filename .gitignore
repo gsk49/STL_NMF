@@ -2,5 +2,6 @@
 03_results/clean
 03_results/noisy
 CARD/
-spaDecon/spaDecon_env
+spaDecon/
 stereoscope/stereo_env
+00_synthetic
