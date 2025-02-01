@@ -9,7 +9,7 @@ genes = B.index
 V = np.array(V).T
 B = np.array(B)
 
-XT = np.matmul(B, V).T
-XT = pd.DataFrame(XT, index=locs, columns=genes)
+X = np.matmul(B, V)
+X = pd.DataFrame(X, index=genes, columns=locs)
 
-XT.to_csv('00_synthetic/ruitao/square_2x2/XT.tsv', sep='\t')
+X.to_csv('00_synthetic/ruitao/square_2x2/X.tsv', sep='\t')

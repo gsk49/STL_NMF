@@ -11,6 +11,7 @@ threshold = 1e-3  # Define the threshold value
 stlnmfV[stlnmfV < threshold] = 0
 stlnmfV /= sum(stlnmfV)+np.ones(len(stlnmfV.T))*.00001
 cardV = np.array(pd.read_csv("./CARD/card_real_3.csv", sep=",", header=0))[:,1:3].T
+cardV /= sum(cardV)+np.ones(len(cardV.T))*.00001
 stereoV = np.array(pd.read_csv("stereoscope/pdac_a_stereo/03_X_real/XT_real/W.2024-08-21175235.111338.tsv", sep="\t", header=0, index_col=0))[:,1:3].T
 stereoV /= sum(stereoV)+np.ones(len(stereoV.T))*.00001
 realV = pd.read_csv("./01_real_data/pdac_a.tsv", sep="\t", header=0)
