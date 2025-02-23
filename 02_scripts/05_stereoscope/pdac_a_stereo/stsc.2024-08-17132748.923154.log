@@ -1,6 +1,0 @@
-[2024-08-17 13:27:48,923 - stsc - INFO ] >> Using device cpu
-[2024-08-17 13:27:48,923 - stsc - INFO ] >> fitting sc data | count file : ../S_T.tsv | labels file : ../sc_ann.tsv
-[2024-08-17 13:27:50,744 - stsc - INFO ] >> SC data GENES : 5000  SC data CELLS : 1926  SC data TYPES : 20 
-[2024-08-17 14:29:04,660 - stsc - INFO ] >> fit st data section(s) : ['../00_synthetic/00_PDAC_A/00_No_X_Noise/03_clust/03_x_tsv/x0_0_0_sim.tsv']
-[2024-08-17 14:29:05,163 - stsc - INFO ] >> ST data GENES : 5000  ST data SPOTS : 316 
-[2024-08-17 14:34:34,466 - stsc - INFO ] >> saving proportions for section x0_0_0_sim to pdac_a_stereo/x0_0_0_sim/W.2024-08-17132748.923154.tsv

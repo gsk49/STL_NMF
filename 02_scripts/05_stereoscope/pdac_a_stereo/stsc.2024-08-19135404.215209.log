@@ -1,7 +1,0 @@
-[2024-08-19 13:54:04,215 - stsc - INFO ] >> Using device cpu
-[2024-08-19 13:54:04,215 - stsc - INFO ] >> load sc parameter | rates (R) : ../stereoscope/pdac_a_stereo/R.2024-08-17132748.923154.tsv | logodds (logits) : ../stereoscope/pdac_a_stereo/logits.2024-08-17132748.923154.tsv
-[2024-08-19 13:54:04,234 - stsc - INFO ] >> fit st data section(s) : ['../00_synthetic/00_PDAC_A/00_No_X_Noise/03_clust/03_x_tsv/x0_0_0_sim.tsv', '../00_synthetic/00_PDAC_A/00_No_X_Noise/03_clust/03_x_tsv/x0_1_0_sim.tsv', '../00_synthetic/00_PDAC_A/00_No_X_Noise/03_clust/03_x_tsv/x0_2_0_sim.tsv']
-[2024-08-19 13:54:05,918 - stsc - INFO ] >> ST data GENES : 10431  ST data SPOTS : 948 
-[2024-08-19 14:07:57,458 - stsc - INFO ] >> saving proportions for section x0_0_0_sim to pdac_a_stereo/x0_0_0_sim/W.2024-08-19135404.215209.tsv
-[2024-08-19 14:07:57,469 - stsc - INFO ] >> saving proportions for section x0_1_0_sim to pdac_a_stereo/x0_1_0_sim/W.2024-08-19135404.215209.tsv
-[2024-08-19 14:07:57,477 - stsc - INFO ] >> saving proportions for section x0_2_0_sim to pdac_a_stereo/x0_2_0_sim/W.2024-08-19135404.215209.tsv

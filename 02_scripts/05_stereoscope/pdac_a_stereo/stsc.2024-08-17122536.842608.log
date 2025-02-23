@@ -1,3 +1,0 @@
-[2024-08-17 12:25:36,842 - stsc - INFO ] >> Using device cpu
-[2024-08-17 12:25:36,843 - stsc - INFO ] >> fitting sc data | count file : ./S_T.tsv | labels file : ./sc_ann.tsv
-[2024-08-17 12:25:36,843 - stsc - ERROR ] >> One or more of the specified paths to the sc data does not exist

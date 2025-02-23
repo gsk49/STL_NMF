@@ -1,5 +1,0 @@
-[2024-08-21 14:43:32,757 - stsc - INFO ] >> Using device cpu
-[2024-08-21 14:43:32,757 - stsc - INFO ] >> fitting sc data | count file : ../S_T.tsv | labels file : ../sc_ann.tsv
-[2024-08-21 14:43:34,612 - stsc - INFO ] >> SC data GENES : 10000  SC data CELLS : 1926  SC data TYPES : 20 
-[2024-08-21 17:07:46,722 - stsc - INFO ] >> fit st data section(s) : ['../X_real.tsv']
-[2024-08-21 17:07:46,866 - stsc - INFO ] >> ST data GENES : 316  ST data SPOTS : 10431 
