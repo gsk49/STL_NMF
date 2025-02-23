@@ -1,0 +1,36 @@
+preprocess/breast_cancer/generate_sep.sh
+stsc/*.txt
+stsc/*.sh
+*.bak
+visual/map2he/imgs/
+STereoSCope.egg-info/
+build/
+dist/
+/DWLS/
+/deconvSeq/
+comparison/old
+data/comp/
+visual/make-marker-gene-matrix.py
+visual/join_images.py
+visual/make_latex_table.py
+visual/make_stats.py
+visual/make_transmat.py
+visual/propviz.py
+res/*/
+!res/.keep
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Ignore datasets
+data/
+*.tsv
+
+# Ignore Python cache and environment directories
+__pycache__/
+*.pyc
+stereo_env/
+
+# Ignore pip script
+get-pip.py
+

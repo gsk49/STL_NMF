@@ -1,0 +1,2 @@
+[2024-08-17 13:11:24,769 - stsc - INFO ] >> Using device cpu
+[2024-08-17 13:11:24,769 - stsc - INFO ] >> fitting sc data | count file : ../S_T.tsv | labels file : ../sc_ann.tsv

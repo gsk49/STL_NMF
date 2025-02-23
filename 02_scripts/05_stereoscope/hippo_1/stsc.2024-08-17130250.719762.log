@@ -1,0 +1,4 @@
+[2024-08-17 13:02:50,720 - stsc - INFO ] >> Using device cpu
+[2024-08-17 13:02:50,720 - stsc - INFO ] >> fitting sc data | count file : ./data/20191008080455248897.cnt_data.tsv | labels file : ../stereoscope/data/20191008080455248897.mta_data.tsv
+[2024-08-17 13:04:16,918 - stsc - INFO ] >> SC data GENES : 5000  SC data CELLS : 8449  SC data TYPES : 56 
+[2024-08-17 13:08:13,846 - stsc - INFO ] >> fit st data section(s) : ['./data/st-hippo1.tsv']
