@@ -1,7 +1,5 @@
-01_real_data/S_OB_6_runs_processed_seurat.dge_filtered_select.csv
-03_results/clean
-03_results/noisy
-CARD/
-spaDecon/
-stereoscope/stereo_env
+01_real_data/02_mob/S_OB_6_runs_processed_seurat.dge_filtered_select.csv
+03_results/
+02_scripts/05_stereoscope/stereo_env/
+02_scripts/08_spaDecon/spaDecon_env/
 00_synthetic/00_PDAC_A
